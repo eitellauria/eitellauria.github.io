@@ -7,21 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<table>
-  <tr>
-    <td> <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Some alt text" style="width: 250px;"/> </td>
-    <td> My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
-    </td>
-  </tr>
-</table>
 
-I am the Director of Graduate Programs, including:
+<div>
+  <img src=""/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 500px; float: right;"/>
+  My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
+  <br>
+  I am the Director of Graduate Programs, including:
 <ul>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">Master of Science in Computer Science/Software Development</a>,</li>
  	<li>the <a href="https://www.marist.edu/computer-science-math/msis">Master of Science in Information Systems</a>,</li>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">Advanced Certificate in Information Systems</a>,</li>
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul>
+</div>
+
+
 
 <h2>Teaching & Research Interests</h2>
 My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.<br>
