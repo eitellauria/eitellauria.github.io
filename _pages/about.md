@@ -136,7 +136,53 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </ul>
 </blockquote></details>
 <details><summary>Miscelanea</summary><blockquote>
-
+<ul type="circle">
+ 	<li>
+<a href="https://www.newsweek.com/unbelievers-quest-170478">Unbeliever's Quest</a>
+</li>
+ 	<li>
+<a href="https://youtu.be/ipRvjS7q1DI" target="_blank" rel="noopener">Richard Feynman: Can Machines Think?</a>
+</li>
+ 	<li>
+<a href="http://www.bigear.org/vol1no2/sagan.htm" target="_blank" rel="noopener">SETI, by Carl Sagan</a>
+</li>
+ 	<li>
+<a href="http://setiathome.ssl.berkeley.edu/" target="_blank" rel="noopener">SETI<span lang="en-us">@home</span></a>
+</li>
+ 	<li>
+<a href="http://www.skeptic.com/" target="_blank" rel="noopener" name="top">The Skeptics Society</a><a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank" rel="noopener" name="top"></a>
+</li>
+ 	<li>
+<a href="https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine">Staph Retreat (Radio Lab)</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank" rel="noopener" name="top">Pale Blue Dot</a>
+</li>
+ 	<li>
+<span lang="en-us"><a href="http://www.winstonchurchill.org/" target="_blank" rel="noopener">Churchill, person of the century</a></span>
+</li>
+ 	<li>
+<span lang="en-us"><a href="https://escapepod.org/2009/04/10/ep194-exhalation/" target="_blank" rel="noopener">Exhalation (Ted Chiang)</a></span>
+</li>
+ 	<li>
+<a href="https://youtu.be/HrDasvAgEPY" target="_blank" rel="noopener">Serrat:  Si la Muerte Pisa Mi Huerto</a>
+</li>
+ 	<li>
+<a href="http://www.caveofmagic.com/pickcrd2.htm" target="_blank" rel="noopener">A bit of magic</a>
+</li>
+ 	<li>
+<a href="https://electricsheep.org/">Electric Sheep</a>
+</li>
+ 	<li>
+<a href="https://www.distributed.net/Main_Page">Distributed.net</a>
+</li>
+ 	<li>
+<a href="https://www.worldcommunitygrid.org/">World Community Grid</a>
+</li>
+ 	<li>
+<a href="http://www.helenshulman.com/">Helen Shulman's paintings</a>
+</li>
+</ul>
 </blockquote></details>
 <details><summary>A touch of humor</summary><blockquote>
 
