@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="display: flex;">
     <div style="flex: 50%; padding-right: 20px;">
-      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
+      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math)">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY]</a>
   <br>
       I am the Director of Graduate Programs, including:
    <ul>
@@ -21,7 +21,7 @@ redirect_from:
 </ul>
     </div>
     <div style="flex: 50%;">
-        <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
+        <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 50%;"/>
     </div>
 </div>
 
