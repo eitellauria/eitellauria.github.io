@@ -136,7 +136,7 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </ul>
 </blockquote></details>
 <details><summary>Miscelanea</summary><blockquote>
-<ul type="circle">
+<ul>
  	<li>
 <a href="https://www.newsweek.com/unbelievers-quest-170478">Unbeliever's Quest</a>
 </li>
@@ -185,17 +185,147 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </ul>
 </blockquote></details>
 <details><summary>A touch of humor</summary><blockquote>
-
+<ul>
+ 	<li>
+<a href="https://www.smart-jokes.org/two-cows-economics-explained.html" target="_blank" rel="noopener">Two Cows </a>
+</li>
+ 	<li>
+<span lang="en-us"><a href="https://www.smart-jokes.org/god-tenure-university.html" target="_blank" rel="noopener">Why God was never granted tenure</a></span>
+</li>
+ 	<li>
+<a href="https://kubik.org/lighter/yzerok.htm" name="top">The Y zero K problem</a>
+</li>
+ 	<li>
+<a href="http://churchofgoogle.org/" target="_blank" rel="noopener">The Reformed Church of Google</a>
+</li>
+ 	<li>
+<a href="https://www.smart-jokes.org/how-it-projects-really-work.html" target="_blank" rel="noopener">IT projects &amp; tree swings</a>
+</li>
+ 	<li>
+<a href="https://xkcd.com/" target="_blank" rel="noopener">xkcd</a>
+</li>
+</ul>
 </blockquote></details>
 <details><summary>Argentina</summary><blockquote>
-
+<ul>
+ 	<li>
+<a href="https://bcn.gob.ar/uploads/BasesAlberdi.pdf" target="_blank" rel="noopener">Las Bases de Alberdi (in Spanish)</a>
+</li>
+ 	<li>
+<a href="http://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn" target="_blank" rel="noopener">José de San Martín</a>
+</li>
+ 	<li>
+<a href="http://es.wikipedia.org/wiki/Mariano_Moreno" target="_blank" rel="noopener">Mariano Moreno (in Spanish)</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=Aa_N71VXQnM" target="_blank" rel="noopener">Mi Buenos Aires querido  (Gardel)</a>
+</li>
+ 	<li>
+<a href="https://www.nationalgeographic.com/travel/destinations/south-america/argentina/local-guide-buenos-aires/" target="_blank" rel="noopener">A local's guide to Buenos Aires</a>
+</li>
+ 	<li>
+<span style="color: #626262;"><a href="https://www.poetryfoundation.org/poets/jorge-luis-borges">Jorge Luis Borges</a> </span>
+</li>
+ 	<li>
+<span style="color: #626262;"><a href="http://www.youtube.com/watch?v=QCmP4bEJfOg&amp;feature=related">Adios Nonino (Astor Piazzola)</a></span>
+</li>
+ 	<li>
+<a href="http://en.wikipedia.org/wiki/Les_Luthiers" target="_blank" rel="noopener">Les Luthiers </a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=l5fVzdOgBxM" target="_blank" rel="noopener">Añoralgias (Les Luthiers)</a>
+</li>
+ 	<li>
+<a href="http://www.mongabay.com/ice_01.htm" target="_blank" rel="noopener">The Perito Moreno Glacier</a>
+</li>
+ 	<li>
+<a href="https://travel.usnews.com/Argentine_Patagonia/" target="_blank" rel="noopener">Patagonia Argentina</a>
+</li>
+ 	<li>
+<a href="https://www.iesabroad.org/study-abroad/blogs/mho10caseedu/iguazu-falls-why-another-waterfall-will-never-impress-me-again?gclid=CjwKCAjwgviIBhBkEiwA10D2j3XbeFza-qCuvOYqhAMv9q0XChsyJIxoTyqOsDLVEVm5ODMs3oixyBoCqikQAvD_BwE#sthash.tZolsZBS.dpbs" target="_blank" rel="noopener">Iguazu Falls</a>
+</li>
+ 	<li>
+<a href="https://vamospanish.com/discover/yerba-mate-ultimate-guide/" target="_blank" rel="noopener">El  Mate</a>
+</li>
+ 	<li>
+<a href="https://blog.winesofargentina.com/" target="_blank" rel="noopener">Wines of Argentina</a>
+</li>
+ 	<li>
+<a href="http://www.luigibosca.com.ar/" target="_blank" rel="noopener">Luigi Bosca (great wine!)</a>
+</li>
+ 	<li><a href="https://youtu.be/PSSO43wRlWM">Qatar 2022 - Champions!</a></li>
+</ul>
 </blockquote></details>
 <details><summary>Sports</summary><blockquote>
-
+<ul>
+ 	<li>
+<a href="http://www.clubsanalbano.com/">Club San Albano</a>
+</li>
+ 	<li>
+<a href="https://lapaginamillonaria.com/">River Plate </a>
+</li>
+ 	<li>
+<a href="https://www.fcbarcelona.com/en/">Barcelona FC</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=4vashrNoXTE" target="_blank" rel="noopener">Maradona: Live is Life</a>
+</li>
+ 	<li>
+<a href="https://youtu.be/4u6935V-wzk">Where is Messi ?</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=RM0ql8360J4" target="_blank" rel="noopener">Messi- Impossible Talent</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=AJUhzQEPCvE" target="_blank" rel="noopener">Manu Ginobili</a>
+</li>
+ 	<li>
+<span style="color: #626262;"><a href="https://youtu.be/PbNIfxcuGWU" target="_blank" rel="noopener">Best goal <u>EVER</u> </a></span>
+</li>
+ 	<li>
+<a href="https://youtu.be/cAehMNYw0ig" target="_blank" rel="noopener">Messi copycatting Maradona</a>
+</li>
+ 	<li>
+<a href="http://www.clubsanalbano.com/" target="_blank" rel="noopener">Club San Albano</a>
+</li>
+ 	<li>
+<a href="http://www.uar.com.ar/" target="_blank" rel="noopener">Argentine Rugby Union (UAR)</a>
+</li>
+ 	<li>
+<a href="http://www.youtube.com/watch?v=ogXWpBG-NjI" target="_blank" rel="noopener">Los Pumas - Tribute</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=tdMCAV6Yd0Y" target="_blank" rel="noopener">All Blacks' Haka </a>
+</li>
+ 	<li>
+<a href="https://www.planetrugby.com/" target="_blank" rel="noopener">Planet Rugby</a>
+</li>
+ 	<li>
+<a href="http://www.rugbytime.com/" target="_blank" rel="noopener">Rugby Time</a>
+</li>
+ 	<li>
+<a href="http://www.mikeball.com/" target="_blank" rel="noopener"><span lang="es-ar">Mike Ball </span>(Aussie Diving)</a>
+</li>
+ 	<li>
+<a href="http://www.seadivers.com.br/" target="_blank" rel="noopener">Sea Divers (SC, Brazil)</a>
+</li>
+ 	<li>
+<a href="http://www.stuartcove.com/" target="_blank" rel="noopener">Stuart Cove's Shark Diving</a>
+</li>
+ 	<li>
+<a href="http://www.diveparadise.com/" target="_blank" rel="noopener">Dive Paradise (Cozumel)</a>
+</li>
+ 	<li>
+<a href="https://psaworldtour.com/" target="_blank" rel="noopener">Professional Squash Association</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/user/psasquashtv">PSA SquashTV</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/watch?v=sSvzNWQQl90" target="_blank" rel="noopener">White vs Gaultier</a>
+</li>
+ 	<li>
+<a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" rel="noopener">My SCUBA diving video clips</a>
+</li>
+</ul>
 </blockquote></details>
-
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
