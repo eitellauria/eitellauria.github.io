@@ -36,22 +36,22 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <details><summary>My Education</summary><blockquote>
   <ul>
  	<li>
-    <p class="TextoGeneral"><a href="https://www.albany.edu/cehc/programs/phd-information-science">Inf. Science UAlbany</a></p>
+    <a href="https://www.albany.edu/cehc/programs/phd-information-science">Inf. Science UAlbany</a>
   </li>
  	<li>
-    <p class="TextoGeneral"><a href="https://omega0.xyz/omega8008/">Omega UAlbany</a></p>
+    <a href="https://omega0.xyz/omega8008/">Omega UAlbany</a>
   </li>
  	<li>
-    <p class="TextoGeneral"><a href="http://www.usal.edu.ar/">Univ. del Salvador</a></p>
+    <a href="http://www.usal.edu.ar/">Univ. del Salvador</a>
   </li>
  	<li>
-    <p class="TextoGeneral"><a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto">Universidad de Deusto</a></p>
+    <a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto">Universidad de Deusto</a>
   </li>
  	<li>
-    <p class="TextoGeneral"><a href="http://www.fi.uba.ar/">UBA - Engineering</a></p>
+    <a href="http://www.fi.uba.ar/">UBA - Engineering</a>
   </li>
  	<li>
-<p class="TextoGeneral"><a href="https://stalbans.esc.edu.ar/">St. Alban's College</a></p>
+<a href="https://stalbans.esc.edu.ar/">St. Alban's College</a>
 </li>
 </ul>
 </blockquote></details>
@@ -61,76 +61,76 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
  	<li><a href="http://eitellauria.ar/?page_id=2592">Some of my paintings</a></li>
 </ul>
 </blockquote></details>
-<details><summary>Data Science, Machine Learning & Bayesian Stuff</summary><blockquote>
-<ul type="circle">
+<details><summary>My Education</summary><blockquote>
+  <ul>
  	<li>
-<p class="TextoGeneral"><a href="https://www.kaggle.com/" target="_blank" rel="noopener">Kaggle</a></p>
+<a href="https://www.kaggle.com/" target="_blank" rel="noopener">Kaggle</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://ai.google/" target="_blank" rel="noopener">Google AI</a></p>
+<a href="https://ai.google/" target="_blank" rel="noopener">Google AI</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" rel="noopener">Simulating Posterior Pred Intervals</a></p>
+<a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" rel="noopener">Simulating Posterior Pred Intervals</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://foxweb.marist.edu/users/jf4n/LogBivariateLikelihood.htm" target="_blank" rel="noopener">Sampling by Markov Chain Monte Carlo</a></p>
+<a href="https://foxweb.marist.edu/users/jf4n/LogBivariateLikelihood.htm" target="_blank" rel="noopener">Sampling by Markov Chain Monte Carlo</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.51381&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=fals" target="_blank" rel="noopener">Neural net playground</a></p>
+<a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.51381&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=fals" target="_blank" rel="noopener">Neural net playground</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener">Deep Learning Book</a></p>
+<a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener">Deep Learning Book</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.anaconda.com/" target="_blank" rel="noopener">Python Anaconda</a></p>
+<a href="https://www.anaconda.com/" target="_blank" rel="noopener">Python Anaconda</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://towardsdatascience.com/" target="_blank" rel="noopener">Towards Data Science</a></p>
+<a href="https://towardsdatascience.com/" target="_blank" rel="noopener">Towards Data Science</a>
 </li>
  	<li>
-<p class="TextoGeneral"><span lang="en-us"><a href="https://www.datavis.ca/gallery/" target="_blank" rel="noopener">Gallery of Data Visualization</a></span></p>
+<span lang="en-us"><a href="https://www.datavis.ca/gallery/" target="_blank" rel="noopener">Gallery of Data Visualization</a></span>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="http://kdd.ics.uci.edu/" target="_blank" rel="noopener">UCI KDD Archive</a></p>
+<a href="http://kdd.ics.uci.edu/" target="_blank" rel="noopener">UCI KDD Archive</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.tensorflow.org/" target="_blank" rel="noopener">Tensorflow</a></p>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener">Tensorflow</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="http://www.r-project.org/" target="_blank" rel="noopener">R (statistical computing)</a></p>
+<a href="http://www.r-project.org/" target="_blank" rel="noopener">R (statistical computing)</a>
 </li>
  	<li>
-<p class="TextoGeneral"><span lang="en-us"><a href="http://www.mathworks.com/" target="_blank" rel="noopener">MATLAB site</a></span></p>
+<span lang="en-us"><a href="http://www.mathworks.com/" target="_blank" rel="noopener">MATLAB site</a></span>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.ibm.com/products/spss-modeler" target="_blank" rel="noopener">IBM SPSS Modeler</a></p>
+<a href="https://www.ibm.com/products/spss-modeler" target="_blank" rel="noopener">IBM SPSS Modeler</a>
 </li>
  	<li>
-<p class="TextoGeneral"><span lang="en-us"><a href="http://research.microsoft.com/" target="_blank" rel="noopener">Microsoft Research</a></span></p>
+<span lang="en-us"><a href="http://research.microsoft.com/" target="_blank" rel="noopener">Microsoft Research</a></span>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://pytorch.org/" target="_blank" rel="noopener">Pytorch</a></p>
+<a href="https://pytorch.org/" target="_blank" rel="noopener">Pytorch</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.ibm.com/watson/" target="_blank" rel="noopener">IBM Watson</a></p>
+<a href="https://www.ibm.com/watson/" target="_blank" rel="noopener">IBM Watson</a>
 </li>
  	<li>
-<p class="TextoGeneral"><span lang="en-us"><a href="http://www.norsys.com/" target="_blank" rel="noopener">Norsys' Netica</a></span></p>
+<span lang="en-us"><a href="http://www.norsys.com/" target="_blank" rel="noopener">Norsys' Netica</a></span>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://www.kdnuggets.com/" target="_blank" rel="noopener">KDD nuggets</a></p>
+<a href="https://www.kdnuggets.com/" target="_blank" rel="noopener">KDD nuggets</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://keras.io/" target="_blank" rel="noopener">Keras</a></p>
+<a href="https://keras.io/" target="_blank" rel="noopener">Keras</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="http://news.mit.edu/topic/machine-learning" target="_blank" rel="noopener">MIT news - Machine Learning</a></p>
+<a href="http://news.mit.edu/topic/machine-learning" target="_blank" rel="noopener">MIT news - Machine Learning</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="https://machinelearningmastery.com/" target="_blank" rel="noopener">Machine Learning Mastery</a></p>
+<a href="https://machinelearningmastery.com/" target="_blank" rel="noopener">Machine Learning Mastery</a>
 </li>
  	<li>
-<p class="TextoGeneral"><a href="http://work.caltech.edu/telecourse.html" target="_blank" rel="noopener">Learning From data</a> (Yaser Abu-Mostafa)</p>
+<a href="http://work.caltech.edu/telecourse.html" target="_blank" rel="noopener">Learning From data</a> (Yaser Abu-Mostafa)
 </li>
  	<li><a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener">Scikit-Learn</a></li>
 </ul>
