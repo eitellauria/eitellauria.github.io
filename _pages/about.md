@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding-right: 20px;">
+  <div style="flex: 70%; padding-right: 20px;">
      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math)">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY]</a>  <br>
   </div>
-  <div style="flex: 50%;">
+  <div style="flex: 30%;">
     <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
   </div>
 </div>
