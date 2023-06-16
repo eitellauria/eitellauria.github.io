@@ -17,8 +17,8 @@ I am the Director of Graduate Programs, including:
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul>
 <h2>Teaching & Research Interests</h1>
-My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.
-I am the recipient of the [2015 Board of Trustees Distinguished Teaching Award](http://eitellauria.ar?page_id=1869).
+My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.<br>
+I am the recipient of the <a href="http://eitellauria.ar?page_id=1869">2015 Board of Trustees Distinguished Teaching Award</a>.
 
 <h2>Short Biographical Statement</h2>
 I worked in the IT industry for 20+ years, advising on such topics as decision support systems, business analytics, distributed application development and e-business. As a managing partner with <a href="https://www.gldconsultores.com/">GLD Consultores</a>, I worked with a number of organizations across a wide range of industries, including Microsoft, IBM, Exxon, Reuters, Philip Morris, Hewlett Packard, STET France Telecom, Accenture and Ryder.
