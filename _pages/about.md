@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY(https://www.marist.edu/computer-science-math)
+My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
 I am the Director of Graduate Programs, including:
 <ul>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">Master of Science in Computer Science/Software Development</a>,</li>
@@ -16,6 +16,11 @@ I am the Director of Graduate Programs, including:
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">Advanced Certificate in Information Systems</a>,</li>
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul>
+#Teaching & Research Interests
+======
+My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.
+I am the recipient of the [2015 Board of Trustees Distinguished Teaching Award](http://eitellauria.ar?page_id=1869)
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
