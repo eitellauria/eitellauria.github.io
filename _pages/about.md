@@ -21,7 +21,7 @@ redirect_from:
 </ul> 
   </div>
   <div style="flex: 50%;">
-    ![Eitel Lauría]({{ '/images/Yo-2022-06-17-13-33-18.png' | relative_url }}
+    <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
   </div>
 </div>
 
