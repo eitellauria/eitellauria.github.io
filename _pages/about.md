@@ -30,10 +30,10 @@ I live in Delmar, 7 miles south of Albany, NY with my wife Corinne. We have two 
 I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/" target="_blank" rel="noopener">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
 
 <h2>Personal and Cool Stuff</h2>
-<summary>Mi padre y yo</summary><blockquote>
+<details><summary>Mi padre y yo</summary><blockquote>
   <a href="https://foxweb.marist.edu/users/jf4n/el_ingeniero_y_yo.htm">Eitel Lauría by Eitel Lauría</a>
 </blockquote></details>
-<summary>My Education</summary><blockquote>
+<details><summary>My Education</summary><blockquote>
   :smile:
 </blockquote></details>
 
