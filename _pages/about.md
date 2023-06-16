@@ -29,66 +29,15 @@ I live in Delmar, 7 miles south of Albany, NY with my wife Corinne. We have two 
 <h2>My Heritage</h2>
 I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/" target="_blank" rel="noopener">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-</style>
-
-<h2>Accordion</h2>
-
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
+<h2>Personal and Cool Stuff</h2>
+<details open><summary>Hello</summary><blockquote>
+  <details><summary>World - click me to open</summary><blockquote>
+    :smile:
+  </blockquote></details>
+  <details open><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
 
 For more info
 ------
