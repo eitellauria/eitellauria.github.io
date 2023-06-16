@@ -16,10 +16,13 @@ I am the Director of Graduate Programs, including:
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">Advanced Certificate in Information Systems</a>,</li>
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul>
-<h1>Teaching & Research Interests</h1>
-
+<h2>Teaching & Research Interests</h1>
 My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.
-I am the recipient of the [2015 Board of Trustees Distinguished Teaching Award](http://eitellauria.ar?page_id=1869)
+I am the recipient of the [2015 Board of Trustees Distinguished Teaching Award](http://eitellauria.ar?page_id=1869).
+
+<h2>Short Biographical Statement</h2>
+I worked in the IT industry for 20+ years, advising on such topics as decision support systems, business analytics, distributed application development and e-business. As a managing partner with <a href="https://www.gldconsultores.com/">GLD Consultores</a>, I worked with a number of organizations across a wide range of industries, including Microsoft, IBM, Exxon, Reuters, Philip Morris, Hewlett Packard, STET France Telecom, Accenture and Ryder.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
