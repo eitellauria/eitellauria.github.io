@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eitel Lauría's Homepage"
+title                    : "eitellauria.ar"
 title_separator          : "-"
 name                     : &name "Eitel J.M. Lauría"
 description              : &description "Professor at Marist College"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Eitel J.M. Lauría"
   avatar           : "Yo-2022-06-17-13-33-18.png"
-  bio              : "Professor of Data Science & Information Systems"
+  bio              : "School of Computer Science & Mathematics"
   employer         : "Marist College"
-  location         : "Poghkeepsie, NY"
+  location         :
   uri              : "https://www.marist.edu/computer-science-math/faculty/eitel-lauria"
   email            : "EItel.Lauria@marist.edu"
   pubmed           : 
