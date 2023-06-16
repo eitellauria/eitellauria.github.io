@@ -20,9 +20,8 @@ redirect_from:
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul> 
   </div>
-
   <div style="flex: 50%;">
-    ![Alt Text](/images/Yo-2022-06-17-13-33-18.png)
+    ![Eitel Lauría]({{ '/images/Yo-2022-06-17-13-33-18.png' | relative_url }}
   </div>
 </div>
 
