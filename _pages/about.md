@@ -7,8 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<table>
+  <tr>
+    <td> <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Some alt text" style="width: 250px;"/> </td>
+    <td> My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
+    </td>
+  </tr>
+</table>
 
-My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the [School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY](https://www.marist.edu/computer-science-math)
 I am the Director of Graduate Programs, including:
 <ul>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">Master of Science in Computer Science/Software Development</a>,</li>
