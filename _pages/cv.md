@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+ 2003
+<p style="padding-left: 40px;">PhD, Information Science</p>
+<p style="padding-left: 40px;">University at Albany, State University of New York</p>
+1996
+<p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR">Master in Business Administration</span></p>
+<p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR"> </span>Universidad de Deusto (Spain) /<span lang="es-ar"> Universidad del Salvador </span>(<span lang="es-ar">Argentina)</span></p>
+<p align="justify">1983</p>
+<p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Ingeniero Electromecánico Orientación Electricista</span> <span lang="ES-AR">(</span>6-year degree in <span lang="ES-AR">Electrical Engineer</span>ing<span lang="ES-AR">)</span>.</p>
+<p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Universidad de Buenos Aires</span>, Argentina</p>
+Languages
+<p style="padding-left: 40px;">Spanish and English</p>
 
 Work experience
 ======
