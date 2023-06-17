@@ -11,7 +11,7 @@ redirect_from:
 
 <table style="border: none;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none;font-size: 100%;">
 	<ul>
  	<li>My office is Room 3043 of the Hancock Building</li>
  	<li>The phone there is (845) 575 - 3598</li>
@@ -20,12 +20,12 @@ redirect_from:
  	<li>LinkedIn: <a href="https://www.linkedin.com/in/elauria/">elauria</a>, Twitter: <a href="https://twitter.com/eitellauria">@EitelLauria</a></li>
     </ul>
 	</td>
-    <td style="border: none;">
-      <img src="/images/batsignal.png" alt="Contact Me" style="width: 100%;"/>
+    <td style="border: none;font-size: 100%;">
+      <img src="/images/batsignal.png" alt="Contact Me" style="width: 33%%;"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: none;">
+    <td colspan="2" style="border: none;font-size: 100%;">
 	<h2>Office hours during Fall 2023</h2>
 	<ul>
  	<li>Monday 9:30AM – 11:30PM, 2PM – 3PM</li>
