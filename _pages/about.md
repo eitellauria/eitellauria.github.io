@@ -339,4 +339,8 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 
 <h2>Great Quotes</h2>
 <i>“...si los pueblos no se ilustran, si no se vulgarizan sus derechos, si cada hombre no conoce lo que vale, lo que puede y lo que se le debe, nuevas ilusiones sucederán a las antiguas, y después de vacilar algún tiempo entre mil incertidumbres, será tal vez nuestra suerte mudar de tiranos, sin destruir la tiranía.”</i><br>
-<p style="text-align: right;"><span style="color: #999999;"><strong>- Mariano Moreno [ 1778 - 1811 ]</strong></span></p>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- Mariano Moreno [ 1778 - 1811 ]</strong></span></p><br><br>
+
+<i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- Carl Sagan </strong></span><span style="color: #999999;"><strong>[ 1934 - 1996 ]</strong></span></p><br><br>
+
