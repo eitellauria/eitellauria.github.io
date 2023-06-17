@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div style="display: flex;">
-  <div style="flex: 65%; padding-right: 20px;">
-     My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math)">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY.</a>  <br><br>
+  <div style="flex: 55%; padding-right: 20px;">
+     My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY.</a>  <br><br>
      I am the Director of Graduate Programs, including:
    <ul>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">Master of Science in Computer Science/Software Development</a>,</li>
@@ -19,7 +19,7 @@ redirect_from:
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul> 
   </div>
-  <div style="flex: 35%;">
+  <div style="flex: 45%;">
     <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
   </div>
 </div>
@@ -34,7 +34,7 @@ I hold a degree in Electrical Engineering from University of Buenos Aires, Argen
 I live in Delmar, 7 miles south of Albany, NY with my wife Corinne. We have two incredible daughters, Florencia and Maia, and a beautiful grandson, Tomás, born in 2020. I'm a scuba diver, an avid squash player,  a former rugby player, and I have a passion for  <a href="https://lanacionar-prod.video.arc-cdn.net/wp-lanacionar/20230118/63c80461c471e46a750460f7/t_0ee88fb793f44b899f70904b910c67ae_name_LN___ETERNOS_subtitulado_FINAL/file_1280x720-2000-v3_1.mp4">soccer</a>. I am also a really bad skier. And I paint a bit.
 
 <h2>My Heritage</h2>
-I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/" target="_blank" rel="noopener">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
+I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/" target="_blank">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
 
 <h2>Personal and Cool Stuff</h2>
 <details><summary>Mi padre y yo</summary><blockquote>
