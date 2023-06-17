@@ -68,7 +68,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
  	<li><a href="http://eitellauria.ar/?page_id=2592">Some of my paintings</a></li>
 </ul>
 </blockquote></details>
-<details><summary>My Education</summary><blockquote>
+<details><summary>Data Science, AI, ML and Bayesian Stuff</summary><blockquote>
   <ul>
  	<li>
 <a href="https://www.kaggle.com/" target="_blank" >Kaggle</a>
