@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
- 2003
+ <b>2003</b>
 <p style="padding-left: 40px;">PhD, Information Science</p>
 <p style="padding-left: 40px;">University at Albany, State University of New York</p>
 1996
