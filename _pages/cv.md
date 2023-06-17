@@ -110,7 +110,7 @@ Spanish and English <br>
 * See research tab.
 
 <h2>Courses Taught</h2>
-<details><summary>Mi padre y yo</summary><blockquote>
+<details><summary>Marist College</summary><blockquote>
 <strong>2002 - to date</strong>
 <ul>
 <li>Machine Learning</li>
@@ -126,6 +126,42 @@ Spanish and English <br>
 <li>Systems Analysis Methods</li>
 <li>Data Mgmt Systems</li>
 <li>Data Mgmt Lab (Oracle 8i)</li>
+</ul> 
+</blockquote></details>
+<details><summary>University at Albany, SUNY</summary><blockquote>
+<strong>2001 - 2002</strong>
+<ul>
+<li>Information Decision Systems II (DW , OLAP & data mining)</li>
+<li>Database Mgmt Systems</li>
+<li>Data Mining and Predictive Analytics</li>
+<li>Software Development</li>
+<li>Data Communications & Networking</li>
+</ul>
+</blockquote></details>
+<details><summary>Universidad del Salvador, Buenos Aires</summary><blockquote>
+<strong>1986 - 1999</strong>
+<ul>
+<li>Information Technology Mgmt</li>
+<li>Field Project</li>
+<li>Data Structures (Pascal / C)</li>
+<li>Data  Networks</li>
+<li>Data Base Mgmt Systems</li>
+<li>Object Oriented Programming (C++)</li>
+<li>Systems Analysis & Design</li>
+</ul>
+</blockquote></details>
+<details><summary>Universided de Buenos Aires, Facultad de Ingeniería</summary><blockquote>
+<strong>1978 - 1989</strong>
+<ul>
+<li>Programming</li>
+<li>Data Base Mgmt Systems</li>
+</ul>
+</blockquote></details>
+<details><summary>Training Seminars</summary><blockquote>
+<strong>1983 - 2000</strong>
+<ul>
+<li>Multiple seminars  and courses delivered to relevant customers in Argentina, Brazil, Uruguay and Mexico in such topics as database management systems, OLAP, data warehousing, business intelligence,  client/server technology, component-based software development, Internet and ecommerce architectures and application development.</li>
+</ul>
 </blockquote></details>
 
 <h2>Service and Leadership roles</h2>
