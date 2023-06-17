@@ -22,17 +22,10 @@ redirect_from:
 <b>Languages</b>
 <p style="padding-left: 40px;">Spanish and English</p>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<h2>Currently</h2>
+* Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
+* Director of Graduate Programs, School of Computer Science & Mathematics, Marist College
+* Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College
   
 Skills
 ======
