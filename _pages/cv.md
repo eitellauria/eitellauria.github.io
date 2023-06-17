@@ -107,10 +107,24 @@ Spanish and English <br>
 * NSF Grant Proposal reviewer on the subject of learning analytics
 
 <h2>Publications and Talks</h2>
-* See research tab
+* See research tab.
 
 <h2>Courses Taught</h2>
-* See research tab
+<details><summary>Mi padre y yo</summary><blockquote>
+* Machine Learning
+* Artificial Intelligence
+* Data Mining and Predictive Analytics
+* Data & Information Management (DW & Big Data)
+* Global Issues in Technology Management
+* Decision Making Tools for the Technology Manager
+* Decision Support Systems
+* Business Intelligence
+* Database Mgmt Systems  
+* Systems and Information System Concepts in Organizations
+* Systems Analysis Methods
+* Data Mgmt Systems
+* Data Mgmt Lab (Oracle 8i)
+</blockquote></details>
 
 <h2>Service and Leadership roles</h2>
 * Serve as a close advisor and collaborator to the School Dean in matters related to graduate programs, faculty hiring, the data science and artificial intelligence curriculum portfolio, and numerous research initiatives funded through NSF and NYS in the last twenty years, including the creation of the Center for Collaborative & On-Demand Computing (CCODC), the Cloud Computing & Analytics Center (CCAC), and the Enterprise Computing Community/Conference (ECC).
