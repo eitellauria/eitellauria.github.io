@@ -13,9 +13,9 @@ redirect_from:
      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY</a>. <br><br>
      I am the Director of Graduate Programs, including:
    <ul>
- 	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">the</a> Master of Science in Computer Science/Software Development,</li>
- 	<li>the <a href="https://www.marist.edu/computer-science-math/msis">the</a> Master of Science in Information Systems,</li>
- 	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">the</a> Advanced Certificate in Information Systems,</li>
+ 	<li><a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">the</a> Master of Science in Computer Science/Software Development,</li>
+ 	<li><a href="https://www.marist.edu/computer-science-math/msis">the</a> Master of Science in Information Systems,</li>
+ 	<li><a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">the</a> Advanced Certificate in Information Systems,</li>
  	<li>and <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">the</a> Advanced Certificate in Business Analytics.</li>
 </ul> 
   </div>
