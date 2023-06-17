@@ -41,8 +41,19 @@ Spanish and English <br>
 <h3>2003-2008</h3>
 * Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
 
-  <h3>2003-2008<h3>
-* Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
+<h3>2002-2003</h3>h3>
+* Visiting Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
+
+<h3>2002-2003</h3>h3>
+* Visiting Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
+
+<h3>2001-2002</h3>h3>
+* Lecturer, Management Science and Information Systems Dept., School of Business, University at Albany , NY, USA
+* Visiting Lecturer, School of Business Administration, Universidad del Salvador, Argentina
+
+<h3>1986-2000</h3>h3>
+* Managing Partner at GLD Consultores, Argentine software and consulting company specialized in developing and implementing computer-based solutions for the corporate market. GLD is a Microsoft Solution Provider and Consulting Services Partner, and a local value added distributor for several American companies, including Applix (TM1), Quality America, and Financial Technologies.
+** Job description and responsibilities: Planning, organization and management of IT projects. Definition of marketing strategies concerning IT products and services. HR administration, including selection, allocation, supervision and assessment. Customer development, support and follow-up
 
 Publications
 ======
