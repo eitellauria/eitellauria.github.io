@@ -14,7 +14,7 @@ Education
  <b>2003</b>
 <p style="padding-left: 40px;">PhD, Information Science</p>
 <p style="padding-left: 40px;">University at Albany, State University of New York</p>
-1996
+<b>1996</b>
 <p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR">Master in Business Administration</span></p>
 <p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR"> </span>Universidad de Deusto (Spain) /<span lang="es-ar"> Universidad del Salvador </span>(<span lang="es-ar">Argentina)</span></p>
 <p align="justify">1983</p>
