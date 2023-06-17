@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div style="display: flex;">
-  <div style="flex: 55%; padding-right: 20px;">
-     My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY.</a>  <br><br>
+  <div style="flex: 50%; padding-right: 20px;">
+     My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY</a>. <br><br>
      I am the Director of Graduate Programs, including:
    <ul>
  	<li>the <a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">Master of Science in Computer Science/Software Development</a>,</li>
@@ -19,13 +19,13 @@ redirect_from:
  	<li>and the <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">Advanced Certificate in Business Analytics</a>.</li>
 </ul> 
   </div>
-  <div style="flex: 45%;">
+  <div style="flex: 50%;">
     <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
   </div>
 </div>
 
 <h2>Teaching & Research Interests</h2>
-My teaching and research interests cover the fields of  data science, predictive analytics, and machine learning, focusing on the application of these disciplines in a variety of domains, including information technology implementation, network and computer security, health informatics, marketing,  and learning analytics.<br>
+My teaching and research interests cover the fields of  data science, artificial intelligence, machine learning and natural language processing, focusing on the application of these disciplines in a variety of domains, including information technology implementation, learning analytics, health informatics  network and computer security, and marketing.<br><br>
 I am the recipient of the <a href="http://eitellauria.ar?page_id=1869">2015 Board of Trustees Distinguished Teaching Award</a>.
 
 <h2>Short Biographical Statement</h2>
@@ -34,7 +34,7 @@ I hold a degree in Electrical Engineering from University of Buenos Aires, Argen
 I live in Delmar, 7 miles south of Albany, NY with my wife Corinne. We have two incredible daughters, Florencia and Maia, and a beautiful grandson, Tomás, born in 2020. I'm a scuba diver, an avid squash player,  a former rugby player, and I have a passion for  <a href="https://lanacionar-prod.video.arc-cdn.net/wp-lanacionar/20230118/63c80461c471e46a750460f7/t_0ee88fb793f44b899f70904b910c67ae_name_LN___ETERNOS_subtitulado_FINAL/file_1280x720-2000-v3_1.mp4">soccer</a>. I am also a really bad skier. And I paint a bit.
 
 <h2>My Heritage</h2>
-I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/" target="_blank">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
+I was born and raised in Buenos Aires, Argentina, so I  describe myself as an “Argentino” and a “Porteño” -nick name given to those who grew up in the city of Buenos Aires and its surrounding neighborhoods (it originally referred to those immigrants that came through the port of Buenos Aires in the early 20th century). The Argentine genetic mixture is mostly made up of Spanish, Italian and Native American ancestry components, spiced up with flavors of Jewish, British, German, Syrian-Lebanese, African, Armenian, and Eastern European. This ethnical cocktail is what probably makes <a href="https://therealargentina.com/en/argentinian-or-argentinean-decisions-decisions/">Argentineans</a> loud, outgoing, big huggers and kissers, and with little sense of personal space. Argentineans speak with their hands and are great friends of their friends. As divisive and whining as they can be -they quarrel about everything, including politics and soccer, the country’s true religion- they settle matters around food, having lunch or dinner together, that can take forever.
 
 <h2>Personal and Cool Stuff</h2>
 <details><summary>Mi padre y yo</summary><blockquote>
@@ -71,75 +71,82 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <details><summary>My Education</summary><blockquote>
   <ul>
  	<li>
-<a href="https://www.kaggle.com/" target="_blank" rel="noopener">Kaggle</a>
+<a href="https://www.kaggle.com/" target="_blank" >Kaggle</a>
 </li>
  	<li>
-<a href="https://ai.google/" target="_blank" rel="noopener">Google AI</a>
+<a href="https://ai.google/" target="_blank" >Google AI</a>
 </li>
  	<li>
-<a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" rel="noopener">Simulating Posterior Pred Intervals</a>
+<a href="https://openai.com/" target="_blank" >Open AI</a>
+</li>
+
+ 	<li>
+<a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" >Simulating Posterior Pred Intervals</a>
 </li>
  	<li>
-<a href="https://foxweb.marist.edu/users/jf4n/LogBivariateLikelihood.htm" target="_blank" rel="noopener">Sampling by Markov Chain Monte Carlo</a>
+<a href="https://foxweb.marist.edu/users/jf4n/LogBivariateLikelihood.htm" target="_blank" >Sampling by Markov Chain Monte Carlo</a>
 </li>
  	<li>
-<a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.51381&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=fals" target="_blank" rel="noopener">Neural net playground</a>
+<a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.51381&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=fals" target="_blank" >Neural net playground</a>
 </li>
  	<li>
-<a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener">Deep Learning Book</a>
+<a href="https://www.deeplearningbook.org/" target="_blank" >Deep Learning Book</a>
 </li>
  	<li>
-<a href="https://www.anaconda.com/" target="_blank" rel="noopener">Python Anaconda</a>
+<a href="https://www.anaconda.com/" target="_blank" >Python Anaconda</a>
 </li>
  	<li>
-<a href="https://towardsdatascience.com/" target="_blank" rel="noopener">Towards Data Science</a>
+<a href="https://towardsdatascience.com/" target="_blank" >Towards Data Science</a>
 </li>
  	<li>
-<span lang="en-us"><a href="https://www.datavis.ca/gallery/" target="_blank" rel="noopener">Gallery of Data Visualization</a></span>
+<span lang="en-us"><a href="https://www.datavis.ca/gallery/" target="_blank" >Gallery of Data Visualization</a></span>
 </li>
  	<li>
-<a href="http://kdd.ics.uci.edu/" target="_blank" rel="noopener">UCI KDD Archive</a>
+<a href="http://kdd.ics.uci.edu/" target="_blank" >UCI KDD Archive</a>
 </li>
  	<li>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener">Tensorflow</a>
+<a href="https://www.tensorflow.org/" target="_blank" >Tensorflow</a>
 </li>
  	<li>
-<a href="http://www.r-project.org/" target="_blank" rel="noopener">R (statistical computing)</a>
+<a href="http://www.r-project.org/" target="_blank" >R (statistical computing)</a>
 </li>
  	<li>
-<span lang="en-us"><a href="http://www.mathworks.com/" target="_blank" rel="noopener">MATLAB site</a></span>
+<span lang="en-us"><a href="http://www.mathworks.com/" target="_blank" >MATLAB site</a></span>
 </li>
  	<li>
-<a href="https://www.ibm.com/products/spss-modeler" target="_blank" rel="noopener">IBM SPSS Modeler</a>
+<a href="https://www.ibm.com/products/spss-modeler" target="_blank" >IBM SPSS Modeler</a>
 </li>
  	<li>
-<span lang="en-us"><a href="http://research.microsoft.com/" target="_blank" rel="noopener">Microsoft Research</a></span>
+<span lang="en-us"><a href="http://research.microsoft.com/" target="_blank" >Microsoft Research</a></span>
 </li>
  	<li>
-<a href="https://pytorch.org/" target="_blank" rel="noopener">Pytorch</a>
+<a href="https://pytorch.org/" target="_blank" >Pytorch</a>
 </li>
  	<li>
-<a href="https://www.ibm.com/watson/" target="_blank" rel="noopener">IBM Watson</a>
+<a href="https://lightning.ai/pages/open-source/" target="_blank" >(Pytorch) Lightning</a>
 </li>
  	<li>
-<span lang="en-us"><a href="http://www.norsys.com/" target="_blank" rel="noopener">Norsys' Netica</a></span>
+<a href="https://www.ibm.com/watson#watsonxai" target="_blank" >IBM Watsonx</a>
 </li>
  	<li>
-<a href="https://www.kdnuggets.com/" target="_blank" rel="noopener">KDD nuggets</a>
+<span lang="en-us"><a href="http://www.norsys.com/" target="_blank" >Norsys' Netica</a></span>
 </li>
  	<li>
-<a href="https://keras.io/" target="_blank" rel="noopener">Keras</a>
+<a href="https://www.kdnuggets.com/" target="_blank" >KDD nuggets</a>
 </li>
  	<li>
-<a href="http://news.mit.edu/topic/machine-learning" target="_blank" rel="noopener">MIT news - Machine Learning</a>
+<a href="https://keras.io/" target="_blank" >Keras</a>
 </li>
  	<li>
-<a href="https://machinelearningmastery.com/" target="_blank" rel="noopener">Machine Learning Mastery</a>
+<a href="http://news.mit.edu/topic/machine-learning" target="_blank" >MIT news - Machine Learning</a>
 </li>
  	<li>
-<a href="http://work.caltech.edu/telecourse.html" target="_blank" rel="noopener">Learning From data</a> (Yaser Abu-Mostafa)
+<a href="https://machinelearningmastery.com/" target="_blank" >Machine Learning Mastery</a>
 </li>
- 	<li><a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener">Scikit-Learn</a></li>
+ 	<li>
+<a href="http://work.caltech.edu/telecourse.html" target="_blank" >Learning From data</a> (Yaser Abu-Mostafa)
+</li>
+ 	<li><a href="https://scikit-learn.org/stable/" target="_blank" >Scikit-Learn</a></li>
 </ul>
 </blockquote></details>
 <details><summary>Miscelanea</summary><blockquote>
@@ -148,34 +155,34 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <a href="https://www.newsweek.com/unbelievers-quest-170478">Unbeliever's Quest</a>
 </li>
  	<li>
-<a href="https://youtu.be/ipRvjS7q1DI" target="_blank" rel="noopener">Richard Feynman: Can Machines Think?</a>
+<a href="https://youtu.be/ipRvjS7q1DI" target="_blank" >Richard Feynman: Can Machines Think?</a>
 </li>
  	<li>
-<a href="http://www.bigear.org/vol1no2/sagan.htm" target="_blank" rel="noopener">SETI, by Carl Sagan</a>
+<a href="http://www.bigear.org/vol1no2/sagan.htm" target="_blank" >SETI, by Carl Sagan</a>
 </li>
  	<li>
-<a href="http://setiathome.ssl.berkeley.edu/" target="_blank" rel="noopener">SETI<span lang="en-us">@home</span></a>
+<a href="http://setiathome.ssl.berkeley.edu/" target="_blank" >SETI<span lang="en-us">@home</span></a>
 </li>
  	<li>
-<a href="http://www.skeptic.com/" target="_blank" rel="noopener" name="top">The Skeptics Society</a><a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank" rel="noopener" name="top"></a>
+<a href="http://www.skeptic.com/" target="_blank"  name="top">The Skeptics Society</a><a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank"  name="top"></a>
 </li>
  	<li>
 <a href="https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine">Staph Retreat (Radio Lab)</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank" rel="noopener" name="top">Pale Blue Dot</a>
+<a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank"  name="top">Pale Blue Dot</a>
 </li>
  	<li>
-<span lang="en-us"><a href="http://www.winstonchurchill.org/" target="_blank" rel="noopener">Churchill, person of the century</a></span>
+<span lang="en-us"><a href="http://www.winstonchurchill.org/" target="_blank" >Churchill, person of the century</a></span>
 </li>
  	<li>
-<span lang="en-us"><a href="https://escapepod.org/2009/04/10/ep194-exhalation/" target="_blank" rel="noopener">Exhalation (Ted Chiang)</a></span>
+<span lang="en-us"><a href="https://escapepod.org/2009/04/10/ep194-exhalation/" target="_blank" >Exhalation (Ted Chiang)</a></span>
 </li>
  	<li>
-<a href="https://youtu.be/HrDasvAgEPY" target="_blank" rel="noopener">Serrat:  Si la Muerte Pisa Mi Huerto</a>
+<a href="https://youtu.be/HrDasvAgEPY" target="_blank" >Serrat:  Si la Muerte Pisa Mi Huerto</a>
 </li>
  	<li>
-<a href="http://www.caveofmagic.com/pickcrd2.htm" target="_blank" rel="noopener">A bit of magic</a>
+<a href="http://www.caveofmagic.com/pickcrd2.htm" target="_blank" >A bit of magic</a>
 </li>
  	<li>
 <a href="https://electricsheep.org/">Electric Sheep</a>
@@ -194,41 +201,41 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <details><summary>A touch of humor</summary><blockquote>
 <ul>
  	<li>
-<a href="https://www.smart-jokes.org/two-cows-economics-explained.html" target="_blank" rel="noopener">Two Cows </a>
+<a href="https://www.smart-jokes.org/two-cows-economics-explained.html" target="_blank" >Two Cows </a>
 </li>
  	<li>
-<span lang="en-us"><a href="https://www.smart-jokes.org/god-tenure-university.html" target="_blank" rel="noopener">Why God was never granted tenure</a></span>
+<span lang="en-us"><a href="https://www.smart-jokes.org/god-tenure-university.html" target="_blank" >Why God was never granted tenure</a></span>
 </li>
  	<li>
 <a href="https://kubik.org/lighter/yzerok.htm" name="top">The Y zero K problem</a>
 </li>
  	<li>
-<a href="http://churchofgoogle.org/" target="_blank" rel="noopener">The Reformed Church of Google</a>
+<a href="http://churchofgoogle.org/" target="_blank" >The Reformed Church of Google</a>
 </li>
  	<li>
-<a href="https://www.smart-jokes.org/how-it-projects-really-work.html" target="_blank" rel="noopener">IT projects &amp; tree swings</a>
+<a href="https://www.smart-jokes.org/how-it-projects-really-work.html" target="_blank" >IT projects &amp; tree swings</a>
 </li>
  	<li>
-<a href="https://xkcd.com/" target="_blank" rel="noopener">xkcd</a>
+<a href="https://xkcd.com/" target="_blank" >xkcd</a>
 </li>
 </ul>
 </blockquote></details>
 <details><summary>Argentina</summary><blockquote>
 <ul>
  	<li>
-<a href="https://bcn.gob.ar/uploads/BasesAlberdi.pdf" target="_blank" rel="noopener">Las Bases de Alberdi (in Spanish)</a>
+<a href="https://bcn.gob.ar/uploads/BasesAlberdi.pdf" target="_blank" >Las Bases de Alberdi (in Spanish)</a>
 </li>
  	<li>
-<a href="http://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn" target="_blank" rel="noopener">José de San Martín</a>
+<a href="http://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn" target="_blank" >José de San Martín</a>
 </li>
  	<li>
-<a href="http://es.wikipedia.org/wiki/Mariano_Moreno" target="_blank" rel="noopener">Mariano Moreno (in Spanish)</a>
+<a href="http://es.wikipedia.org/wiki/Mariano_Moreno" target="_blank" >Mariano Moreno (in Spanish)</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=Aa_N71VXQnM" target="_blank" rel="noopener">Mi Buenos Aires querido  (Gardel)</a>
+<a href="https://www.youtube.com/watch?v=Aa_N71VXQnM" target="_blank" >Mi Buenos Aires querido  (Gardel)</a>
 </li>
  	<li>
-<a href="https://www.nationalgeographic.com/travel/destinations/south-america/argentina/local-guide-buenos-aires/" target="_blank" rel="noopener">A local's guide to Buenos Aires</a>
+<a href="https://www.nationalgeographic.com/travel/destinations/south-america/argentina/local-guide-buenos-aires/" target="_blank" >A local's guide to Buenos Aires</a>
 </li>
  	<li>
 <span style="color: #626262;"><a href="https://www.poetryfoundation.org/poets/jorge-luis-borges">Jorge Luis Borges</a> </span>
@@ -237,28 +244,28 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <span style="color: #626262;"><a href="http://www.youtube.com/watch?v=QCmP4bEJfOg&amp;feature=related">Adios Nonino (Astor Piazzola)</a></span>
 </li>
  	<li>
-<a href="http://en.wikipedia.org/wiki/Les_Luthiers" target="_blank" rel="noopener">Les Luthiers </a>
+<a href="http://en.wikipedia.org/wiki/Les_Luthiers" target="_blank" >Les Luthiers </a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=l5fVzdOgBxM" target="_blank" rel="noopener">Añoralgias (Les Luthiers)</a>
+<a href="https://www.youtube.com/watch?v=l5fVzdOgBxM" target="_blank" >Añoralgias (Les Luthiers)</a>
 </li>
  	<li>
-<a href="http://www.mongabay.com/ice_01.htm" target="_blank" rel="noopener">The Perito Moreno Glacier</a>
+<a href="http://www.mongabay.com/ice_01.htm" target="_blank" >The Perito Moreno Glacier</a>
 </li>
  	<li>
-<a href="https://travel.usnews.com/Argentine_Patagonia/" target="_blank" rel="noopener">Patagonia Argentina</a>
+<a href="https://travel.usnews.com/Argentine_Patagonia/" target="_blank" >Patagonia Argentina</a>
 </li>
  	<li>
-<a href="https://www.iesabroad.org/study-abroad/blogs/mho10caseedu/iguazu-falls-why-another-waterfall-will-never-impress-me-again?gclid=CjwKCAjwgviIBhBkEiwA10D2j3XbeFza-qCuvOYqhAMv9q0XChsyJIxoTyqOsDLVEVm5ODMs3oixyBoCqikQAvD_BwE#sthash.tZolsZBS.dpbs" target="_blank" rel="noopener">Iguazu Falls</a>
+<a href="https://www.iesabroad.org/study-abroad/blogs/mho10caseedu/iguazu-falls-why-another-waterfall-will-never-impress-me-again?gclid=CjwKCAjwgviIBhBkEiwA10D2j3XbeFza-qCuvOYqhAMv9q0XChsyJIxoTyqOsDLVEVm5ODMs3oixyBoCqikQAvD_BwE#sthash.tZolsZBS.dpbs" target="_blank" >Iguazu Falls</a>
 </li>
  	<li>
-<a href="https://vamospanish.com/discover/yerba-mate-ultimate-guide/" target="_blank" rel="noopener">El  Mate</a>
+<a href="https://vamospanish.com/discover/yerba-mate-ultimate-guide/" target="_blank" >El  Mate</a>
 </li>
  	<li>
-<a href="https://blog.winesofargentina.com/" target="_blank" rel="noopener">Wines of Argentina</a>
+<a href="https://blog.winesofargentina.com/" target="_blank" >Wines of Argentina</a>
 </li>
  	<li>
-<a href="http://www.luigibosca.com.ar/" target="_blank" rel="noopener">Luigi Bosca (great wine!)</a>
+<a href="http://www.luigibosca.com.ar/" target="_blank" >Luigi Bosca (great wine!)</a>
 </li>
  	<li><a href="https://youtu.be/PSSO43wRlWM">Qatar 2022 - Champions!</a></li>
 </ul>
@@ -275,64 +282,64 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <a href="https://www.fcbarcelona.com/en/">Barcelona FC</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=4vashrNoXTE" target="_blank" rel="noopener">Maradona: Live is Life</a>
+<a href="https://www.youtube.com/watch?v=4vashrNoXTE" target="_blank" >Maradona: Live is Life</a>
 </li>
  	<li>
 <a href="https://youtu.be/4u6935V-wzk">Where is Messi ?</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=RM0ql8360J4" target="_blank" rel="noopener">Messi- Impossible Talent</a>
+<a href="https://www.youtube.com/watch?v=RM0ql8360J4" target="_blank" >Messi- Impossible Talent</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=AJUhzQEPCvE" target="_blank" rel="noopener">Manu Ginobili</a>
+<a href="https://www.youtube.com/watch?v=AJUhzQEPCvE" target="_blank" >Manu Ginobili</a>
 </li>
  	<li>
-<span style="color: #626262;"><a href="https://youtu.be/PbNIfxcuGWU" target="_blank" rel="noopener">Best goal <u>EVER</u> </a></span>
+<span style="color: #626262;"><a href="https://youtu.be/PbNIfxcuGWU" target="_blank" >Best goal <u>EVER</u> </a></span>
 </li>
  	<li>
-<a href="https://youtu.be/cAehMNYw0ig" target="_blank" rel="noopener">Messi copycatting Maradona</a>
+<a href="https://youtu.be/cAehMNYw0ig" target="_blank" >Messi copycatting Maradona</a>
 </li>
  	<li>
-<a href="http://www.clubsanalbano.com/" target="_blank" rel="noopener">Club San Albano</a>
+<a href="http://www.clubsanalbano.com/" target="_blank" >Club San Albano</a>
 </li>
  	<li>
-<a href="http://www.uar.com.ar/" target="_blank" rel="noopener">Argentine Rugby Union (UAR)</a>
+<a href="http://www.uar.com.ar/" target="_blank" >Argentine Rugby Union (UAR)</a>
 </li>
  	<li>
-<a href="http://www.youtube.com/watch?v=ogXWpBG-NjI" target="_blank" rel="noopener">Los Pumas - Tribute</a>
+<a href="http://www.youtube.com/watch?v=ogXWpBG-NjI" target="_blank" >Los Pumas - Tribute</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=tdMCAV6Yd0Y" target="_blank" rel="noopener">All Blacks' Haka </a>
+<a href="https://www.youtube.com/watch?v=tdMCAV6Yd0Y" target="_blank" >All Blacks' Haka </a>
 </li>
  	<li>
-<a href="https://www.planetrugby.com/" target="_blank" rel="noopener">Planet Rugby</a>
+<a href="https://www.planetrugby.com/" target="_blank" >Planet Rugby</a>
 </li>
  	<li>
-<a href="http://www.rugbytime.com/" target="_blank" rel="noopener">Rugby Time</a>
+<a href="http://www.rugbytime.com/" target="_blank" >Rugby Time</a>
 </li>
  	<li>
-<a href="http://www.mikeball.com/" target="_blank" rel="noopener"><span lang="es-ar">Mike Ball </span>(Aussie Diving)</a>
+<a href="http://www.mikeball.com/" target="_blank" ><span lang="es-ar">Mike Ball </span>(Aussie Diving)</a>
 </li>
  	<li>
-<a href="http://www.seadivers.com.br/" target="_blank" rel="noopener">Sea Divers (SC, Brazil)</a>
+<a href="http://www.seadivers.com.br/" target="_blank" >Sea Divers (SC, Brazil)</a>
 </li>
  	<li>
-<a href="http://www.stuartcove.com/" target="_blank" rel="noopener">Stuart Cove's Shark Diving</a>
+<a href="http://www.stuartcove.com/" target="_blank" >Stuart Cove's Shark Diving</a>
 </li>
  	<li>
-<a href="http://www.diveparadise.com/" target="_blank" rel="noopener">Dive Paradise (Cozumel)</a>
+<a href="http://www.diveparadise.com/" target="_blank" >Dive Paradise (Cozumel)</a>
 </li>
  	<li>
-<a href="https://psaworldtour.com/" target="_blank" rel="noopener">Professional Squash Association</a>
+<a href="https://psaworldtour.com/" target="_blank" >Professional Squash Association</a>
 </li>
  	<li>
 <a href="https://www.youtube.com/user/psasquashtv">PSA SquashTV</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/watch?v=sSvzNWQQl90" target="_blank" rel="noopener">White vs Gaultier</a>
+<a href="https://www.youtube.com/watch?v=sSvzNWQQl90" target="_blank" >White vs Gaultier</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" rel="noopener">My SCUBA diving video clips</a>
+<a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" >My SCUBA diving video clips</a>
 </li>
 </ul>
 </blockquote></details>
