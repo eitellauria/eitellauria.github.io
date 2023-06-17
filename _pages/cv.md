@@ -12,15 +12,15 @@ redirect_from:
 <h2>Education</h2>
  <b>2003</b> <br>
 PhD, Information Science <br>
-University at Albany, State University of New York<br><br>
-<b>1996</b>
-<p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR">Master in Business Administration</span></p>
-<p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR"> </span>Universidad de Deusto (Spain) /<span lang="es-ar"> Universidad del Salvador </span>(<span lang="es-ar">Argentina)</span></p>
-<b>1983</b>
-<p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Ingeniero Electromecánico Orientación Electricista</span> <span lang="ES-AR">(</span>6-year degree in <span lang="ES-AR">Electrical Engineer</span>ing<span lang="ES-AR">)</span>.</p>
-<p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Universidad de Buenos Aires</span>, Argentina</p>
-<b>Languages</b>
-<p style="padding-left: 40px;">Spanish and English</p>
+University at Albany, State University of New York<br><br><br>
+<b>1996</b><br>
+Master in Business Administration <br>
+Universidad de Deusto (Spain) / Universidad del Salvador (Argentina)<br><br>
+<b>1983</b><br>
+Ingeniero Electromecánico Orientación Electricista (6-year degree in Electrical Engineering <br>
+Universidad de Buenos Aires Argentina <br> <br>
+<b>Languages</b><br>
+Spanish and English <br>
 
 <h2>Currently</h2>
 * Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
