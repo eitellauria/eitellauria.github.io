@@ -22,24 +22,27 @@ Universidad de Buenos Aires Argentina <br>
 <b>Languages</b> <br>
 Spanish and English <br>
 
-<h2>Currently</h2>
+<h2>Work Experience</h2>
+
+<h3>Currently</h3>
 * Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
 * Director of Graduate Programs, School of Computer Science & Mathematics, Marist College
 * Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College
 
-<h2>Currently</h2>
-* Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
+<h3>2015-2021</h3>
+* Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
 * Director of Graduate Programs, School of Computer Science & Mathematics, Marist College
 * Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+<h3>2008-2015</h3>
+* Associate Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
+* Director of Information Systems Graduate Programs, School of Computer Science & Mathematics, Marist College
+
+<h3>2003-2008</h3>
+* Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
+
+  <h3>2003-2008<h3>
+* Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College
 
 Publications
 ======
