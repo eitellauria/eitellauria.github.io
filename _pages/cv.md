@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
- <b>2003</b>
+ <b>2003</b> <br>
 PhD, Information Science <br>
 University at Albany, State University of New York<br><br>
 <b>1996</b>
