@@ -17,10 +17,10 @@ Education
 <b>1996</b>
 <p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR">Master in Business Administration</span></p>
 <p class="TextoGeneral" style="text-align: left; padding-left: 40px;" align="justify"><span lang="ES-AR"> </span>Universidad de Deusto (Spain) /<span lang="es-ar"> Universidad del Salvador </span>(<span lang="es-ar">Argentina)</span></p>
-<p align="justify">1983</p>
+<b>1983</b>
 <p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Ingeniero Electromecánico Orientación Electricista</span> <span lang="ES-AR">(</span>6-year degree in <span lang="ES-AR">Electrical Engineer</span>ing<span lang="ES-AR">)</span>.</p>
 <p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Universidad de Buenos Aires</span>, Argentina</p>
-Languages
+<b>Languages</b>b>
 <p style="padding-left: 40px;">Spanish and English</p>
 
 Work experience
