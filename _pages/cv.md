@@ -23,9 +23,9 @@ redirect_from:
 <p style="padding-left: 40px;">Spanish and English</p>
 
 <h2>Currently</h2>
-*  Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
-*  Director of Graduate Programs, School of Computer Science & Mathematics, Marist College
-*  Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College
+* Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
+* Director of Graduate Programs, School of Computer Science & Mathematics, Marist College
+* Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College
 
 <h2>Currently</h2>
 * Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College
