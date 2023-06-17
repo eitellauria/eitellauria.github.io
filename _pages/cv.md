@@ -106,24 +106,34 @@ Spanish and English <br>
 * Program Committee Member Reviewer of the International Conference on Computer Science and Operations Research, Buenos Aires, Argentina, JAIIO (2003, 2004, 2005)
 * NSF Grant Proposal reviewer on the subject of learning analytics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>Publications and Talks</h2>
+* See research tab
+
+<h2>Courses Taught</h2>
+* See research tab
+
+<h2>Service and Leadership roles</h2>
+* Serve as a close advisor and collaborator to the School Dean in matters related to graduate programs, faculty hiring, the data science and artificial intelligence curriculum portfolio, and numerous research initiatives funded through NSF and NYS in the last twenty years, including the creation of the Center for Collaborative & On-Demand Computing (CCODC), the Cloud Computing & Analytics Center (CCAC), and the Enterprise Computing Community/Conference (ECC).
+* Served as member and Chair of the Academic Affairs Committee
+* Recently served as member and Vice-Chair of the Faculty Affairs Committee
+* Serve (and has served before) as Chair of the Dept’s Faculty Search Committee. Has been instrumental in hiring of several new faculty members in the last year.
+* Most senior member of the faculty in the Dept of Computing Technology:  has served as a member and chair of the peer review committees the provided tenure and promotion recommendations to the Dean and the VPAA’s office of all current tenured and tenure-track faculty in the Dept.
+* Lead Data Scientist of the Learning Analytics Initiative at Marist College, working in close collaboration with the Office of Data Science & Analytics, a division of the IT Dept.
+* Member of the Presidential Search that selected Kevin Weinman as the fifth President of Marist College
+* Co-chair of the 2022- 2023 Strategic Planning Student Success Group, charged with exploring the development of more robust academic and co-curricular support services to enhance satisfaction and success for all student populations.
+
+<h2>Prizes and Awards</h2>
+* ECC 2023: First Place Award for presentation of AutoKevin: a semi-autonomous knowledge discovery system for higher education.
+* Marist College (Faculty Affairs Committee): 2023 Gregory J. Kilgariff Distinguished Service and Leadership AWard
+* ECC 2021: First Place Award for my presentation on applying anomaly detection techniques on early detection of academically at-risk students
+* CSEDU 2020:  Best Paper Award for our paper in prediction of freshmen attrition.
+* Marist College: 2015 Board of Trustees Distinguished Teaching Award. 
+* Marist College:  Office of the Academic Vicepresident's Award for outstanding scholarship achievement, 2005, 2006, 2007,2009 2010
+* Profiled by IBM Academic Initiative in 2012 (Faculty Spotlight) for his use of cloud computing in education.
+* Computeworld: The Open Academic Analytics Initiative (OAAI) at Marist College of which Dr. Lauria is the Analytics Lead and one of the principal researchers, was named a 2013 Computerworld Honors Laureate in the Emerging technology category, by a panel of 22 distinguished judges many of them Computerworld Premier 100 IT Leader Honorees from diverse industries. Our project was selected from more than 700 nominations to become one of 269 Laureates from 29 countries.ntries.
+* Campus Technology Magazine: The OAAI has also received the Campus Technology Magazine 2013 Innovator's Award in the Teaching and Learning category. This is very competitive award: 9 Innovator award winners were selected out of 235 total entries
+* Marist College: 2007-2008 recipient of Faculty Recognition  Award for Distinguished Scholarship.
+* CESSI (Chamber of Information Technology Companies in Argentina):  Sadosky Prize Winner for Best Research Work on Information Technology, 2007.
+  * (see [here](https://es.wikipedia.org/wiki/Premios_Sadosky) )
+
+
