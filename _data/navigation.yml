@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Research"
     url: /research"    
+    
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Vita"
     url: /vita/    
   
   - title: "Contact Me"
     url: /contactme/
-        
-  - title: "Personal & Cool Stuff"
-    url: /year-archive/
-       
+              
   - title: "Guide"
     url: /markdown/
