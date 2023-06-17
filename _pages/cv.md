@@ -20,7 +20,7 @@ Education
 <b>1983</b>
 <p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Ingeniero Electromecánico Orientación Electricista</span> <span lang="ES-AR">(</span>6-year degree in <span lang="ES-AR">Electrical Engineer</span>ing<span lang="ES-AR">)</span>.</p>
 <p class="TextoGeneral" style="padding-left: 40px;"><span lang="ES-AR">Universidad de Buenos Aires</span>, Argentina</p>
-<b>Languages</b>b>
+<b>Languages</b>
 <p style="padding-left: 40px;">Spanish and English</p>
 
 Work experience
