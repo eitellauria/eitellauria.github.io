@@ -79,7 +79,6 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
  	<li>
 <a href="https://openai.com/" target="_blank" >Open AI</a>
 </li>
-
  	<li>
 <a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" >Simulating Posterior Pred Intervals</a>
 </li>
