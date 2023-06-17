@@ -344,3 +344,16 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 <i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i>
 <p style="text-align: right;"><span style="color: #999999;"><strong>- Carl Sagan </strong></span><span style="color: #999999;"><strong>[ 1934 - 1996 ]</strong></span></p>
 
+<i>"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."</i>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- Albert Einstein [ 1879 - 1955 ]</strong></span></p>
+
+<i>"A fanatic is one who can't change his mind and won't change the subject."</i>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- Winston Churchill [ 1874 - 1965 ]</strong></span></p>
+
+<i>"Life is what happens while you are busy </i><i>making other plans."</i>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- John Lennon [ 1940 - 1980 ]</strong></span></p>
+
+<i>"Nunca es triste la verdad, lo que no tiene es remedio."</i>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- Antonio Machado [ 1875 - 1939 ]</strong></span></p>
+<p style="text-align: right;"><span style="color: #999999;"><strong>sung by Joan Manuel Serrat</strong></span></p>
+
