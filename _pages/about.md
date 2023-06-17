@@ -355,5 +355,5 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 
 <i>"Nunca es triste la verdad, lo que no tiene es remedio."</i>
 <p style="text-align: right;"><span style="color: #999999;"><strong>- Antonio Machado [ 1875 - 1939 ]</strong></span></p>
-<p style="text-align: right;"><span style="color: #999999;"><strong>sung by Joan Manuel Serrat</strong></span></p>
+<p style="text-align: right;"><span style="color: #999999;"><strong>- sung by Joan Manuel Serrat</strong></span></p>
 
