@@ -12,7 +12,7 @@ redirect_from:
 <h2>Education</h2>
  <b>2003</b> <br>
 PhD, Information Science <br>
-University at Albany, State University of New York<br><br><br>
+University at Albany, State University of New York<br><br>
 <b>1996</b><br>
 Master in Business Administration <br>
 Universidad de Deusto (Spain) / Universidad del Salvador (Argentina)<br><br>
