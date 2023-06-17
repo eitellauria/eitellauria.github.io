@@ -12,13 +12,13 @@ redirect_from:
 <h2>Education</h2>
  <b>2003</b> <br>
 PhD, Information Science <br>
-University at Albany, State University of New York<br><br>
+University at Albany, State University of New York<br>
 <b>1996</b><br>
 Master in Business Administration <br>
-Universidad de Deusto (Spain) / Universidad del Salvador (Argentina)<br><br>
+Universidad de Deusto (Spain) / Universidad del Salvador (Argentina)<br>
 <b>1983</b><br>
 Ingeniero Electromecánico Orientación Electricista (6-year degree in Electrical Engineering <br>
-Universidad de Buenos Aires Argentina <br> <br>
+Universidad de Buenos Aires Argentina <br>
 <b>Languages</b><br>
 Spanish and English <br>
 
