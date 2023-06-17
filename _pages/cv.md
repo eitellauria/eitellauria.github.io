@@ -111,19 +111,21 @@ Spanish and English <br>
 
 <h2>Courses Taught</h2>
 <details><summary>Mi padre y yo</summary><blockquote>
-* Machine Learning
-* Artificial Intelligence
-* Data Mining and Predictive Analytics
-* Data & Information Management (DW & Big Data)
-* Global Issues in Technology Management
-* Decision Making Tools for the Technology Manager
-* Decision Support Systems
-* Business Intelligence
-* Database Mgmt Systems  
-* Systems and Information System Concepts in Organizations
-* Systems Analysis Methods
-* Data Mgmt Systems
-* Data Mgmt Lab (Oracle 8i)
+<strong>2002 - to date</strong>
+<ul>
+<li>Machine Learning</li>
+<li>Artificial Intel</li>
+<li>Data Mining and Predictive Analytics</li>
+<li>Data &amp; Information Management (DW &amp; Big Data)</li>
+<li>Global Issues in Technology Management</li>
+<li>Decision Making Tools for the Technology Manager</li>
+<li>Decision Support Systems</li>
+<li>Business Intelligence</li>
+<li>Database Mgmt Systems</li>
+<li>Information System Concepts</li>
+<li>Systems Analysis Methods</li>
+<li>Data Mgmt Systems</li>
+<li>Data Mgmt Lab (Oracle 8i)</li>
 </blockquote></details>
 
 <h2>Service and Leadership roles</h2>
