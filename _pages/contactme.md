@@ -21,7 +21,7 @@ redirect_from:
     </ul>
 	</td>
     <td style="border: none;font-size: 100%;">
-      <img src="/images/batsignal.png" alt="Contact Me" style="width: 33%%;"/>
+      <img src="/images/batsignal.png" alt="Contact Me" style="width: 100%;"/>
     </td>
   </tr>
   <tr>
