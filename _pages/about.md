@@ -348,19 +348,19 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 <h2>Great Quotes</h2>
 <i>“...si los pueblos no se ilustran, si no se vulgarizan sus derechos, si cada hombre no conoce lo que vale, lo que puede y lo que se le debe, nuevas ilusiones sucederán a las antiguas, y después de vacilar algún tiempo entre mil incertidumbres, será tal vez nuestra suerte mudar de tiranos, sin destruir la tiranía.”</i><br>
 <span style="color: #999999; text-align: right;">- Mariano Moreno [ 1778 - 1811 ]</span>
-
+<br>
 <i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i><br>
 <span style="color: #999999; text-align: right;">- Carl Sagan [ 1934 - 1996 ]</span>
-
+<br>
 <i>"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."</i><br>
 <span style="color: #999999; text-align: right;">- Albert Einstein [ 1879 - 1955 ]</span>
-
+<br>
 <i>"A fanatic is one who can't change his mind and won't change the subject."</i><br>
 <span style="color: #999999; text-align: right;">- Winston Churchill [ 1874 - 1965 ]</span>
-
+<br>
 <i>"Life is what happens while you are busy making other plans."</i><br>
 <span style="color: #999999; text-align: right;">- John Lennon [ 1940 - 1980 ]</span>
-
+<br>
 <i>"Nunca es triste la verdad, lo que no tiene es remedio."</i><br>
 <span style="color: #999999; text-align: right;">- Antonio Machado [ 1875 - 1939 ]</span><br>
 <span style="color: #999999; text-align: right;">- <a href="https://youtu.be/h8cJDuxoQM0">sung</a> by Joan Manuel Serrat</span>
