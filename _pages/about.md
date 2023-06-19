@@ -7,22 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<div style="display: flex;">
-  <div style="flex: 35%; padding-right: 20px;">
-    My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY</a>. <br><br>
-  </div>
-  <div style="flex: 65%;">
-    <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 100%;"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1;">
+    <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 50%; float: right; max-width: 100%; height: auto; margin: 10px;"/>
+    <p>
+      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the 
+      <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist College, Poughkeepsie, NY</a>.
+    </p>
+    <p>
+      I am the Director of Graduate Programs, including:
+    </p>
+    <ul>
+      <li><a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">the Master of Science in Computer Science/Software Development,</a></li>
+      <li><a href="https://www.marist.edu/computer-science-math/msis">the Master of Science in Information Systems,</a></li>
+      <li><a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">the Advanced Certificate in Information Systems,</a></li>
+      <li><a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">the Advanced Certificate in Business Analytics.</a></li>
+    </ul> 
   </div>
 </div>
- I am the Director of Graduate Programs, including:
-   <ul>
- 	<li><a href="https://www.marist.edu/computer-science-math/graduate/ms/software-devel">the</a> Master of Science in Computer Science/Software Development,</li>
- 	<li><a href="https://www.marist.edu/computer-science-math/msis">the</a> Master of Science in Information Systems,</li>
- 	<li><a href="https://www.marist.edu/computer-science-math/graduate/info-systems/is-cert">the</a> Advanced Certificate in Information Systems,</li>
- 	<li>and <a href="https://www.marist.edu/computer-science-math/graduate/business-analytics">the</a> Advanced Certificate in Business Analytics.</li>
-</ul> 
 
 <h2>Teaching & Research Interests</h2>
 My teaching and research interests cover the fields of  data science, artificial intelligence, machine learning and natural language processing, focusing on the application of these disciplines in a variety of domains, including information technology implementation, learning analytics, health informatics  network and computer security, and marketing.<br><br>
