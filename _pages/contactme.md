@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1;">
-    <img src="/images/batsignal.png" alt="Contact Me" style="width: 50%; float: right; max-width: 100%; height: auto; margin: 10px;"/>
+    <img src="/images/vintagephone.png" alt="Contact Me" style="width: 50%; float: right; max-width: 100%; height: auto; margin: 10px;"/>
     <ul>
  	<li>My office is Room 3043 of the Hancock Building</li>
  	<li>The phone there is (845) 575 - 3598</li>
