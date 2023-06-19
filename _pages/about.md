@@ -28,7 +28,7 @@ redirect_from:
 
 <h2>Teaching & Research Interests</h2>
 My teaching and research interests cover the fields of  data science, artificial intelligence, machine learning and natural language processing, focusing on the application of these disciplines in a variety of domains, including information technology implementation, learning analytics, health informatics  network and computer security, and marketing.<br><br>
-I am the recipient of the <a href="https://foxweb.marist.edu/users/jf4n/2015_BOT_Award.htm">2015 Board of Trustees Distinguished Teaching Award</a>.
+I am the recipient of the <a href="/BOTAward2015/">2015 Board of Trustees Distinguished Teaching Award</a>.
 
 <h2>Short Biographical Statement</h2>
 I worked in the IT industry for 20+ years, advising on such topics as decision support systems, business analytics, distributed application development and e-business. As a managing partner with <a href="https://www.gldconsultores.com/">GLD Consultores</a>, I worked with a number of organizations across a wide range of industries, including Microsoft, IBM, Exxon, Reuters, Philip Morris, Hewlett Packard, STET France Telecom, Accenture and Ryder.<br>
