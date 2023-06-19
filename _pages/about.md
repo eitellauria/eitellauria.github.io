@@ -347,20 +347,20 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 
 <h2>Great Quotes</h2>
 <i>“...si los pueblos no se ilustran, si no se vulgarizan sus derechos, si cada hombre no conoce lo que vale, lo que puede y lo que se le debe, nuevas ilusiones sucederán a las antiguas, y después de vacilar algún tiempo entre mil incertidumbres, será tal vez nuestra suerte mudar de tiranos, sin destruir la tiranía.”</i><br>
-<p style="text-align: right;"><span style="color: #999999;">- Mariano Moreno [ 1778 - 1811 ]</span></p>
+<span style="color: #999999; text-align: right;">- Mariano Moreno [ 1778 - 1811 ]</span>
 
-<i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i>
-<p style="text-align: right;"><span style="color: #999999;">- Carl Sagan </span><span style="color: #999999;">[ 1934 - 1996 ]</span></p>
+<i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i><br>
+<span style="color: #999999; text-align: right;">- Carl Sagan [ 1934 - 1996 ]</span>
 
-<i>"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."</i>
-<p style="text-align: right;"><span style="color: #999999;">- Albert Einstein [ 1879 - 1955 ]</span></p>
+<i>"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."</i><br>
+<span style="color: #999999; text-align: right;">- Albert Einstein [ 1879 - 1955 ]</span>
 
-<i>"A fanatic is one who can't change his mind and won't change the subject."</i>
-<p style="text-align: right;"><span style="color: #999999;">- Winston Churchill [ 1874 - 1965 ]</span></p>
+<i>"A fanatic is one who can't change his mind and won't change the subject."</i><br>
+<span style="color: #999999; text-align: right;">- Winston Churchill [ 1874 - 1965 ]</span>
 
-<i>"Life is what happens while you are busy </i><i>making other plans."</i>
-<p style="text-align: right;"><span style="color: #999999;">- John Lennon [ 1940 - 1980 ]</span></p>
+<i>"Life is what happens while you are busy making other plans."</i><br>
+<span style="color: #999999; text-align: right;">- John Lennon [ 1940 - 1980 ]</span>
 
-<i>"Nunca es triste la verdad, lo que no tiene es remedio."</i>
-<p style="text-align: right;"><span style="color: #999999;">- Antonio Machado [ 1875 - 1939 ]</span></p>
-<p style="text-align: right;"><span style="color: #999999;">- <a href="https://youtu.be/h8cJDuxoQM0">sung</a> by Joan Manuel Serrat</span></p>
+<i>"Nunca es triste la verdad, lo que no tiene es remedio."</i><br>
+<span style="color: #999999; text-align: right;">- Antonio Machado [ 1875 - 1939 ]</span><br>
+<span style="color: #999999; text-align: right;">- <a href="https://youtu.be/h8cJDuxoQM0">sung</a> by Joan Manuel Serrat</span>
