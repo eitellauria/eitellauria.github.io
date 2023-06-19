@@ -1,8 +1,6 @@
 ---
 permalink: /BOTAward2015/
 author_profile: true
-redirect_from: 
-  - /BOTAward2015/
 ---
 # 2015 Board of Trustees Distinguished Teaching Award
 
