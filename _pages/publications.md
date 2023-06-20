@@ -20,6 +20,10 @@ author_profile: true
 <div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
 
   <ul>
+    <li>Balnis J., Lauría, E. , Yucel R., SInger, H. Alisch R., Jaitovivh A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine", accepted in American Journal of Respiratory Cell and Molecular Biology, 2023 (pending publication) <br>
+    A collaboration with Albany Medical College (Division of Pulmonary and Critical Care Medicine and Department of Molecular and Cellular Physiology); Temple University (Dept of Epidemiology and Biostatistics); University of Wisconsin School of Medicine and Public Health (Dept of Neurological Surgery).     
+  </li>  
+
     <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262</li>
   
     <li>Jayaprakash S., Moody E., Lauría E., Regan J., Baron J., "Early Alert of Academically At-Risk Students: An Open Source Analytics Initiative", Journal of Learning Analytics, 1(1), 2014, 6-47. <a href="https://doi.org/10.18608/jla.2014.11.3">https://doi.org/10.18608/jla.2014.11.3</a></li>
@@ -99,6 +103,7 @@ author_profile: true
   <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
   
    <ul>
+    <li>Gonzalez Bonorino A., Lauría E, “Adaptive Kevin: A multipurpose AI Assistant for Higher Education”, Communications in Computer and Information Science, Springer 2023, Computer Supported Education - 14th International Conference, CSEDU 2022, Revised Selected Papers (pending publication).</li>   
     <li>Lauría E., Belardo S. "Information or Informing: Are we doing it right?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
   
     <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a></li>
