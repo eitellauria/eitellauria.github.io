@@ -32,14 +32,12 @@ You can find my address <a href="#bottom-text">here</a>
     <a href="/images/BOTAward2015/021_010554.jpg"><img src="/images/BOTAward2015/021_010554.jpg" alt=" " /></a>
 </div>
 
-You can find my address here](#bottom-text)
-
 <!-- Include more content here as needed -->
 
 <a id="bottom-text"></a>
 ## Address to BOT members, Faculty, Staff and Administration
-### Eitel J.M. Lauría, PhD
-#### Sept 9, 2015
+**Eitel J.M. Lauría, PhD**
+**Sept 9, 2015**
 
 Dear members of the Board of Trustees, President Murray, Vice President Wermuth, colleagues, friends and family:
 
