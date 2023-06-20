@@ -123,22 +123,19 @@ author_profile: true
 
 <ul>
 <li>
-<p>Member of the team working on the creation of the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State.
-Gov. Andrew Cuomo announced the grant on Dec. 19, 2012, through Round Two of his Regional Economic Development initiative.
-The grant is part of a $92.8 million package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.
-The Cloud Computing and Analytics Center will greatly expand the College’s role as a driver of economic development in the area and across the state by providing IT services to new and growing businesses, including hardware, software, training, and consulting. It will work with companies on early-stage IT projects with the goal of developing and testing ways to deploy commercial cloud computing environments. The center will also provide education and training, through the cloud, in analytics and cloud computing, as well as other critical areas.
-Overall funding: $3 million
-Funding period: 2013-2016</p>
+<p>Member of the team working on the creation of the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State. The grant is part of a 92.8 million dollar package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.</p>
+<p>Overall funding: $3 million</p>
+<p>Funding period: 2013-2016</p>
 </li>
 </ul>
 
 <ul>
 <li>
 <p>Major Research Instrumentation grant from the National Science Foundation to acquire a new zEnterprise processor to be located in the enterprise computing research data center. The new processor will include an attached blade center (zBX) that allows research to be performed on the hardware and operating system platform of the researcher’s choice. The new equipment will be used for faculty and student research, research training, and applied research projects with New York businesses. Research areas identified in the grant proposal include large-scale business analytics, converged networking for storage and internet devices, classical thermodynamics and mathematical epidemiology, computational projects in underwater acoustics and wave propagation, and enterprise level virtualization of system resources Applied research projects include guest systems performance optimization, rapid provisioning of Linux servers and other virtual machine environments, automated workload balancing, and other green technologies.
-Principal Investigator: Dr. Roger Norton (Dean of the School of Computer Science and Mathematics)
-Co-PIs: Prof. Ron Coleman, Prof. Eitel Lauría and CIO Bill Thirsk, Vice President of Information Technology.
-Overall funding: $678,880
-Funding period: 2011- 2014</p>
+<p>Principal Investigator: Dr. Roger Norton (Dean of the School of Computer Science and Mathematics)</p>
+<p>Co-PIs: Prof. Ron Coleman, Prof. Eitel Lauría and CIO Bill Thirsk, Vice President of Information Technology.</p>
+<p>Overall funding: $678,880</p>
+<p>Funding period: 2011- 2014</p>
 </li>
 </ul>
 
@@ -180,12 +177,11 @@ Funding period: 2011- 2014</p>
 <p>Project Manager at CCODC (Center for Collaborative and On-Demand Computing),  College Applied Research &amp; Technology Center Program (CART) funded through NYSTAR (New York State Office of Science, Technology &amp; Academic Research)<a href="http://www.nystar.state.ny.us/cart.htm">http://www.nystar.state.ny.us/cart.htm</a></p>
 </li>
 </ul>
-CART Program Director, Dr. Roger Norton
-
-Overall funding: $2.500.000
+<p>CART Program Director, Dr. Roger Norton</p>
+<p>Overall funding: $2.500.000</p>
 
   
 <div id="dissertation"><h2>Disseration</h2></div> 
   <p>Title: "Learning Structure and Parameters of Bayesian Belief Networks: An Application and a Methodology in Information Technology Implementation"</p>
-  <p>- Preview at <a href="https://www.proquest.com/openview/07391d88fa52a3efad3aa0f72bc13973/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">"Proquest"</a></p>
+  <p>- Preview at <a href="https://www.proquest.com/openview/07391d88fa52a3efad3aa0f72bc13973/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">Proquest</a></p>
 
