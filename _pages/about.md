@@ -66,7 +66,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </blockquote></details>
 <details><summary>Photo Gallery</summary><blockquote>
 <ul>
- 	<li><a href="http://eitellauria.ar?page_id=1517">Family, places, interests, students</a></li>
+ 	<li><a href="/gallery/">Family, places, interests, students</a></li>
  	<li><a href="http://eitellauria.ar/?page_id=2592">Some of my paintings</a></li>
 </ul>
 </blockquote></details>
