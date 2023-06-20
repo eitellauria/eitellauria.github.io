@@ -20,16 +20,16 @@ author_profile: true
 
 
 <div class="image-grid">
-    ![](/images/BOTAward2015/001_010554.jpg)
-    ![](/images/BOTAward2015/003_010554.jpg)
-    ![](/images/BOTAward2015/005_010554.jpg)
-    ![](/images/BOTAward2015/006_010554.jpg)
-    ![](/images/BOTAward2015/008_010554.jpg)
-    ![](/images/BOTAward2015/013_010554.jpg)
-    ![](/images/BOTAward2015/014_010554.jpg)
-    ![](/images/BOTAward2015/015_010554.jpg)
-    ![](/images/BOTAward2015/020_010554.jpg)
-    ![](/images/BOTAward2015/021_010554.jpg)
+    <img src="/images/BOTAward2015/001_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/003_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/005_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/006_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/008_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/013_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/014_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/015_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/020_010554.jpg" alt=" " />
+    <img src="/images/BOTAward2015/021_010554.jpg" alt=" " />
 </div>
 
 You can find my address here](#bottom-text)
