@@ -5,11 +5,12 @@ permalink: /research/
 ---
 
 <div id="menu">
-    <a href="#refereed-journal-articles">Refereed Journal Articles</a> <br>
-    <a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> <br>
-    <a href="#books-and-book-chapters">Books and Book Chapters</a> <br>
-    <a href="#grants">Grants</a> <br>
-    <a href="#dissertation">Dissertation</a>
+      <ul>
+    <li><a href="#refereed-journal-articles">Refereed Journal Articles</a> </li>
+    <li><a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> </li>
+    <li><a href="#books-and-book-chapters">Books and Book Chapters</a> </li>
+    <li><a href="#grants">Grants</a> </li>
+    <li><a href="#dissertation">Dissertation</a></li>
 </div>
 
 <div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
