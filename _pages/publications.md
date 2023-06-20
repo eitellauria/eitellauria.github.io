@@ -39,8 +39,8 @@ author_profile: true
     <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594)</li>
   </ul>
   
-  <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
-    <ul>
+ <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
+   <ul>
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
     <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. (online, English, click here and here).</li>
@@ -94,75 +94,4 @@ author_profile: true
     <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "OLAP Technologies in Health Care Management: an application in Medicine Expenditure", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish.</li>
   
     <li>March A, Lauria E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992</li>
-  </ul>
-  
-  <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
-    <ul>
-    <li>Lauría E., Belardo S. "Information or Informing: Are we doing it right?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
-  
-    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a></li>
-  
-    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006 (<a href="Click here">Click here</a>)</li>
-  
-    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005</li>
-  
-    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005</li>
-  
-    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA <a href="[Link to IDP]">[Link to IDP]</a></li>
-  </ul>
-  <div id="grants"><h2>Grants</h2></div> 
-    <ul>
-    <li>IBM Smarter Planet Innovation Faculty Award (2013 – 2014)</li>
-    <li>Topic: Curriculum development in Big Data and NoSQL (Hadoop/MapReduce) technologies</li>
-    <li>Funding amount: $10,000</li>
-  </ul>
-  
-  <ul>
-    <li>Member of the team working on the creation of the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State.</li>
-    <li>Gov. Andrew Cuomo announced the grant on Dec. 19, 2012, through Round Two of his Regional Economic Development initiative.</li>
-    <li>The grant is part of a $92.8 million package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.</li>
-    <li>The Cloud Computing and Analytics Center will greatly expand the College’s role as a driver of economic development in the area and across the state by providing IT services to new and growing businesses, including hardware, software, training, and consulting. It will work with companies on early-stage IT projects with the goal of developing and testing ways to deploy commercial cloud computing environments. The center will also provide education and training, through the cloud, in analytics and cloud computing, as well as other critical areas.</li>
-    <li>Overall funding: $3 million</li>
-    <li>Funding period: 2013-2016</li>
-  </ul>
-  
-  <ul>
-    <li>Major Research Instrumentation grant from the National Science Foundation</li>
-    <li>Principal Investigator: Dr. Roger Norton (Dean of the School of Computer Science and Mathematics)</li>
-    <li>Co-PIs: Prof. Ron Coleman, Prof. Eitel Lauría, and CIO Bill Thirsk, Vice President of Information Technology.</li>
-    <li>Overall funding: $678,880</li>
-    <li>Funding period: 2011-2014</li>
-  </ul>
-  
-  <ul>
-    <li>Data Data mining and Predictive Analytics Lead of the Open Academic Analytics Initiative (OAAI).</li>
-    <li>Overall funding: $250,000</li>
-    <li>Funding period: 2010-2011</li>
-  </ul>
-  
-  <ul>
-    <li>IBM Smarter Planet Faculty Award for Health Care Analytics (2010-2011)</li>
-    <li>Topic: Introduction to Healthcare Analytics</li>
-    <li>Funding amount: $10,000</li>
-  </ul>
-  
-  <ul>
-    <li>IBM Faculty Award (2009 – 2010)</li>
-    <li>Topic: Curriculum development in Business Analytics</li>
-    <li>Funding amount: $25,000</li>
-  </ul>
-  
-  <ul>
-    <li>Co-Principal Investigator of the Enterprise Computing Community, an initiative funded by the National Science Foundation to “Revitalize Undergraduate Education in Enterprise Computing.”</li>
-    <li>Overall Funding: $400,000</li>
-    <li>Funding period: 2008-2010</li>
-    <li>URL: <a href="http://ecc.marist.edu">http://ecc.marist.edu</a></li>
-  </ul>
-  
-  <p>Project Manager at CCODC (Center for Collaborative and On-Demand Computing), College Applied Research & Technology Center Program (CART) funded through NYSTAR (New York State Office of Science, Technology & Academic Research) <a href="http://www.nystar.state.ny.us/cart.htm">http://www.nystar.state.ny.us/cart.htm</a></p>
-  <p>CART Program Director: Dr. Roger Norton</p>
-  <p>Overall funding: $2,500,000</p>
-  
-  <div id="dissertation"><h2>Disseration</h2></div> 
-  <p>Title: "Learning Structure and Parameters of Bayesian Belief Networks: An Application and a Methodology in Information Technology Implementation"</p>
-  <p>- Preview at Proquest <a href="https://www.proquest.com/openview/07391d88fa52a3efad3aa0f72bc13973/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"></a></p>
+ </ul>
