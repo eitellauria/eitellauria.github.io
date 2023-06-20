@@ -5,10 +5,10 @@ permalink: /research/
 ---
 
 <div id="menu">
-    <a href="#refereed-journal-articles">Refereed Journal Articles</a> |
-    <a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> |
-    <a href="#books-and-book-chapters">Books and Book Chapters</a> |
-    <a href="#grants">Grants</a> |
+    <a href="#refereed-journal-articles">Refereed Journal Articles</a> <br>
+    <a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> <br>
+    <a href="#books-and-book-chapters">Books and Book Chapters</a> <br>
+    <a href="#grants">Grants</a> <br>
     <a href="#dissertation">Dissertation</a>
 </div>
 
