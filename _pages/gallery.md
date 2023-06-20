@@ -28,7 +28,9 @@ author_profile: true
 <div class="gallery">
   {% for image in site.data.gallery %}
     <div class="image">
-      <img src="{{ image.path }}" alt="{{ image.alt }}">
+      <a href="{{ image.path }}">
+        <img src="{{ image.path }}" alt="{{ image.alt }}">
+      </a>
       <div class="caption">{{ image.caption }}</div>
     </div>
   {% endfor %}
