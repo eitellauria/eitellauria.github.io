@@ -4,23 +4,19 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-
 {% include base_path %}
----
-layout: page
-title: Research
-permalink: /research/
----
+
 
 <div id="menu">
-    <a href="#refereed-journal-articles">Refereed Journal Articles</a> |
-    <a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> |
-    <a href="#books-and-book-chapters">Books and Book Chapters</a> |
-    <a href="#grants">Grants</a> |
-    <a href="#dissertation">Dissertation</a>
+      <ul>
+    <li><a href="#refereed-journal-articles">Refereed Journal Articles</a> </li>
+    <li><a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> </li>
+    <li><a href="#books-and-book-chapters">Books and Book Chapters</a> </li>
+    <li><a href="#grants">Grants</a> </li>
+    <li><a href="#dissertation">Dissertation</a></li>
 </div>
 
-<h2> <div id="refereed-journal-articles">Refereed Journal Articles</div> </h2>
+<div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
 
   <ul>
     <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262</li>
@@ -41,4 +37,3 @@ permalink: /research/
   
     <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594)</li>
   </ul>
-
