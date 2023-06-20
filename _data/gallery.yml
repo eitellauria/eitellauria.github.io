@@ -1,0 +1,15 @@
+- path: /images/gallery/1650640534137.jpg
+  alt: Augusto presenting at CSEDU2022
+  caption: Augusto presenting at CSEDU2022
+
+- path: /path/to/"Ed Students 2.jpg"
+  alt: Ed's Students
+  caption: Ed's Students
+  
+ - path: /path/to/"Ed Students.jpg"
+  alt: Ed's Students
+  caption: Ed's Students
+
+
+
+ 
