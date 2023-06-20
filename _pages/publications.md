@@ -39,7 +39,7 @@ author_profile: true
     <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594)</li>
   </ul>
   
- <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
+  <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
    <ul>
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
@@ -94,4 +94,98 @@ author_profile: true
     <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "OLAP Technologies in Health Care Management: an application in Medicine Expenditure", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish.</li>
   
     <li>March A, Lauria E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992</li>
- </ul>
+  </ul>
+  
+  <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
+  
+   <ul>
+    <li>Lauría E., Belardo S. "Information or Informing: Are we doing it right?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
+  
+    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a></li>
+  
+    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006 (<a href="Click here">Click here</a>)</li>
+  
+    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005</li>
+  
+    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005</li>
+  
+    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA <a href="[Link to IDP]">[Link to IDP]</a></li>
+  </ul>
+  
+<div id="grants"><h2>Grants</h2></div> 
+<ul>
+<li>
+<p>IBM Smarter Planet Innovation Faculty Award (2013 - 2014)</p>
+<p>Topic: curriculum development in Big Data and NoSQL (Hadoop/ MapReduce) technologies</p>
+<p>Funding amount: $10,000</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>Member of the team working on the creation of the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State.
+Gov. Andrew Cuomo announced the grant on Dec. 19, 2012, through Round Two of his Regional Economic Development initiative.
+The grant is part of a $92.8 million package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.
+The Cloud Computing and Analytics Center will greatly expand the College’s role as a driver of economic development in the area and across the state by providing IT services to new and growing businesses, including hardware, software, training, and consulting. It will work with companies on early-stage IT projects with the goal of developing and testing ways to deploy commercial cloud computing environments. The center will also provide education and training, through the cloud, in analytics and cloud computing, as well as other critical areas.
+Overall funding: $3 million
+Funding period: 2013-2016</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>Major Research Instrumentation grant from the National Science Foundation to acquire a new zEnterprise processor to be located in the enterprise computing research data center. The new processor will include an attached blade center (zBX) that allows research to be performed on the hardware and operating system platform of the researcher’s choice. The new equipment will be used for faculty and student research, research training, and applied research projects with New York businesses. Research areas identified in the grant proposal include large-scale business analytics, converged networking for storage and internet devices, classical thermodynamics and mathematical epidemiology, computational projects in underwater acoustics and wave propagation, and enterprise level virtualization of system resources Applied research projects include guest systems performance optimization, rapid provisioning of Linux servers and other virtual machine environments, automated workload balancing, and other green technologies.
+Principal Investigator: Dr. Roger Norton (Dean of the School of Computer Science and Mathematics)
+Co-PIs: Prof. Ron Coleman, Prof. Eitel Lauría and CIO Bill Thirsk, Vice President of Information Technology.
+Overall funding: $678,880
+Funding period: 2011- 2014</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p><span style="font-weight: 400;">Data Data mining and Predictive Analytics Lead of the Open Academic Analytics Initiative (OAAI). The OAAI is funded through the Next Generation Learning Challenges (NGLC), a collaborative, multi-year grant program aimed at increasing college readiness and completion through applied technology. NGLC partners include EDUCAUSE, the League for Innovation in the Community College, the International Association for K-12 Online Learning (INACOL), and the Council of Chief State School Officers (CCSSO). Funding is being provided by the Bill &amp; Melinda Gates Foundation and The William and Flora Hewlett Foundation.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Overall funding: $250,000</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Funding period: 2010-2011</span></p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>IBM Smarter Planet Faculty Award for Health Care Analytics (2010-2011)</p>
+<p>Topic: Introduction to Healthcare Analytics</p>
+<p>Funding amount: $10,000</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>IBM Faculty Award (2009 - 2010)</p>
+<p>Topic: curriculum development in Business Analytics</p>
+<p>Funding amount: $25,000</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>Co-Principal Investigator of the Enterprise Computing Community, and initiative funded by the National Science Foundation to "Revitalize Undergraduate Education in Enterprise Computing." Founding members include 8 additional universities and 9 industry partners.</p>
+<p>Overall Funding:  $400,000</p>
+<p>Funding period: 2008-2010</p>
+<p>URL: <a href="http://ecc.marist.edu/">http://ecc.marist.edu</a></p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>Project Manager at CCODC (Center for Collaborative and On-Demand Computing),  College Applied Research &amp; Technology Center Program (CART) funded through NYSTAR (New York State Office of Science, Technology &amp; Academic Research)<a href="http://www.nystar.state.ny.us/cart.htm">http://www.nystar.state.ny.us/cart.htm</a></p>
+</li>
+</ul>
+CART Program Director, Dr. Roger Norton
+
+Overall funding: $2.500.000
+
+  
+<div id="dissertation"><h2>Disseration</h2></div> 
+  <p>Title: "Learning Structure and Parameters of Bayesian Belief Networks: An Application and a Methodology in Information Technology Implementation"</p>
+  <p>- Preview at <a href="https://www.proquest.com/openview/07391d88fa52a3efad3aa0f72bc13973/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">"Proquest"</a></p>
+
