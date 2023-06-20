@@ -14,6 +14,7 @@ author_profile: true
     <li><a href="#books-and-book-chapters">Books and Book Chapters</a> </li>
     <li><a href="#grants">Grants</a> </li>
     <li><a href="#dissertation">Dissertation</a></li>
+      </ul>       
 </div>
 
 <div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
