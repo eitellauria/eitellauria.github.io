@@ -2,9 +2,7 @@
 title: "Photo Gallery"
 permalink: /gallery/
 author_profile: true
-layout: default
 ---
-You can find my address <a href="#bottom-text">here</a>
 
 <style>
   .gallery {
