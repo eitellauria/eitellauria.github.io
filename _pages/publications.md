@@ -20,7 +20,7 @@ permalink: /research/
     <a href="#dissertation">Dissertation</a>
 </div>
 
-<h2> <div id="refereed-journal-articles">Refereed Journal Articles</div> <h2>
+<h2> <div id="refereed-journal-articles">Refereed Journal Articles</div> </h2>
 
   <ul>
     <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262</li>
