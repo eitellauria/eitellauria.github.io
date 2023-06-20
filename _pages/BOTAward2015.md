@@ -37,6 +37,7 @@ You can find my address <a href="#bottom-text">here</a>
 <a id="bottom-text"></a>
 ## Address to BOT members, Faculty, Staff and Administration
 **Eitel J.M. Lauría, PhD**
+
 **Sept 9, 2015**
 
 Dear members of the Board of Trustees, President Murray, Vice President Wermuth, colleagues, friends and family:
