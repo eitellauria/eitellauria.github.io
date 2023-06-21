@@ -20,7 +20,7 @@ author_profile: true
 <div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
 
   <ul>
-    <li>Balnis J., Lauría, E. , Yucel R., SInger, H. Alisch R., Jaitovivh A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine", accepted in American Journal of Respiratory Cell and Molecular Biology, 2023 (pending publication) <br>
+    <li>Balnis J., Lauría, E. , Yucel R., SInger, H. Alisch R., Jaitovich A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine", accepted in American Journal of Respiratory Cell and Molecular Biology, 2023 (pending publication) <br>
     A collaboration with Albany Medical College (Division of Pulmonary and Critical Care Medicine and Department of Molecular and Cellular Physiology); Temple University (Dept of Epidemiology and Biostatistics); University of Wisconsin School of Medicine and Public Health (Dept of Neurological Surgery).     
   </li>  
 
