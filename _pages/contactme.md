@@ -19,7 +19,8 @@ author_profile: true
 	<h2>Office hours during Fall 2023</h2>
 	<ul>
  	<li>Monday 9:30AM – 11:30PM, 2PM – 3PM</li>
- 	<li> Thursday 9:30AM – 10:30AM, 2PM – 3PM</li>
+	<li>Wednesday 2PM – 3PM</li>	
+ 	<li>Thursday 9:30AM – 10:30AM, 2PM – 3PM</li>
  	<li>or by appointment</li>
 	</ul>
 	If you need a remote appointment, please email me and we can set up a meeting via Zoom.<br>
