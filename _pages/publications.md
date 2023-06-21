@@ -187,7 +187,7 @@ author_profile: true
 
 
   
-<div id="dissertation"><h2>Disseration</h2></div> 
+<div id="dissertation"><h2>Dissertation</h2></div> 
   <p>Title: "Learning Structure and Parameters of Bayesian Belief Networks: An Application and a Methodology in Information Technology Implementation"</p>
   <p>- Preview at <a href="https://www.proquest.com/openview/07391d88fa52a3efad3aa0f72bc13973/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">Proquest</a></p>
 
