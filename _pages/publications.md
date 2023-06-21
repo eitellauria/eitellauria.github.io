@@ -180,10 +180,11 @@ author_profile: true
 <ul>
 <li>
 <p>Project Manager at CCODC (Center for Collaborative and On-Demand Computing),  College Applied Research &amp; Technology Center Program (CART) funded through NYSTAR (New York State Office of Science, Technology &amp; Academic Research)<a href="http://www.nystar.state.ny.us/cart.htm">http://www.nystar.state.ny.us/cart.htm</a></p>
-</li>
-</ul>
 <p>CART Program Director, Dr. Roger Norton</p>
 <p>Overall funding: $2.500.000</p>
+</li>
+</ul>
+
 
   
 <div id="dissertation"><h2>Disseration</h2></div> 
