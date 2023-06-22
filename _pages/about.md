@@ -351,7 +351,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </div>
 <br>
 <div>
-    <i>"Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense."</i><br>
+    <i>"At the heart of science is an essential balance between two seemingly contradictory attitudes--an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense."</i><br>
     <div style="color: #999999; text-align: left;">- Carl Sagan [1934-1996]</div>
 </div>
 <br>
