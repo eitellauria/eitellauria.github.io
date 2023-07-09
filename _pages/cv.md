@@ -20,7 +20,7 @@ Universidad de Deusto (Spain) / Universidad del Salvador (Argentina). <br><br>
 Ingeniero Electromecánico Orientación Electricista (6-year degree in Electrical Engineering) <br>
 Universidad de Buenos Aires (Argentina). <br><br>
 <b>Languages</b> <br>
-Spanish and English <br>
+Spanish and English. <br>
 
 <h2>Work Experience</h2>
 
