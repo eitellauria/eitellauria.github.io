@@ -357,8 +357,8 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </div>
 <br>
 <div>
-    <i>"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."</i><br>
-    <div style="color: #999999; text-align: left;">- Albert Einstein [1879-1955]</div>
+    <i>"Like what you do, and then you will do your best."</i><br>
+    <div style="color: #999999; text-align: left;">- Katherine Johnson [1918-2020]</div>
 </div>
 <br>
 <div>
