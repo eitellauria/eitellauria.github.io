@@ -367,7 +367,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </div>
 <br>
 <div>
-    <i>"Life is what happens while you are busy making other plans."</i><br>
+    <i>"Life is what happens to you while you're busy making other plans."</i><br>
     <div style="color: #999999; text-align: left;">- John Lennon [1940-1980]</div>
 </div>
 <br>
