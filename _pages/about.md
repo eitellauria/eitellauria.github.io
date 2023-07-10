@@ -357,7 +357,7 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </div>
 <br>
 <div>
-    <i>"Like what you do, and then you will do your best."</i><br>
+    <i>"Do your best. But like it! Like what you do and then you will do your best. If you don’t like it, shame on you."</i><br>
     <div style="color: #999999; text-align: left;">- Katherine Johnson [1918-2020]</div>
 </div>
 <br>
