@@ -362,7 +362,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </div>
 <br>
 <div>
-    <i>"A fanatic is one who can't change his mind and won't change the subject."</i><br>
+    <i>"Let all who are here remember that we are on the stage of history, and that whatever our station may be, and whatever part we have to play, great or small, our conduct is liable to be scrutinized not only by history but by our own descendants."</i><br>
     <div style="color: #999999; text-align: left;">- Winston Churchill [1874-1965]</div>
 </div>
 <br>
