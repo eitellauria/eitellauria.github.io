@@ -67,7 +67,7 @@ author_profile: true
   
     <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", Apereo Lightning Talks: Analytics Theme, March 28, 2018. <a href="https://www.youtube.com/watch?v=EqOXK_zfcQA">(video)</a></li>
   
-    <li>Lauría E., Presutti E., Kapogiannis M., Kamath A., "Stacking Classifiers for Early Detection of Students at Risk", Proceedings of the 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018, vol 1, 390-397. <a href="DOI: 10.5220/0006781203900397">DOI: 10.5220/0006781203900397</a></li>
+    <li>Lauría E., Presutti E., Kapogiannis M., Kamath A., "Stacking Classifiers for Early Detection of Students at Risk", Proceedings of the 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018, vol 1, 390-397. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0006781203900397">DOI: 10.5220/0006781203900397</a> </li>
   
     <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018</li>
   
