@@ -49,23 +49,23 @@ author_profile: true
        
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
-    <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. (click here).</li>
+    <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. <a href="https://edunumrech.hypotheses.org/3265">https://edunumrech.hypotheses.org/3265</a></li>
   
-    <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. <a href="https://edunumrech.hypotheses.org/3265">https://edunumrech.hypotheses.org/3265</a></li>
+    <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. </li>
   
     <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. DOI: 10.5220/0010471900260035. Shortlisted for Best Paper Award.</li>
   
-    <li>Lauría E., "Pilas y Musas: Detección Temprana de Estudiantes en Riesgo Académico," Proyecto Vectores, Facultad de Ingeniería, Universidad de Buenos Aires, August, 2020. <a href="(video, in Spanish)">https://www.youtube.com/watch?v=mGgv4vkRV_g</a></li>
+    <li>Lauría E., "Pilas y Musas: Detección Temprana de Estudiantes en Riesgo Académico," Proyecto Vectores, Facultad de Ingeniería, Universidad de Buenos Aires, August, 2020. <a href="https://www.youtube.com/watch?v=mGgv4vkRV_g">(video, in Spanish)</a></li>
   
-    <li>Lauría E., Presutti E., Stenton E., "A two-stage boosted classification framework for improving early detection of freshmen attrition", 2020 Enterprise Computing Conference, Marist College (online streaming), June 7-9, 2020. <a href="(slides)">https://ecc.marist.edu/documents/355984/2180584/Lauria%2C+Eitel+slides+ECC-2020-wide.pdf/b22501ee-c239-4ec1-a6ca-b5ac7a2f204d</a></li>
+    <li>Lauría E., Presutti E., Stenton E., "A two-stage boosted classification framework for improving early detection of freshmen attrition", 2020 Enterprise Computing Conference, Marist College (online streaming), June 7-9, 2020.</li>
   
-    <li>Lauría E., Stenton E., Presutti E., "Boosting Early Detection of Spring Semester Freshmen Attrition: A Preliminary Exploration", Proceedings of the 12th International Conference of Computer Supported Education (CSEDU 2020), Online Streaming, May 2-4, 2020, vol 2, 130-138. Best Paper Award. <a href="DOI: 10.5220/0009449001300138">https://www.scitepress.org/Papers/2020/94490/</a></li>
+    <li>Lauría E., Stenton E., Presutti E., "Boosting Early Detection of Spring Semester Freshmen Attrition: A Preliminary Exploration", Proceedings of the 12th International Conference of Computer Supported Education (CSEDU 2020), Online Streaming, May 2-4, 2020, vol 2, 130-138. Best Paper Award.  <a href="https://www.scitepress.org/Papers/2020/94490/">DOI: 10.5220/0009449001300138</a></li>
   
     <li>Lauría E., Presutti E., Kapogiannis M., "Of Stacks and Muses: Adventures in Learning Analytics", LatinX in AI Workshop, @ICML 2019, Long Beach, CA, June 10, 2019. <a href="https://hal.science/hal-02265832/">https://hal.science/hal-02265832/</a></li>
   
-    <li>Lauría E., Presutti E., Kapogiannis M., "MUSE: Marist Universal Student Experience", 2019 Enterprise Computing Conference, Marist College, June 9-11, 2019. <a href="(slides)">https://ecc.marist.edu/documents/1458002/1650817/Slides+Edward+Presutti+MUSE+Marist+Universal+Student+Experience+ECC2019Presentation++v2.pdf/f2ae225d-7c65-4b45-bbb6-fe0bd5e1763c</a> </li>
+    <li>Lauría E., Presutti E., Kapogiannis M., "MUSE: Marist Universal Student Experience", 2019 Enterprise Computing Conference, Marist College, June 9-11, 2019. </li>
   
-    <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", Apereo Lightning Talks: Analytics Theme, March 28, 2018. <a href="(video)">https://www.youtube.com/watch?v=EqOXK_zfcQA</a></li>
+    <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", Apereo Lightning Talks: Analytics Theme, March 28, 2018. <a href="https://www.youtube.com/watch?v=EqOXK_zfcQA">(video)</a></li>
   
     <li>Lauría E., Presutti E., Kapogiannis M., Kamath A., "Stacking Classifiers for Early Detection of Students at Risk", Proceedings of the 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018, vol 1, 390-397. <a href="DOI: 10.5220/0006781203900397">DOI: 10.5220/0006781203900397</a></li>
   
@@ -73,7 +73,7 @@ author_profile: true
   
     <li>Lauria E., Presutti E., Sokoloff M., Guarino, M., "Crossing the Chasm to Big Data: Early Detection of at-Risk Students in a Cluster Computing Environment", Practitioner Track Proceedings of the 7th International Learning Analytics & Knowledge Conference (LAK'17). Simon Fraser University, Vancouver, Canada 13–17 March (video: click here)</li>
   
-    <li>Speaker at 24th CEEMAN Conference, "Management Education for a Digital World", Tallinn, Estonia, Sept 28-30, 2016. Conference site URL: (click here)</li>
+    <li>Speaker at 24th CEEMAN Conference, "Management Education for a Digital World", Tallinn, Estonia, Sept 28-30, 2016. </li>
   
     <li>Lauria E., Kuck P., Presutti E., Jayaprakash S., Sokoloff M., "Learning Analytics at Marist College: From a Single Node Prototype to a Cluster Computing Platform", 2016 Enterprise Computing Conference, Marist College, June 12-14, 2016</li>
   
@@ -116,7 +116,7 @@ author_profile: true
   
     <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005</li>
   
-    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a></li>
+    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a></li>
   </ul>
   
 <div id="grants"><h2>Grants</h2></div> 
