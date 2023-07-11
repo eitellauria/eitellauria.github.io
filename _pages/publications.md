@@ -32,19 +32,21 @@ author_profile: true
   
     <li>Lauría E., March E. "Combining Bayesian Text Classification and Shrinkage to Automate Healthcare Coding: A Data Quality Analysis", ACM Journal of Data and Information Quality 2(3), Article 13, December 2011. <a href="https://dl.acm.org/doi/10.1145/2063504.2063506">https://dl.acm.org/doi/10.1145/2063504.2063506</a></li>
   
-    <li>Goel S., Lauría E., "Quantification, Optimization and Uncertainty Modeling in Information Security Risks: A Matrix Based Approach", Information Resources Management Journal, 23(2), 2010, 33-52</li>
+    <li>Goel S., Lauría E., "Quantification, Optimization and Uncertainty Modeling in Information Security Risks: A Matrix Based Approach", Information Resources Management Journal, 23(2), 2010, 33-52. <a href="http://dx.doi.org/10.4018/irmj.2010040103">http://dx.doi.org/10.4018/irmj.2010040103</a></li>
   
-    <li>Fisher C., Lauría E., Matheus C. , "An Accuracy Metric: Percentages, Randomness and Probabilities", ACM Journal of Data and Information Quality, 1(3), Article 16:1-21, December 2009.</li>
+    <li>Fisher C., Lauría E., Matheus C. , "An Accuracy Metric: Percentages, Randomness and Probabilities", ACM Journal of Data and Information Quality, 1(3), Article 16:1-21, December 2009. <a href="https://dl.acm.org/doi/10.1145/1659225.1659229">https://dl.acm.org/doi/10.1145/1659225.1659229</a></li>
   
-    <li>Lauría E., Duchessi P., "A methodology for developing Bayesian networks: An application to information technology (IT) implementation", European Journal of Operational Research, 179(1), 16 May 2007, 234-252.</li>
+    <li>Lauría E., Duchessi P., "A methodology for developing Bayesian networks: An application to information technology (IT) implementation", European Journal of Operational Research, 179(1), 16 May 2007, 234-252. <a href="https://doi.org/10.1016/j.ejor.2006.01.016">https://doi.org/10.1016/j.ejor.2006.01.016</a></li>
   
-    <li>Lauría, E., Duchessi, P. "A Bayesian Belief Network for IT implementation decision support, Decision Support Systems, 42(3), December 2006, 1573-1588.</li>
+    <li>Lauría, E., Duchessi, P. "A Bayesian Belief Network for IT implementation decision support", Decision Support Systems, 42(3), December 2006, 1573-1588. <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a></li>
   
-    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594)</li>
+    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="DOI: 10.4018/jthi.2006070104">DOI: 10.4018/jthi.2006070104</a></li>
   </ul>
   
   <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
    <ul>
+     <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education, 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track</li>  
+       
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
     <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. (online, English, click here and here).</li>
