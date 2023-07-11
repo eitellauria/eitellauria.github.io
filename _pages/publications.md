@@ -71,7 +71,7 @@ author_profile: true
   
     <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018</li>
   
-    <li>Lauria E., Presutti E., Sokoloff M., Guarino, M., "Crossing the Chasm to Big Data: Early Detection of at-Risk Students in a Cluster Computing Environment", Practitioner Track Proceedings of the 7th International Learning Analytics & Knowledge Conference (LAK'17). Simon Fraser University, Vancouver, Canada 13–17 March.</li>
+    <li>Lauria E., Presutti E., Sokoloff M., Guarino, M., "Crossing the Chasm to Big Data: Early Detection of at-Risk Students in a Cluster Computing Environment", Practitioner Track Proceedings of the 7th International Learning Analytics & Knowledge Conference (LAK'17). Simon Fraser University, Vancouver, Canada 13–17 March. <a href="https://solaresearch.org/wp-content/uploads/2017/02/Final-LAK17-Practitioner-Track-Proceedings.pdf">(Link)</a></li>
   
     <li>Speaker at 24th CEEMAN Conference, "Management Education for a Digital World", Tallinn, Estonia, Sept 28-30, 2016. </li>
   
@@ -79,17 +79,17 @@ author_profile: true
   
     <li>Panel at Apache Spark Maker Community Event, Galvanize, San Francisco, (IBM-sponsored event). June 6, 2016.</li>
   
-    <li>Jayaprakash S., Lauría E., Gandhi P, Mendhe D., "Benchmarking Student Performance and Engagement in an Early Alert Predictive System using Interactive Radar Charts", Proceedings of LAK16, Edinburgh, UK, April 25-29, 2016</li>
+    <li>Jayaprakash S., Lauría E., Gandhi P, Mendhe D., "Benchmarking Student Performance and Engagement in an Early Alert Predictive System using Interactive Radar Charts", Proceedings of LAK16, Edinburgh, UK, April 25-29, 2016. <a href="https://doi.org/10.1145/2883851.2883940">https://doi.org/10.1145/2883851.2883940</a></li>
   
     <li>Jayaprakash S., Baron J., Gilbert G., Lauría E., Moody E., Reagan J. "Open-source Academic Early Alert and Risk Assessment API", LAK 2015, Practitioner's Track</li>
   
-    <li>Jayaprakash S., Lauría E., (2014), "Open Academic Early Alert System: Technical Demonstration", forthcoming in Proceedings of LAK 14 (Learning Analytics and Knowledge Conference), Indianapolis, IN, March 24-28, 2014</li>
+    <li>Jayaprakash S., Lauría E., (2014), "Open Academic Early Alert System: Technical Demonstration", Proceedings of LAK 14 (Learning Analytics and Knowledge Conference), Indianapolis, IN, March 24-28, 2014</li>
   
     <li>Regan, J., Moody, E., Lauría, E., Jayaprakash, S., Jonnalagadda, N., Baron, J. "Learning Analytics: Coming to a Classroom Near You". Poster presented at the Annual Meeting of the Association for Psychological Science, Washington, D.C., May 2013</li>
   
-    <li>Lauría E., Moody E., Jayaprakash S., Jonnalagadda N., Baron J. (2013), "Open Academic Analytics Initiative: Initial Research Findings", Proceedings of LAK 2013 (Learning Analytics and Knowledge Conference), Leuven, Belgium, April 8-12, 2013</li>
+    <li>Lauría E., Moody E., Jayaprakash S., Jonnalagadda N., Baron J. (2013), "Open Academic Analytics Initiative: Initial Research Findings", Proceedings of LAK 2013 (Learning Analytics and Knowledge Conference), Leuven, Belgium, April 8-12, 2013. <a href="https://doi.org/10.1145/2460296.2460325">https://doi.org/10.1145/2460296.2460325</a></li>
   
-    <li>Lauría E., Baron J., Devireddy M., Sundararaju V., Jayaprakash S. (2012), "Mining academic data to improve college student retention: An open-source perspective", Proceedings of LAK 2012 (Learning Analytics and Knowledge Conference), Vancouver, BC, Canada, April 29-May 2, 2012</li>
+    <li>Lauría E., Baron J., Devireddy M., Sundararaju V., Jayaprakash S. (2012), "Mining academic data to improve college student retention: An open-source perspective", Proceedings of LAK 2012 (Learning Analytics and Knowledge Conference), Vancouver, BC, Canada, April 29-May 2, 2012. <a href="https://dl.acm.org/doi/10.1145/2330601.2330637">https://dl.acm.org/doi/10.1145/2330601.2330637</a></li>
   
     <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007</li>
   
