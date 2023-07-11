@@ -71,7 +71,7 @@ author_profile: true
   
     <li>Lauría, E., Presutti, E., "MUSE: Marist Universal Student Experience", 10th International Conference of Computer Supported Education (CSEDU 2018), Funchal Madeira, Portugal, March 15-17, 2018</li>
   
-    <li>Lauria E., Presutti E., Sokoloff M., Guarino, M., "Crossing the Chasm to Big Data: Early Detection of at-Risk Students in a Cluster Computing Environment", Practitioner Track Proceedings of the 7th International Learning Analytics & Knowledge Conference (LAK'17). Simon Fraser University, Vancouver, Canada 13–17 March (video: click here)</li>
+    <li>Lauria E., Presutti E., Sokoloff M., Guarino, M., "Crossing the Chasm to Big Data: Early Detection of at-Risk Students in a Cluster Computing Environment", Practitioner Track Proceedings of the 7th International Learning Analytics & Knowledge Conference (LAK'17). Simon Fraser University, Vancouver, Canada 13–17 March.</li>
   
     <li>Speaker at 24th CEEMAN Conference, "Management Education for a Digital World", Tallinn, Estonia, Sept 28-30, 2016. </li>
   
