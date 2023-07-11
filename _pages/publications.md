@@ -24,7 +24,7 @@ author_profile: true
     A collaboration with Albany Medical College (Division of Pulmonary and Critical Care Medicine and Department of Molecular and Cellular Physiology); Temple University (Dept of Epidemiology and Biostatistics); University of Wisconsin School of Medicine and Public Health (Dept of Neurological Surgery).     
   </li>  
 
-    <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262</li>
+    <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262. <a href="https://doi.org/10.1080/15236803.2015.12001831">https://doi.org/10.1080/15236803.2015.12001831</a></li>
   
     <li>Jayaprakash S., Moody E., Lauría E., Regan J., Baron J., "Early Alert of Academically At-Risk Students: An Open Source Analytics Initiative", Journal of Learning Analytics, 1(1), 2014, 6-47. <a href="https://doi.org/10.18608/jla.2014.11.3">https://doi.org/10.18608/jla.2014.11.3</a></li>
   
