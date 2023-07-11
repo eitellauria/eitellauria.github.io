@@ -176,7 +176,7 @@ Spanish and English. <br>
 * Co-chair of the 2022- 2023 Strategic Planning Student Success Group, charged with exploring the development of more robust academic and co-curricular support services to enhance satisfaction and success for all student populations.
 
 <h2>Prizes and Awards</h2>
-* ECC 2023: First Place Award for research work on AutoKevin: a semi-autonomous knowledge discovery system for higher education.
+* ECC 2023: First Place Award for research work on AutoKevin: a semi-autonomous AI knowledge discovery system for higher education.
 * Marist College (Faculty Affairs Committee): 2023 Gregory J. Kilgariff Distinguished Service and Leadership AWard.
 * ECC 2021: First Place Award for for research work on applying anomaly detection techniques on early detection of academically at-risk students.
 * CSEDU 2020:  Best Paper Award for our paper in prediction of freshmen attrition.
