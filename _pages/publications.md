@@ -40,7 +40,7 @@ author_profile: true
   
     <li>Lauría, E., Duchessi, P. "A Bayesian Belief Network for IT implementation decision support", Decision Support Systems, 42(3), December 2006, 1573-1588. <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a></li>
   
-    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="DOI: 10.4018/jthi.2006070104">DOI: 10.4018/jthi.2006070104</a></li>
+    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="https://www.igi-global.com/article/exploring-behavioral-dimension-client-server/2887">DOI: 10.4018/jthi.2006070104</a></li>
   </ul>
   
   <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
