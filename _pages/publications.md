@@ -45,7 +45,7 @@ author_profile: true
   
   <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
    <ul>
-     <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education, 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track</li>  
+     <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education, 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track.</li>  
        
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
@@ -53,7 +53,7 @@ author_profile: true
   
     <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. </li>
   
-    <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. DOI: 10.5220/0010471900260035. Shortlisted for Best Paper Award.</li>
+    <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. Shortlisted for Best Paper Award. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0010471900260035">DOI: 10.5220/0010471900260035</a></li>
   
     <li>Lauría E., "Pilas y Musas: Detección Temprana de Estudiantes en Riesgo Académico," Proyecto Vectores, Facultad de Ingeniería, Universidad de Buenos Aires, August, 2020. <a href="https://www.youtube.com/watch?v=mGgv4vkRV_g">(video, in Spanish)</a></li>
   
