@@ -106,7 +106,8 @@ author_profile: true
   
    <ul>
     <li>Gonzalez Bonorino A., Lauría E, “Adaptive Kevin: A multipurpose AI Assistant for Higher Education”, Communications in Computer and Information Science, Springer 2023, Computer Supported Education - 14th International Conference, CSEDU 2022, Revised Selected Papers (pending publication).</li>   
-    <li>Lauría E., Belardo S. "Information or Informing: Are we doing it right?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
+    
+    <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
   
     <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a></li>
   
