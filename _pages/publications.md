@@ -30,7 +30,7 @@ author_profile: true
   
     <li>Duchessi P., Lauría E., "Decision tree models for profiling ski resorts' promotional and advertising strategies and the impact on sales", Expert Systems with Applications, 40(15), 1 November 2013, 5822-5829. <a href="https://doi.org/10.1016/j.eswa.2013.05.017">https://doi.org/10.1016/j.eswa.2013.05.017</a></li>
   
-    <li>Lauría E., March E. "Combining Bayesian Text Classification and Shrinkage to Automate Healthcare Coding: A Data Quality Analysis", ACM Journal of Data and Information Quality 2(3), Article 13, December 2011</li>
+    <li>Lauría E., March E. "Combining Bayesian Text Classification and Shrinkage to Automate Healthcare Coding: A Data Quality Analysis", ACM Journal of Data and Information Quality 2(3), Article 13, December 2011. <a href="https://dl.acm.org/doi/10.1145/2063504.2063506">https://dl.acm.org/doi/10.1145/2063504.2063506</a></li>
   
     <li>Goel S., Lauría E., "Quantification, Optimization and Uncertainty Modeling in Information Security Risks: A Matrix Based Approach", Information Resources Management Journal, 23(2), 2010, 33-52</li>
   
