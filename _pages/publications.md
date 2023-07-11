@@ -114,7 +114,7 @@ author_profile: true
   
     <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005</li>
   
-    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA <a href="[Link to IDP]">[Link to IDP]</a></li>
+    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a></li>
   </ul>
   
 <div id="grants"><h2>Grants</h2></div> 
