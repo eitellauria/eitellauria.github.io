@@ -91,9 +91,9 @@ author_profile: true
   
     <li>Lauría E., Baron J., Devireddy M., Sundararaju V., Jayaprakash S. (2012), "Mining academic data to improve college student retention: An open-source perspective", Proceedings of LAK 2012 (Learning Analytics and Knowledge Conference), Vancouver, BC, Canada, April 29-May 2, 2012</li>
   
-    <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", forthcoming in Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007</li>
+    <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007</li>
   
-    <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301</li>
+    <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301. <a href="https://doi.org/10.1063/1.2149807">https://doi.org/10.1063/1.2149807</a></li>
   
     <li>Lauria E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005</li>
   
