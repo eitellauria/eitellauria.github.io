@@ -50,7 +50,9 @@ author_profile: true
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. DOI: 10.5220/0011059000003182.</li>
   
     <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. <a href="https://edunumrech.hypotheses.org/3265">https://edunumrech.hypotheses.org/3265</a></li>
-  
+
+    <li>Lauría E., "The Future of Student Performance Predction is Data-dirven Analytics", Educational Technology Insights, 2021. <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(Link)</a></li>
+      
     <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. </li>
   
     <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. Shortlisted for Best Paper Award. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0010471900260035">DOI: 10.5220/0010471900260035</a></li>
@@ -60,6 +62,8 @@ author_profile: true
     <li>Lauría E., Presutti E., Stenton E., "A two-stage boosted classification framework for improving early detection of freshmen attrition", 2020 Enterprise Computing Conference, Marist College (online streaming), June 7-9, 2020.</li>
   
     <li>Lauría E., Stenton E., Presutti E., "Boosting Early Detection of Spring Semester Freshmen Attrition: A Preliminary Exploration", Proceedings of the 12th International Conference of Computer Supported Education (CSEDU 2020), Online Streaming, May 2-4, 2020, vol 2, 130-138. Best Paper Award.  <a href="https://www.scitepress.org/Papers/2020/94490/">DOI: 10.5220/0009449001300138</a></li>
+
+    <li>Lauría E., "Artificial Intelligence: Wonders & Perils of XXI Century Platics", Educational Technology Insights, 2019. <a href="https://artificial-intelligence.educationtechnologyinsights.com/cxoinsights/artificial-intelligence-wonders-and-perils-of-xxi-century-plastics-nid-1082.html">(Link)</a></li>
   
     <li>Lauría E., Presutti E., Kapogiannis M., "Of Stacks and Muses: Adventures in Learning Analytics", LatinX in AI Workshop, @ICML 2019, Long Beach, CA, June 10, 2019. <a href="https://hal.science/hal-02265832/">https://hal.science/hal-02265832/</a></li>
   
