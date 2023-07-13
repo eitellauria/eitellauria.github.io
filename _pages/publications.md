@@ -131,15 +131,15 @@ author_profile: true
     
     <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.</li>
   
-    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a></li>
+    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a>.</li>
   
-    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006 (<a href="Click here">Click here</a>)</li>
+    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006.</li>
   
-    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005</li>
+    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005.</li>
   
-    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005</li>
+    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005.</li>
   
-    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a></li>
+    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a>.</li>
   </ul>
   
 <div id="grants"><h2>Grants</h2></div> 
