@@ -20,27 +20,27 @@ author_profile: true
 <div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
 
   <ul>
-    <li>Balnis J., Lauría, E. , Yucel R., Singer, H. Alisch R., Jaitovich A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine",  American Journal of Respiratory Cell and Molecular Biology. Received: April 27, 2023,  Accepted: June 28, 2023. <a href="https://doi.org/10.1165/rcmb.2023-0153PS">https://doi.org/10.1165/rcmb.2023-0153PS</a><br>
+    <li>Balnis J., Lauría, E. , Yucel R., Singer, H., Alisch R., Jaitovich A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine",  American Journal of Respiratory Cell and Molecular Biology. Received: April 27, 2023,  Accepted: June 28, 2023. <a href="https://doi.org/10.1165/rcmb.2023-0153PS">https://doi.org/10.1165/rcmb.2023-0153PS</a>.<br>
     A collaboration with Albany Medical College (Division of Pulmonary and Critical Care Medicine and Department of Molecular and Cellular Physiology); Temple University (Dept of Epidemiology and Biostatistics); University of Wisconsin School of Medicine and Public Health (Dept of Neurological Surgery).     
   </li>  
 
-    <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262. <a href="https://doi.org/10.1080/15236803.2015.12001831">https://doi.org/10.1080/15236803.2015.12001831</a></li>
+    <li>Bainbridge J., Melitski J., Zahradnik A., Lauría E., Jayaprakash S., Baron J., "Using learning analytics to predict at-risk students in graduate online public affairs and administration education", Journal of Public Affairs Education, 21(2), Spring 2015, 247-262. <a href="https://doi.org/10.1080/15236803.2015.12001831">https://doi.org/10.1080/15236803.2015.12001831</a>.</li>
   
-    <li>Jayaprakash S., Moody E., Lauría E., Regan J., Baron J., "Early Alert of Academically At-Risk Students: An Open Source Analytics Initiative", Journal of Learning Analytics, 1(1), 2014, 6-47. <a href="https://doi.org/10.18608/jla.2014.11.3">https://doi.org/10.18608/jla.2014.11.3</a></li>
+    <li>Jayaprakash S., Moody E., Lauría E., Regan J., Baron J., "Early Alert of Academically At-Risk Students: An Open Source Analytics Initiative", Journal of Learning Analytics, 1(1), 2014, 6-47. <a href="https://doi.org/10.18608/jla.2014.11.3">https://doi.org/10.18608/jla.2014.11.3</a>.</li>
   
-    <li>Duchessi P., Lauría E., "Decision tree models for profiling ski resorts' promotional and advertising strategies and the impact on sales", Expert Systems with Applications, 40(15), 1 November 2013, 5822-5829. <a href="https://doi.org/10.1016/j.eswa.2013.05.017">https://doi.org/10.1016/j.eswa.2013.05.017</a></li>
+    <li>Duchessi P., Lauría E., "Decision tree models for profiling ski resorts' promotional and advertising strategies and the impact on sales", Expert Systems with Applications, 40(15), 1 November 2013, 5822-5829. <a href="https://doi.org/10.1016/j.eswa.2013.05.017">https://doi.org/10.1016/j.eswa.2013.05.017</a>.</li>
   
-    <li>Lauría E., March E. "Combining Bayesian Text Classification and Shrinkage to Automate Healthcare Coding: A Data Quality Analysis", ACM Journal of Data and Information Quality 2(3), Article 13, December 2011. <a href="https://dl.acm.org/doi/10.1145/2063504.2063506">https://dl.acm.org/doi/10.1145/2063504.2063506</a></li>
+    <li>Lauría E., March E. "Combining Bayesian Text Classification and Shrinkage to Automate Healthcare Coding: A Data Quality Analysis", ACM Journal of Data and Information Quality 2(3), Article 13, December 2011. <a href="https://dl.acm.org/doi/10.1145/2063504.2063506">https://dl.acm.org/doi/10.1145/2063504.2063506</a>.</li>
   
-    <li>Goel S., Lauría E., "Quantification, Optimization and Uncertainty Modeling in Information Security Risks: A Matrix Based Approach", Information Resources Management Journal, 23(2), 2010, 33-52. <a href="http://dx.doi.org/10.4018/irmj.2010040103">http://dx.doi.org/10.4018/irmj.2010040103</a></li>
+    <li>Goel S., Lauría E., "Quantification, Optimization and Uncertainty Modeling in Information Security Risks: A Matrix Based Approach", Information Resources Management Journal, 23(2), 2010, 33-52. <a href="http://dx.doi.org/10.4018/irmj.2010040103">http://dx.doi.org/10.4018/irmj.2010040103</a>.</li>
   
-    <li>Fisher C., Lauría E., Matheus C. , "An Accuracy Metric: Percentages, Randomness and Probabilities", ACM Journal of Data and Information Quality, 1(3), Article 16:1-21, December 2009. <a href="https://dl.acm.org/doi/10.1145/1659225.1659229">https://dl.acm.org/doi/10.1145/1659225.1659229</a></li>
+    <li>Fisher C., Lauría E., Matheus C. , "An Accuracy Metric: Percentages, Randomness and Probabilities", ACM Journal of Data and Information Quality, 1(3), Article 16:1-21, December 2009. <a href="https://dl.acm.org/doi/10.1145/1659225.1659229">https://dl.acm.org/doi/10.1145/1659225.1659229</a>.</li>
   
-    <li>Lauría E., Duchessi P., "A methodology for developing Bayesian networks: An application to information technology (IT) implementation", European Journal of Operational Research, 179(1), 16 May 2007, 234-252. <a href="https://doi.org/10.1016/j.ejor.2006.01.016">https://doi.org/10.1016/j.ejor.2006.01.016</a></li>
+    <li>Lauría E., Duchessi P., "A methodology for developing Bayesian networks: An application to information technology (IT) implementation", European Journal of Operational Research, 179(1), 16 May 2007, 234-252. <a href="https://doi.org/10.1016/j.ejor.2006.01.016">https://doi.org/10.1016/j.ejor.2006.01.016</a>.</li>
   
-    <li>Lauría, E., Duchessi, P. "A Bayesian Belief Network for IT implementation decision support", Decision Support Systems, 42(3), December 2006, 1573-1588. <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a></li>
+    <li>Lauría, E., Duchessi, P. "A Bayesian Belief Network for IT implementation decision support", Decision Support Systems, 42(3), December 2006, 1573-1588. <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
   
-    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="https://www.igi-global.com/article/exploring-behavioral-dimension-client-server/2887">DOI: 10.4018/jthi.2006070104</a></li>
+    <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="https://www.igi-global.com/article/exploring-behavioral-dimension-client-server/2887">DOI: 10.4018/jthi.2006070104</a>.</li>
   </ul>
   
   <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
