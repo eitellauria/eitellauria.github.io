@@ -85,8 +85,6 @@ author_profile: true
   
     <li>Jayaprakash S., Lauría E., Gandhi P, Mendhe D., "Benchmarking Student Performance and Engagement in an Early Alert Predictive System using Interactive Radar Charts", Proceedings of LAK16, Edinburgh, UK, April 25-29, 2016. <a href="https://doi.org/10.1145/2883851.2883940">https://doi.org/10.1145/2883851.2883940</a>.</li>
   
-    <li>Jayaprakash, S. M., Moody, E. W., Lauría, E. J., Regan, J. R., & Baron, J. D. (2014). Early Alert of Academically At-Risk Students: An Open Source Analytics Initiative. Journal of Learning Analytics, 1(1), 6-47.  <a href="https://doi.org/10.18608/jla.2014.11.3">https://doi.org/10.18608/jla.2014.11.3</a>. </li>
-
     <li>Jayaprakash S., Baron J., Gilbert G., Lauría E., Moody E., Reagan J. "Open-source Academic Early Alert and Risk Assessment API", LAK 2015, Practitioner's Track</li>
   
     <li>Jayaprakash S., Lauría E., (2014), "Open Academic Early Alert System: Technical Demonstration", Proceedings of LAK 14 (Learning Analytics and Knowledge Conference), Indianapolis, IN, March 24-28, 2014.</li>
