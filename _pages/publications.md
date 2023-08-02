@@ -118,6 +118,12 @@ author_profile: true
     <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301. <a href="https://doi.org/10.1063/1.2149807">https://doi.org/10.1063/1.2149807</a>.</li>
   
     <li>Lauria E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005.</li>
+
+    <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004.</li>
+
+    <li> Lauria E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
+
+    <li> Lauria E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.
   
     <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "OLAP Technologies in Health Care Management: an application in Medicine Expenditure", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish.</li>
   
