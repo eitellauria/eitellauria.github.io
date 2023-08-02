@@ -119,7 +119,7 @@ author_profile: true
   
     <li>Lauría E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005.</li>
 
-    <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004.</li>
+    <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004. <a href="https://github.com/eitellauria/eitellauria.github.io/blob/master/files/Automated_icd9-cm_coding_employing_bayes.pdf">(Paper)</a>.</li>
 
     <li> Lauría E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
 
