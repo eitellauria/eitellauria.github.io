@@ -135,9 +135,9 @@ author_profile: true
   
     <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006.<a href="http://mitiq.mit.edu/books.aspx">(click here)</a>.</li>
   
-    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005.</li>
+    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005.<a href="https://link.springer.com/chapter/10.1007/3-540-27291-7_20">(click here)</a>.</li>
   
-    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) Idea Group Inc, 2005.</li>
+    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) IGI Global, 2005.<a href="https://www.igi-global.com/chapter/bayesian-machine-learning/14242">DOI: 10.4018/978-1-59140-553-5.ch043</a>.</li>
   
     <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a>.</li>
   </ul>
