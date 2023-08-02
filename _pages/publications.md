@@ -107,7 +107,7 @@ author_profile: true
  
       <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008">AISeL Link</a>.</li>
  
-    <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.</li>
+      <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf">MIT IQ Link</a>.</li>
  
     <li>Klingenberg, B., Lauría, E .,"Teaching the Global Dimensions of Technology Management: A Framework for Course development:", Proceedings of PICMET ' 07, Portland, OR, August 2007.</li>
    
