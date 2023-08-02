@@ -87,7 +87,7 @@ author_profile: true
   
     <li>Jayaprakash S., Baron J., Gilbert G., Lauría E., Moody E., Reagan J. "Open-source Academic Early Alert and Risk Assessment API", LAK 2015, Practitioner's Track</li>
   
-    <li>Jayaprakash S., Lauría E., (2014), "Open Academic Early Alert System: Technical Demonstration", Proceedings of LAK 14 (Learning Analytics and Knowledge Conference), Indianapolis, IN, March 24-28, 2014.</li>
+    <li>Jayaprakash S., Lauría E., (2014), "Open Academic Early Alert System: Technical Demonstration", Proceedings of LAK 14 (Learning Analytics and Knowledge Conference), Indianapolis, IN, March 24-28, 2014.<a href="https://dl.acm.org/doi/10.1145/2567574.2567578">https://dl.acm.org/doi/10.1145/2567574.2567578</a>.</li>
   
     <li>Regan, J., Moody, E., Lauría, E., Jayaprakash, S., Jonnalagadda, N., Baron, J. "Learning Analytics: Coming to a Classroom Near You". Poster presented at the Annual Meeting of the Association for Psychological Science, Washington, D.C., May 2013.</li>
   
@@ -99,7 +99,7 @@ author_profile: true
  
      <li>Lauría E. , Baron E. (2011), “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics”,  Proceedings of ECC2011 (Enterprise Computing Community Conference 2011) , Marist College, Poughkeepsie, NY, June 2010.</li>
  
-     <li>Lauría E. , Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.</li>
+     <li>Lauría E. , Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0003042603470355">DOI:10.5220/0003042603470355</a>.</li>
  
      <li>Lauría, E., Gold E., Curriculum Work Session and Panel on Business Intelligence and Business Analytics, ECC2010 (2nd Enterprise Computing Community National Conference), Marist College, Poughkeepsie, NY, June 13-15, 2010.</li>
  
