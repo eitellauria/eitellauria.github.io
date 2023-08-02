@@ -117,7 +117,7 @@ author_profile: true
   
     <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301. <a href="https://doi.org/10.1063/1.2149807">https://doi.org/10.1063/1.2149807</a>.</li>
   
-    <li>Lauría E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005.</li>
+     <li>Lauría E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005. <a href="https://github.com/eitellauria/eitellauria.github.io/blob/master/files/IRMA205.pdf">(Paper)</a>.</li>
 
     <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004. <a href="https://github.com/eitellauria/eitellauria.github.io/blob/master/files/Automated_icd9-cm_coding_employing_bayes.pdf">(Paper)</a>.</li>
 
