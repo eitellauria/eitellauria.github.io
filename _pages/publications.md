@@ -105,7 +105,7 @@ author_profile: true
  
      <li>Lauría, E., Norton, R., Tanner, N., Baron, J., Prajugo, M., “Deconstructing Sakai: A Case Study”, Sakai Conference, Boston, MA, July 8 – 10, 2009.</li>
  
-<li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.</li>
+      <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008">AISeL Link</a>.</li>
  
     <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.</li>
  
