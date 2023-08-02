@@ -111,7 +111,7 @@ author_profile: true
  
     <li>Klingenberg, B., Lauría, E .,"Teaching the Global Dimensions of Technology Management: A Framework for Course development:", Proceedings of PICMET ' 07, Portland, OR, August 2007.</li>
    
-    <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007.</li>
+    <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007. <a href="https://www.irma-international.org/proceeding-paper/misplacing-code-examination-data-quality/33303/">(IRMA link)</a>.</li>
 
     <li>Lauría, E., March, A., "Effect of Dirty Data on Free Text Discharge Diagnoses used for Automated ICD-9-CM Coding", Proceedings of AMCIS 2006, the 12th Americas Conference on Information Systems, Acapulco, Mexico,  August  2006. <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1736&context=amcis2006&httpsredir=1&referer="> (AISeL link)</a>.</li>
   
