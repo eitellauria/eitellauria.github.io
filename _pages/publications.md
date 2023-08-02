@@ -105,7 +105,7 @@ author_profile: true
  
      <li>Lauría, E., Norton, R., Tanner, N., Baron, J., Prajugo, M., “Deconstructing Sakai: A Case Study”, Sakai Conference, Boston, MA, July 8 – 10, 2009.</li>
  
-      <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008">AISeL Link</a>.</li>
+      <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008"> (AISeL link)</a>.</li>
  
       <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf">MIT IQ Link</a>.</li>
  
@@ -113,7 +113,7 @@ author_profile: true
    
     <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007.</li>
 
-    <li>Lauría, E., March, A., "Effect of Dirty Data on Free Text Discharge Diagnoses used for Automated ICD-9-CM Coding", Proceedings of AMCIS 2006, the 12th Americas Conference on Information Systems, Acapulco, Mexico,  August  2006. <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1736&context=amcis2006&httpsredir=1&referer=">(AISeL Link)</a>.</li>
+    <li>Lauría, E., March, A., "Effect of Dirty Data on Free Text Discharge Diagnoses used for Automated ICD-9-CM Coding", Proceedings of AMCIS 2006, the 12th Americas Conference on Information Systems, Acapulco, Mexico,  August  2006. <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1736&context=amcis2006&httpsredir=1&referer="> (AISeL link)</a>.</li>
   
     <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301. <a href="https://doi.org/10.1063/1.2149807">https://doi.org/10.1063/1.2149807</a>.</li>
   
