@@ -107,7 +107,7 @@ author_profile: true
  
       <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008"> (AISeL link)</a>.</li>
  
-      <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf"> (MIT IQ link)</a>.</li>
+      <li>Fisher C., Lauría E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf"> (MIT IQ link)</a>.</li>
  
     <li>Klingenberg, B., Lauría, E .,"Teaching the Global Dimensions of Technology Management: A Framework for Course development:", Proceedings of PICMET ' 07, Portland, OR, August 2007.</li>
    
@@ -117,17 +117,17 @@ author_profile: true
   
     <li>Lauría, E., (2005), "Learning the Structure of a Bayesian Network: An Application of Information Geometry and the Minimum Description Length Principle", in Bayesian Inference and Maximum Entropy Methods in Science and Engineering, Proceedings of the 25th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, San José State University, USA, Kevin H. Knuth, Ali E. Abbas, Robin D. Morris, J. Patrick Castle (Ed.), 293-301. <a href="https://doi.org/10.1063/1.2149807">https://doi.org/10.1063/1.2149807</a>.</li>
   
-    <li>Lauria E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005.</li>
+    <li>Lauría E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005.</li>
 
     <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004.</li>
 
-    <li> Lauria E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
+    <li> Lauría E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
 
-    <li> Lauria E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.
+    <li> Lauría E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.
   
     <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "Tecnologías OLAP en la gestión de servicios de salud: su aplicación en el estudio del gasto en medicamentos.", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish. <a href="https://www.researchgate.net/publication/257935435_Tecnologias_OLAP_en_la_gestion_de_servicios_de_salud_su_aplicacion_en_el_estudio_del_gasto_en_medicamentos">(ResearchGate link)</a>.</li>
   
-    <li>March A, Lauria E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
+    <li>March A, Lauría E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
   </ul>
   
   <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
