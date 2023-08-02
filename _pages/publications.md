@@ -125,7 +125,7 @@ author_profile: true
 
     <li> Lauria E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.
   
-    <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "OLAP Technologies in Health Care Management: an application in Medicine Expenditure", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish.</li>
+    <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "Tecnologías OLAP en la gestión de servicios de salud: su aplicación en el estudio del gasto en medicamentos.", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish. <a href="https://www.researchgate.net/publication/257935435_Tecnologias_OLAP_en_la_gestion_de_servicios_de_salud_su_aplicacion_en_el_estudio_del_gasto_en_medicamentos">(ResearchGate link)</a>.</li>
   
     <li>March A, Lauria E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
   </ul>
