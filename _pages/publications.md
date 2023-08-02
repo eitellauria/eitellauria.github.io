@@ -99,7 +99,7 @@ author_profile: true
  
      <li>Lauría E. , Baron E. (2011), “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics”,  Proceedings of ECC2011 (Enterprise Computing Community Conference 2011) , Marist College, Poughkeepsie, NY, June 2010.</li>
  
-     <li>Lauría E. , Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0003042603470355">DOI:10.5220/0003042603470355</a>.</li>
+     <li>Lauría E. , Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0003042603470355"> DOI:10.5220/0003042603470355</a>.</li>
  
      <li>Lauría, E., Gold E., Curriculum Work Session and Panel on Business Intelligence and Business Analytics, ECC2010 (2nd Enterprise Computing Community National Conference), Marist College, Poughkeepsie, NY, June 13-15, 2010.</li>
  
@@ -107,7 +107,7 @@ author_profile: true
  
       <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", forthcoming in Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008"> (AISeL link)</a>.</li>
  
-      <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf">MIT IQ Link</a>.</li>
+      <li>Fisher C., Lauria E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf"> (MIT IQ link)</a>.</li>
  
     <li>Klingenberg, B., Lauría, E .,"Teaching the Global Dimensions of Technology Management: A Framework for Course development:", Proceedings of PICMET ' 07, Portland, OR, August 2007.</li>
    
