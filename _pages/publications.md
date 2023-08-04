@@ -133,7 +133,7 @@ author_profile: true
   <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
   
    <ul>
-    <li>Gonzalez Bonorino A., Lauría E, “Adaptive Kevin: A multipurpose AI Assistant for Higher Education”, Communications in Computer and Information Science, Springer 2023, Computer Supported Education - 14th International Conference, CSEDU 2022, Revised Selected Papers (pending publication).</li>   
+    <li>Gonzalez Bonorino A., Lauría E, “Adaptive Kevin: A multipurpose AI Assistant for Higher Education”, Proceedings of Computer Supported Education - 14th International Conference, CSEDU 2022, Revised Selected Papers. Forthcoming in Communications in Computer and Information Science (CCIS, volume 1817), Springer, Berlin, Heidelberg, 2023. </li>   
     
     <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.<a href="https://link.springer.com/chapter/10.1007/978-3-642-02083-4_14">(click here)</a>.</li>
   
