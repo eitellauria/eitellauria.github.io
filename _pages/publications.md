@@ -53,7 +53,7 @@ author_profile: true
   
     <li>Lauría, E. "Machine Learning for Early Detection of Academically At-Risk Students: Challenges, Technologies and Opportunities for Research", GTnum #IA_EO Workshop, Digital Thematic Working Groups on Artificial Intelligence and Open Education, IMT Atlantique/Lab-STICC in partnership with University of Nantes/LS2N, MEN and DANE, June 17, 2021. <a href="https://edunumrech.hypotheses.org/3265">https://edunumrech.hypotheses.org/3265</a>.</li>
     
-    <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. (video: click<a href="https://vimeo.com/550062865/335885712c">here</a>).</li>
+    <li>Lauría E., "An Exploratory Study for Applying Anomaly Detection to Identify Academically at-risk Students", 2021 Enterprise Computing Conference, Marist College (online streaming), June 13-14, 2021. First Place Presentation Award in the Artificial Intelligence / Deep Learning / Automation category. (video: click <a href="https://vimeo.com/550062865/335885712c">here</a>).</li>
   
     <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. Shortlisted for Best Paper Award. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0010471900260035">DOI: 10.5220/0010471900260035</a>.</li>
   
