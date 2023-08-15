@@ -62,8 +62,9 @@ author_profile: true
   </ul> 
 
   
-  <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
-   <ul>
+ <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
+
+  <ul>
      <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
 
     <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Opinion piece <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
@@ -147,7 +148,8 @@ author_profile: true
     <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "Tecnologías OLAP en la gestión de servicios de salud: su aplicación en el estudio del gasto en medicamentos.", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish. <a href="https://foxweb.marist.edu/users/jf4n/Research/Papers/2001SIS-TecnologasOLAP.pdf">(Paper)</a>.</li>
   
     <li>March A, Lauría E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
-  </ul>
+
+</ul>
    
 <div id="grants"><h2>Grants</h2></div> 
 <ul>
