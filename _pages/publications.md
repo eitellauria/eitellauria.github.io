@@ -156,7 +156,7 @@ author_profile: true
 <div id="grants"><h2>Grants</h2></div> 
 <ul>
 <li>
-<p>IBM Smarter Planet Innovation Faculty Award (2013 - 2014)</p>
+<IBM Smarter Planet Innovation Faculty Award (2013 - 2014)
 <p>Topic: curriculum development in Big Data and NoSQL (Hadoop/ MapReduce) technologies</p>
 <p>Funding amount: $10,000</p>
 </li>
