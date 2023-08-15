@@ -9,15 +9,15 @@ author_profile: true
 
 <div id="menu">
     <ul>
-    <li><a href="#refereed-journal-articles">Refereed Journal Articles</a> </li>
+    <li><a href="#refereed-journal-articles">Journal Articles</a> </li>
+    <li><a href="#books-and-book-chapters">Books and Book Chapters</a> </li>    
     <li><a href="#conference-proceedings-and-presentations">Conference Proceedings and Presentations</a> </li>
-    <li><a href="#books-and-book-chapters">Books and Book Chapters</a> </li>
     <li><a href="#grants">Grants</a> </li>
     <li><a href="#dissertation">Dissertation</a></li>
     </ul>       
 </div>
 
-<div id="refereed-journal-articles"><h2>Refereed Journal Articles</h2></div> 
+<div id="refereed-journal-articles"><h2>Journal Articles</h2></div> 
 
   <ul>
     <li>Balnis J., Lauría E. , Yucel R., Singer H., Alisch R., Jaitovich A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine",  American Journal of Respiratory Cell and Molecular Biology. Received: April 27, 2023,  Accepted: June 28, 2023. <a href="https://doi.org/10.1165/rcmb.2023-0153PS">https://doi.org/10.1165/rcmb.2023-0153PS</a>.<br>
@@ -42,6 +42,24 @@ author_profile: true
   
     <li>Lauria E., "Exploring the Behavioral Dimension of Client Server Technology Implementation: An Empirical Investigation", International Journal of Technology and Human Interaction, July-September 2006, 2(3), 63-81 (selected for inclusion in "End User Computing: Concepts, Methodologies, Tools and Applications", Steve Clarke (Ed.), Information Science Reference, Hershey, 2008, 1579-1594. <a href="https://www.igi-global.com/article/exploring-behavioral-dimension-client-server/2887">DOI: 10.4018/jthi.2006070104</a>.</li>
   </ul>
+
+  <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
+   <ul>
+    <<li>Gonzalez-Bonorino, A., Lauría, E.J.M. (2023). Adaptive Kevin: A Multipurpose AI Assistant for Higher Education. In: Uhomoibhi, J. (eds) Computer Supported Education. CSEDU 2022. Revised Seelected Papers. Communications in Computer and Information Science, vol 1817. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-40501-3_7">https://doi.org/10.1007/978-3-031-40501-3_7</a>. </li>    
+    
+    <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.<a href="https://link.springer.com/chapter/10.1007/978-3-642-02083-4_14">(click here)</a>.</li>
+  
+    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a>.</li>
+  
+    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006.<a href="http://mitiq.mit.edu/books.aspx">(click here)</a>.</li>
+  
+    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005.<a href="https://link.springer.com/chapter/10.1007/3-540-27291-7_20">(click here)</a>.</li>
+  
+    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) IGI Global, 2005.<a href="https://www.igi-global.com/chapter/bayesian-machine-learning/14242">DOI: 10.4018/978-1-59140-553-5.ch043</a>.</li>
+  
+    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a>.</li>
+  </ul> 
+
   
   <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
    <ul>
@@ -129,25 +147,7 @@ author_profile: true
   
     <li>March A, Lauría E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
   </ul>
-  
-  <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
-  
-   <ul>
-    <li>Gonzalez Bonorino A., Lauría E, “Adaptive Kevin: A multipurpose AI Assistant for Higher Education”, Proceedings of Computer Supported Education - 14th International Conference, CSEDU 2022, Revised Selected Papers. Forthcoming in Communications in Computer and Information Science (CCIS, volume 1817), Springer, Berlin, Heidelberg, 2023. </li>   
-    
-    <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.<a href="https://link.springer.com/chapter/10.1007/978-3-642-02083-4_14">(click here)</a>.</li>
-  
-    <li>Lauria E., "An information-geometric approach to learning Bayesian network topologies from data.", D. Holmes and L.C. Jain (Eds.): Innovations in Bayesian Networks: Theory and Applications, Springer-Verlag 2008, 187-217 <a href="http://dx.doi.org/10.1007/978-3-540-85066-3_8">http://dx.doi.org/10.1007/978-3-540-85066-3_8</a>.</li>
-  
-    <li>Fisher, C., Lauría, E., Chengalur-Smith, S., Wang, R. Introduction to Information Quality (textbook), MIT-IQ Press, Cambridge, MA, 2006.<a href="http://mitiq.mit.edu/books.aspx">(click here)</a>.</li>
-  
-    <li>Lauria E., Tayi, G., The Quest for Business Intelligence, in Erfolgsfaktor Innovation, Zurich Graduate School of Management, Ralph Berndt (Ed.), Springer, 2005.<a href="https://link.springer.com/chapter/10.1007/3-540-27291-7_20">(click here)</a>.</li>
-  
-    <li>Lauria E, "Bayesian Machine Learning", in Encyclopedia of Information Science and Technology, Volume I-III, Mehdi Khosrow-Pour, (Ed.) IGI Global, 2005.<a href="https://www.igi-global.com/chapter/bayesian-machine-learning/14242">DOI: 10.4018/978-1-59140-553-5.ch043</a>.</li>
-  
-    <li>Lauria E, Tayi G. (2003) "Bayesian Data Mining and Knowledge Discovery", in Data Mining: Opportunities and Challenges, John Wang (Ed.) Idea Group Publishing, Hershey PA. <a href="https://dl.acm.org/doi/10.5555/903826.903838">https://dl.acm.org/doi/10.5555/903826.903838</a>.</li>
-  </ul>
-  
+   
 <div id="grants"><h2>Grants</h2></div> 
 <ul>
 <li>
