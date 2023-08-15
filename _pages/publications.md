@@ -17,6 +17,7 @@ author_profile: true
     </ul>       
 </div>
 
+
 <div id="refereed-journal-articles"><h2>Journal Articles</h2></div> 
 
   <ul>
