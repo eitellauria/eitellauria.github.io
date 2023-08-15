@@ -46,7 +46,7 @@ author_profile: true
 
   <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
    <ul>
-    <<li>Gonzalez-Bonorino, A., Lauría, E.J.M. (2023). Adaptive Kevin: A Multipurpose AI Assistant for Higher Education. In: Uhomoibhi, J. (eds) Computer Supported Education. CSEDU 2022. Revised Seelected Papers. Communications in Computer and Information Science, vol 1817. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-40501-3_7">https://doi.org/10.1007/978-3-031-40501-3_7</a>. </li>    
+    <li>Gonzalez-Bonorino, A., Lauría, E.J.M. (2023). Adaptive Kevin: A Multipurpose AI Assistant for Higher Education. In: Uhomoibhi, J. (eds) Computer Supported Education. CSEDU 2022. Revised Seelected Papers. Communications in Computer and Information Science, vol 1817. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-40501-3_7">https://doi.org/10.1007/978-3-031-40501-3_7</a>. </li>    
     
     <li>Lauría E., Belardo S. "Information or Informing: Does it matter?", in Ralph Berndt (Ed.) Weltwirtschaft 2010: Trends und Strategien (Herausforderungen an das Management), Springer-Verlag GmbH, 2009.<a href="https://link.springer.com/chapter/10.1007/978-3-642-02083-4_14">(click here)</a>.</li>
   
