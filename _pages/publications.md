@@ -65,9 +65,11 @@ author_profile: true
  <div id="conference-proceedings-and-presentations"><h2>Conference Proceedings and Presentations</h2></div> 
 
   <ul>
-     <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
+     <li>Lauría E., "The Generative AI Conundrum", Educational Technology Insights, August 2023. Opinion piece <a href="https://smart-education-and-learning.educationtechnologyinsights.com/cxoinsights/the-generative-ai-conundrum-nid-2440.html">(click here)</a>.</li>
+      
+      <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
 
-    <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Opinion piece <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
+    <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Interview <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
        
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. <a href="https://www.scitepress.org/Papers/2022/110590/">DOI: 10.5220/0011059000003182</a>.</li>
   
