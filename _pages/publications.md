@@ -166,7 +166,7 @@ author_profile: true
 
 <ul>
 <li>
-<p>Member of the team working on the creation of the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State. The grant is part of a 92.8 million dollar package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.</p>
+<p>Member of the team that created and launched the NYS Cloud Computing and Analytics Center at Marist College, funded through New York State. The grant is part of a 92.8 million dollar package of funding for 84 projects in the Mid-Hudson Valley that will come to the region through its designation as one of three Best Plan Awardees in the ten-region competition.</p>
 <p>Overall funding: $3 million</p>
 <p>Funding period: 2013-2016</p>
 </li>
