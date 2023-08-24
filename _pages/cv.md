@@ -180,8 +180,8 @@ Spanish and English. <br>
 <h2>Prizes and Awards</h2>
 * ECC 2023: First Place Award for research work on AutoKevin: a semi-autonomous AI knowledge discovery system for higher education.
 * Marist College (Faculty Affairs Committee): 2023 Gregory J. Kilgariff Distinguished Service and Leadership AWard.
-* ECC 2021: First Place Award for for research work on applying anomaly detection techniques on early detection of academically at-risk students.
-* CSEDU 2020:  Best Paper Award for our paper in prediction of freshmen attrition.
+* ECC 2021: First Place Award for research work on applying anomaly detection techniques on early detection of academically at-risk students.
+* CSEDU 2020:  Best Paper Award for research work on prediction of freshmen attrition.
 * Marist College: 2015 Board of Trustees Distinguished Teaching Award. 
 * Marist College:  Office of the Academic Vicepresident's Award for outstanding scholarship achievement, 2005, 2006, 2007,2009, 2010.
 * Profiled by IBM Academic Initiative in 2012 (Faculty Spotlight) for his use of cloud computing in education.
