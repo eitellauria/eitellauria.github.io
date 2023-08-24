@@ -166,12 +166,14 @@ Spanish and English. <br>
 </blockquote></details>
 
 <h2>Service and Leadership roles</h2>
-* Serve as a close advisor and collaborator to the School Dean in matters related to graduate programs, faculty hiring, the data science and artificial intelligence curriculum portfolio, and numerous research initiatives funded through NSF and NYS in the last twenty years, including the creation of the Center for Collaborative & On-Demand Computing (CCODC), the Cloud Computing & Analytics Center (CCAC), and the Enterprise Computing Community/Conference (ECC).
+* Served as a close advisor and collaborator to the School Dean in matters related to graduate programs, faculty hiring, the data science and artificial intelligence curriculum portfolio, and numerous research initiatives funded through NSF and NYS in the last twenty years, including the creation of the Center for Collaborative & On-Demand Computing (CCODC), the Cloud Computing & Analytics Center (CCAC), and the Enterprise Computing Community/Conference (ECC).
 * Served as member and Chair of the Academic Affairs Committee.
 * Recently served as member and Vice-Chair of the Faculty Affairs Committee.
-* Serve (and has served before) as Chair of the Dept’s Faculty Search Committee. Has been instrumental in hiring of several new faculty members in the last year.
+* Serve (and has served before) as Chair of the Dept’s Faculty Search Committee. Has been instrumental in hiring of several new faculty members in the last years.
 * Most senior member of the faculty in the Dept of Computing Technology:  has served as a member and chair of the peer review committees the provided tenure and promotion recommendations to the Dean and the VPAA’s office of all current tenured and tenure-track faculty in the Dept.
 * Lead Data Scientist of the Learning Analytics Initiative at Marist College, working in close collaboration with the Office of Data Science & Analytics, a division of the IT Dept.
+* Member of the CIO and VP of Information Technology Search Committee at Marist College.
+* Member of the Academic Planning Committee during the COVID-19 crisis.
 * Member of the Presidential Search that selected Kevin Weinman as the fifth President of Marist College.
 * Co-chair of the 2022- 2023 Strategic Planning Student Success Group, charged with exploring the development of more robust academic and co-curricular support services to enhance satisfaction and success for all student populations.
 
