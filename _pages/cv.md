@@ -174,7 +174,7 @@ Spanish and English. <br>
 * Lead Data Scientist of the Learning Analytics Initiative at Marist College, working in close collaboration with the Office of Data Science & Analytics, a division of the IT Dept.
 * Member of the CIO and VP of Information Technology Search Committee at Marist College.
 * Member of the Academic Planning Committee during the COVID-19 crisis.
-* Member of the Presidential Search that selected Kevin Weinman as the fifth President of Marist College.
+* Member of the Presidential Search Committee that selected Kevin Weinman as the fifth President of Marist College.
 * Co-chair of the 2022- 2023 Strategic Planning Student Success Group, charged with exploring the development of more robust academic and co-curricular support services to enhance satisfaction and success for all student populations.
 
 <h2>Prizes and Awards</h2>
