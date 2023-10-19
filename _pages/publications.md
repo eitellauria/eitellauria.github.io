@@ -208,7 +208,7 @@ author_profile: true
 
 <ul>
 <li>
-<p>Co-Principal Investigator of the Enterprise Computing Community, and initiative funded by the National Science Foundation to "Revitalize Undergraduate Education in Enterprise Computing." Founding members include 8 additional universities and 9 industry partners.</p>
+<p>Founding member of the Enterprise Computing Community, and initiative funded by the National Science Foundation to "Revitalize Undergraduate Education in Enterprise Computing." Founding members include 8 additional universities and 9 industry partners.</p>
 <p>Overall Funding:  $400,000</p>
 <p>Funding period: 2008-2010</p>
 <p>URL: <a href="http://ecc.marist.edu/">http://ecc.marist.edu</a></p>
