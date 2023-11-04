@@ -111,7 +111,7 @@ author_profile: true
 
      <li> Lauría E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
 
-     <li> Lauría E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.
+     <li> Lauría E, Tayi G. (2003),  “A Comparative Study of Data Mining Algorithms for Network Intrusion Detection in the Presence of Poor Quality Data”,  Proceedings of the 8th international Conference on Information Quality (ICIQ-2003), Massachusetts Institute of Technology, November 2003 <a href="https://ualr.edu/informationquality/iciq-proceedings/iciq-2003/">MIT ICIQ 2003</a>.</li>
   
      <li>March A, Leguiza J, Lauría E., Gomez A, G. Bernaldo de Quirós F, Luna D., "Tecnologías OLAP en la gestión de servicios de salud: su aplicación en el estudio del gasto en medicamentos.", Proceedings of SIS2001 (Simposio de Informática y Salud – SADIO), Sept 12-14, 2001. (Research funded by IBM Argentina S.A.), in Spanish. <a href="https://foxweb.marist.edu/users/jf4n/Research/Papers/2001SIS-TecnologasOLAP.pdf">(Paper)</a>.</li>
   
@@ -120,7 +120,7 @@ author_profile: true
 </ul> 
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
-   <ul>
+ <ul>
      <li>Lauría E., "The Rise of Generative AI", 2023 Transformative Technologies Workshop: GenAI and its Implications for Accounting. American Association of Accounting. October 27, 2023<a href="https://aaahq.org/Meetings/2023/SET-Transformative-Technologies-Workshop">(click here)</a>.</li>
 
      <li>Lauría E., "The Generative AI Conundrum", Educational Technology Insights, August 2023. Opinion piece <a href="https://smart-education-and-learning.educationtechnologyinsights.com/cxoinsights/the-generative-ai-conundrum-nid-2440.html">(click here)</a>.</li>
@@ -157,9 +157,7 @@ author_profile: true
  
     <li>Lauría, E., Norton, R., Tanner, N., Baron, J., Prajugo, M., “Deconstructing Sakai: A Case Study”, Sakai Conference, Boston, MA, July 8 – 10, 2009.</li>
    
-<!---
 </ul> 
---->
    
 <div id="grants"><h2>Grants</h2></div> 
 <ul>
