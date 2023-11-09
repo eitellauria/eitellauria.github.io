@@ -65,9 +65,9 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </li>
 </ul>
 </blockquote></details>
-<details><summary>Photo Gallery</summary><blockquote>
+<details><summary>Some of my students</summary><blockquote>
 <ul>
- 	<li><a href="/gallery/">Some of my students</a></li>
+ 	<li><a href="/gallery/">Photo Gallery</a></li>
 </ul>
 </blockquote></details>
 <details><summary>Data Science, AI, ML and Bayesian Stuff</summary><blockquote>
