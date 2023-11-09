@@ -1,3 +1,9 @@
+- path: /images/gallery/augusto.png
+  caption: Augusto
+
+- path: /images/gallery/kavya.png
+  caption: Kavya
+
 - path: /images/gallery/augusto_at_csedu2022.png
   caption: Augusto presenting at CSEDU2022
 
@@ -7,17 +13,11 @@
 - path: /images/gallery/commencement_1.png
   caption: Commencement
 
-- path: /images/gallery/dream_team.png
-  caption: Dream Team
-
 - path: /images/gallery/ed_csedu2018.png
   caption: Ed at CSEDU 2018
 
 - path: /images/gallery/ed_matt_vancouver.png
   caption: Ed and Matt in Vancouver
-
-- path: /images/gallery/first_mstm.png
-  caption: First MSTM Cohort
 
 - path: /images/gallery/grad_students.png
   caption: International Grad Students
@@ -25,14 +25,14 @@
 - path: /images/gallery/gus_mustakas.png
   caption: Gus Mustakas
 
-- path: /images/gallery/kavya.png
-  caption: Kavya
-
 - path: /images/gallery/matt_sokoloff_lak2017.png
   caption: Matt presenting at LAK17
 
 - path: /images/gallery/monish_and_sristi.png
   caption: Monish and Sristi
+
+- path: /images/gallery/dream_team.png
+  caption: Dream Team
 
 - path: /images/gallery/mstm_india.png
   caption: MSTM trip to India
@@ -43,9 +43,6 @@
 - path: /images/gallery/students_ds_office.png
   caption: Students Data Science Office
 
-- path: /images/gallery/augusto.png
-  caption: Augusto
+- path: /images/gallery/first_mstm.png
+  caption: First MSTM Cohort
 
-
-
- 
