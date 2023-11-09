@@ -10,14 +10,17 @@
 - path: /images/gallery/gus_mustakas.png
   caption: Gus Mustakas
 
-- path: /images/gallery/monish_and_sristi.png
-  caption: Monish and Sristi
-
 - path: /images/gallery/augusto_kyle_kevin01.png
   caption: Augusto and Kyle at CURSCA
 
+- path: /images/gallery/monish_and_sristi.png
+  caption: Monish and Sristi
+
+- path: /images/gallery/JackBarry.JPG
+  caption: With Jack at CURSCA
+
 - path: /images/gallery/dream_team.png
-  caption: Dream Team (Sean,Joey,Greg,Jon)
+  caption: Dream Team (Sean, Greg, Joey, Jon)
 
 - path: /images/gallery/ed_csedu2018.png
   caption: Ed at CSEDU 2018
