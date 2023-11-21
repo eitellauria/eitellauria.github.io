@@ -107,6 +107,10 @@ Spanish and English. <br>
 * Program Committee Member Reviewer of the International Conference on Computer Science and Operations Research, Buenos Aires, Argentina, JAIIO (2003, 2004, 2005).
 * NSF Grant Proposal reviewer on the subject of learning analytics.
 
+<h2>Professional Affiliations</h2>
+* Association for Computing Machinery (ACM).
+* Association for the Advancement of Artificial Intelligence (AAAI).
+
 <h2>Publications and Talks</h2>
 * See research tab.
 
