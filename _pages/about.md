@@ -27,7 +27,7 @@ redirect_from:
 </div>
 
 <h2>Teaching & Research Interests</h2>
-My teaching and research interests cover the fields of  data science, predictive modeling, machine learning, artificial intelligence, and data & information quality, focusing on the application of these disciplines in a variety of domains, including IT implementation, educational technology, learning analytics, health informatics, network security, and natural language processing.<br><br>
+My teaching and research interests cover the fields of data science, predictive modeling, machine learning, artificial intelligence, and data & information quality, focusing on the application of these disciplines in a variety of domains, including IT implementation, educational technology, learning analytics, health informatics, network security, and natural language processing.<br><br>
 I am the recipient of the <a href="/BOTAward2015/">2015 Board of Trustees Distinguished Teaching Award</a>.
 
 <h2>Short Biographical Statement</h2>
