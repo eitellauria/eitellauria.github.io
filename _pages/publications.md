@@ -22,6 +22,9 @@ author_profile: true
 <div id="refereed-journal-articles"><h2>Journal Articles</h2></div> 
 
   <ul>
+
+    <li>Damiano A., Lauría E., Sarmiento C., Zhao N., "Early Perceptions of Teaching and Learning Using Generative AI in Higher Education", upcoming in Journal of Educational Technology Systems, Special Issue: Artificial Intelligence in Education, March 2024. </li>
+    
     <li>Balnis J., Lauría E. , Yucel R., Singer H., Alisch R., Jaitovich A., "Peripheral Blood Omics and other multiplex-based systems in Pulmonary and Critical Care Medicine",  American Journal of Respiratory Cell and Molecular Biology. Received: April 27, 2023,  Accepted: June 28, 2023. <a href="https://doi.org/10.1165/rcmb.2023-0153PS">https://doi.org/10.1165/rcmb.2023-0153PS</a>.<br>
     <i>A collaboration with Albany Medical College (Division of Pulmonary and Critical Care Medicine and Department of Molecular and Cellular Physiology); Temple University (Dept of Epidemiology and Biostatistics); University of Wisconsin School of Medicine and Public Health (Dept of Neurological Surgery).</i>     
   </li>  
