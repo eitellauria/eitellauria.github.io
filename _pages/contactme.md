@@ -18,7 +18,7 @@ author_profile: true
     </ul>
 	<h2>Office hours during Spring 2024</h2>
 	<ul>
- 	<li>Monday 10AM – 12PM (typically over Zoom</li>
+ 	<li>Monday 10AM – 12PM (typically over Zoom)</li>
 	<li>Wednesday 10AM – 11AM</li>	
  	<li>Thursday 9:30AM – 10:30AM</li>
  	<li>or by appointment</li>
