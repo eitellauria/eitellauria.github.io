@@ -16,11 +16,11 @@ author_profile: true
  	<li>My email address: <a href="mailto:eitel.lauria@marist.edu">eitel.lauria@marist.edu</a></li>
  	<li>LinkedIn: <a href="https://www.linkedin.com/in/elauria/">elauria</a></li>
     </ul>
-	<h2>Office hours during Fall 2023</h2>
+	<h2>Office hours during Spring 2024</h2>
 	<ul>
- 	<li>Monday 9:30AM – 11:30PM, 2PM – 3PM</li>
-	<li>Wednesday 2PM – 3PM</li>	
- 	<li>Thursday 9:30AM – 10:30AM, 2PM – 3PM</li>
+ 	<li>Monday 10AM – 12PM (typically over Zoom</li>
+	<li>Wednesday 10AM – 11AM</li>	
+ 	<li>Thursday 9:30AM – 10:30AM</li>
  	<li>or by appointment</li>
 	</ul>
 	If you need a remote appointment, please email me and we can set up a meeting via Zoom.<br>
