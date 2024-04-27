@@ -126,11 +126,13 @@ author_profile: true
  <ul>
     <li>Lauría E., "The Promise and Perils of Artificial Intelligence", Makers of History Lecture Series. D&H Canal Historical Society. March 22, 2024.</li>
      
-     <li>Lauría E., "The Rise of Generative AI", 2023 Transformative Technologies Workshop: GenAI and its Implications for Accounting. American Association of Accounting. October 27, 2023<a href="https://aaahq.org/Meetings/2023/SET-Transformative-Technologies-Workshop">(click here)</a>.</li>
+     <li>Lauría E., "The Rise of Generative AI", 2023 Transformative Technologies Workshop: GenAI and its Implications for Accounting. American Association of Accounting. October 27, 2023 <a href="https://aaahq.org/Meetings/2023/SET-Transformative-Technologies-Workshop">(click here)</a>.</li>
 
      <li>Lauría E., "The Generative AI Conundrum", Educational Technology Insights, August 2023. Opinion piece <a href="https://smart-education-and-learning.educationtechnologyinsights.com/cxoinsights/the-generative-ai-conundrum-nid-2440.html">(click here)</a>.</li>
       
      <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
+
+     <li>Lauría E., "Machine Learning and the Rise of Data-Driven AI",Poughkeepsie Chapter of the Association For Computing Machinery, March 20, 2023 <a href="https://pok.acm.org/meetings/meeting23.03.html">(click here)</a>.</li>
 
      <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Interview <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
         
