@@ -132,7 +132,7 @@ author_profile: true
       
      <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
 
-     <li>Lauría E., "Machine Learning and the Rise of Data-Driven AI",Poughkeepsie Chapter of the Association For Computing Machinery, March 20, 2023 <a href="https://pok.acm.org/meetings/meeting23.03.html">(click here)</a>.</li>
+     <li>Lauría E., "Machine Learning and the rise of data-driven AI: what's all the fuzz about?",Poughkeepsie Chapter of the Association For Computing Machinery (ACM), March 20, 2023 <a href="https://pok.acm.org/meetings/meeting23.03.html">(click here)</a>.</li>
 
      <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Interview <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
         
