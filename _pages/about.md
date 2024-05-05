@@ -367,6 +367,11 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </div>
 <br>
 <div>
+    <i>"He was beautiful. He was the point of difference, he has always been the point of difference. Unparalleled. And maybe today there will of course always be those who argue, always be those who debate. And the debate can rage on if you like, but as he falls in love with the object in the world that his heart most desired, it’s hard to escape the supposition that he has rendered himself today, the Greatest Of All Time."</i><br>
+    <div style="color: #999999; text-align: left;">- Peter Drury on Lionel Messi, 18-Dec-2022</div>
+</div>
+<br>
+<div>
     <i>"Life is what happens to you while you're busy making other plans."</i><br>
     <div style="color: #999999; text-align: left;">- John Lennon [1940-1980]</div>
 </div>
