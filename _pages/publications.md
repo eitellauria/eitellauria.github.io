@@ -128,7 +128,7 @@ author_profile: true
      
      <li>Lauría E., "The Rise of Generative AI", 2023 Transformative Technologies Workshop: GenAI and its Implications for Accounting. American Association of Accounting. October 27, 2023 <a href="https://aaahq.org/Meetings/2023/SET-Transformative-Technologies-Workshop">(click here)</a>.</li>
 
-     <li>Lauría E., "The Generative AI Conundrum", Educational Technology Insights, August 2023. Opinion piece <a href="https://smart-education-and-learning.educationtechnologyinsights.com/cxoinsights/the-generative-ai-conundrum-nid-2440.html">(click here)</a>.</li>
+     <li>Lauría E., "GPT-like models", Educational Technology Insights, August 2023. Opinion piece <a href="https://education-technology-canada.educationtechnologyinsights.com/cxoinsights/gptlike-models-nid-2523.html">(click here)</a>.</li>
       
      <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
 
