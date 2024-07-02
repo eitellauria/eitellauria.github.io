@@ -124,6 +124,8 @@ author_profile: true
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
+     <li>Lauría E., "Más Allá de la Máquina: Inteligencia Artificial en la Encrucijada de la Historia", ECIFACET 2024 - Encuentro Científico de Investigadores de la FACET, Universidad Nacional de Tucumán - Facultad de Ciencias Exactas y Tecnología, June 4 2024.</li>
+     
     <li>Lauría E., "The Promise and Perils of Artificial Intelligence", Makers of History Lecture Series. D&H Canal Historical Society. March 22, 2024.</li>
      
      <li>Lauría E., "The Rise of Generative AI", 2023 Transformative Technologies Workshop: GenAI and its Implications for Accounting. American Association of Accounting. October 27, 2023 <a href="https://aaahq.org/Meetings/2023/SET-Transformative-Technologies-Workshop">(click here)</a>.</li>
