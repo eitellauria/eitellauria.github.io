@@ -10,9 +10,9 @@ author_profile: true
 <!-- Include more content here as needed -->
 
 <a id="bottom-text"></a>
-## "Unbeliever's Quest"
-by Jerry Adler
-NEWSWEEK, 3/30/97
+
+by Jerry Adler<br>
+NEWSWEEK, 3/30/97<br>
 
 CARL SAGAN, THE FAMOUS SCIENTIST and author, never asked for anyone to pray for him, although in his final illness many people did anyway. For two years, prayers for his health filled the great Cathedral of St. John the Divine in New York. They rose (if prayers do rise) to the heaven Sagan had never seen in all his years of searching the sky, and were heard (if prayers are heard) by the God Sagan never called on. And God (if he exists) let Sagan die anyway, late last year, at the untimely age of 62, leaving behind a wife, five children, and much unfinished work on the earth he loved so well. But he died in what amounted, for him, to a state of grace: resisting the one temptation to which almost everyone submits in the end, the temptation to believe.
 <br><br>
