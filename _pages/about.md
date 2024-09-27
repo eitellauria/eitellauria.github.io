@@ -153,7 +153,8 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 <details><summary>Miscelanea</summary><blockquote>
 <ul>
  	<li>
-<a href="https://www.newsweek.com/unbelievers-quest-170478">Unbeliever's Quest</a>
+<!-- <a href="https://www.newsweek.com/unbelievers-quest-170478">Unbeliever's Quest</a> -->
+<a href="/unbeliever.html/">Unbeliever's Quest</a>    
 </li>
  	<li>
 <a href="https://youtu.be/ipRvjS7q1DI" target="_blank" >Richard Feynman: Can Machines Think?</a>
