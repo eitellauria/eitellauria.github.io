@@ -199,7 +199,7 @@ author_profile: true
 
 <ul>
 <li>
-<p>Data Data mining and Predictive Analytics Lead of the Open Academic Analytics Initiative (OAAI). The OAAI is funded through the Next Generation Learning Challenges (NGLC), a collaborative, multi-year grant program aimed at increasing college readiness and completion through applied technology. NGLC partners include EDUCAUSE, the League for Innovation in the Community College, the International Association for K-12 Online Learning (INACOL), and the Council of Chief State School Officers (CCSSO). Funding is being provided by the Bill &amp; Melinda Gates Foundation and The William and Flora Hewlett Foundation.</p>
+<p>Data Science Lead of the Open Academic Analytics Initiative (OAAI). The OAAI is funded through the Next Generation Learning Challenges (NGLC), a collaborative, multi-year grant program aimed at increasing college readiness and completion through applied technology. NGLC partners include EDUCAUSE, the League for Innovation in the Community College, the International Association for K-12 Online Learning (INACOL), and the Council of Chief State School Officers (CCSSO). Funding is being provided by the Bill &amp; Melinda Gates Foundation and The William and Flora Hewlett Foundation.</p>
 <p>Overall funding: $250,000</p>
 <p>Funding period: 2010-2011</p>
 </li>
