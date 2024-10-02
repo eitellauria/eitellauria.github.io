@@ -58,17 +58,21 @@ le valió el Premio Luis V. Migone, otorgado por el Centro Argentino
 de Ingenieros al mejor trabajo de ingeniería argentina en el período 
 1965-1969).
 
-<div style="display: flex; gap: 10px;">
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
+        <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 300px;" />
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="/images/inge/02-Migone(nuevo).jpg" target="_blank">
+        <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="height: 300px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
-    <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados" style="width: 300px;" />
-  </a>
-
-  <a href="/images/inge/02-Migone(nuevo).jpg" target="_blank">
-    <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="width: 300px;" />
-  </a>
-
-</div>
 
 
 La naturaleza del cálculo requerida por sus tareas de investigación 
