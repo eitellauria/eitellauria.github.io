@@ -17,28 +17,19 @@ que ha querido incorporar una biografía de mi padre  en su blog sobre los
 
 Esta es una segunda edición, con algunas correcciones y agregados. Veamos como resulta.
 
+A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948
+en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
 
+![Image](/images/inge/01-EitelH.jpg)
 
-A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor 
-		universitario de ingeniería, con una dilatada y meritoria carrera que 
-		inició en 1948 en la Facultad de Ingeniería de la UBA (FIUBA), como 
-		ayudante-alumno de trabajos prácticos.
-
-
-
-
-
-![Image](Fotos_blog_Inge/01-EitelH.jpg)
-
-Mi padre se 
-			graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se 
-			hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. 
-			Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
-			universitaria se extendería por más de cuarenta años, abarcando dos 
-			disciplinas -Mecánica Aplicada, e Informática y Computación- y un 
-			número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
-			Escuela Superior Técnica del Ejercito), en las que actuó como 
-			profesor y ejerció diversos cargos directivos. 
+Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se 
+hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. 
+Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
+universitaria se extendería por más de cuarenta años, abarcando dos 
+disciplinas -Mecánica Aplicada, e Informática y Computación- y un 
+número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
+Escuela Superior Técnica del Ejercito), en las que actuó como 
+profesor y ejerció diversos cargos directivos. 
 
  
  
