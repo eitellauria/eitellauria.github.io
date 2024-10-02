@@ -58,8 +58,9 @@ le valió el Premio Luis V. Migone, otorgado por el Centro Argentino
 de Ingenieros al mejor trabajo de ingeniería argentina en el período 
 1965-1969).
 
-![Image](/images/inge/02-MecanicaAnalitica1.jpg)
-Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados
+<a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
+  <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados" style="width: 300px;" />
+</a>
 
 
 
