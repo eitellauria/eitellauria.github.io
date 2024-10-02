@@ -192,8 +192,8 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 <a href="https://www.distributed.net/Main_Page">Distributed.net</a>
 </li>
  	<li>
-<!-- <a href="https://www.worldcommunitygrid.org/">World Community Grid</a> -->            
-<a href="/el_inge_y_yo/">World Community Grid</a>       
+<a href="https://www.worldcommunitygrid.org/">World Community Grid</a>          
+<!-- <a href="/el_inge_y_yo/">World Community Grid</a>  -->         
 </li>
  	<li>
 <a href="http://www.helenshulman.com/">Helen Shulman's paintings</a>
