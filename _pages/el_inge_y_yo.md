@@ -17,10 +17,24 @@ que ha querido incorporar una biografía de mi padre  en su blog sobre los
 
 Esta es una segunda edición, con algunas correcciones y agregados. Veamos como resulta.
 
-A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948
-en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
+A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948 en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
 
-![Image](/images/inge/01-EitelH.jpg)
+<img src="/images/inge/01-EitelH.jpg" align="left" style="margin-right: 10px; width: 250px;" />
+
+Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
+
+
+Un detalle histórico interesante es que, al igual que otros pioneros 
+de la informática en la Argentina, mi padre llegó a la computación 
+de manera indirecta. Mi padre era un especialista en engranajes, con 
+trabajos de investigación que combinaban aspectos de mecánica 
+racional y geometría analítica, con los que intentó con éxito darle 
+un marco sistemático al análisis y diseño de engranajes (su trabajo 
+titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
+muy bien recibido en Francia [2] y 
+le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
+de Ingenieros al mejor trabajo de ingeniería argentina en el período 
+1965-1969).
 
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se 
 hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. 
@@ -30,84 +44,21 @@ disciplinas -Mecánica Aplicada, e Informática y Computación- y un
 número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
 Escuela Superior Técnica del Ejercito), en las que actuó como 
 profesor y ejerció diversos cargos directivos. 
-
  
- 
-
-
-
-
 Un detalle histórico interesante es que, al igual que otros pioneros 
-			de la informática en la Argentina, mi padre llegó a la computación 
-			de manera indirecta. Mi padre era un especialista en engranajes, con 
-			trabajos de investigación que combinaban aspectos de mecánica 
-			racional y geometría analítica, con los que intentó con éxito darle 
-			un marco sistemático al análisis y diseño de engranajes (su trabajo 
-			titulado Mecánica 
-			Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-			muy bien recibido en Francia [2] y 
-			le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-			de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-			1965-1969).
+de la informática en la Argentina, mi padre llegó a la computación 
+de manera indirecta. Mi padre era un especialista en engranajes, con 
+trabajos de investigación que combinaban aspectos de mecánica 
+racional y geometría analítica, con los que intentó con éxito darle 
+un marco sistemático al análisis y diseño de engranajes (su trabajo 
+titulado Mecánica 
+Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
+muy bien recibido en Francia [2] y 
+le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
+de Ingenieros al mejor trabajo de ingeniería argentina en el período 
+1965-1969).
 
-Mi padre se 
-			graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se 
-			hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. 
-			Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
-			universitaria se extendería por más de cuarenta años, abarcando dos 
-			disciplinas -Mecánica Aplicada, e Informática y Computación- y un 
-			número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
-			Escuela Superior Técnica del Ejercito), en las que actuó como 
-			profesor y ejerció diversos cargos directivos. 
-
- 
- 
-
-
-
-
-Un detalle histórico interesante es que, al igual que otros pioneros 
-			de la informática en la Argentina, mi padre llegó a la computación 
-			de manera indirecta. Mi padre era un especialista en engranajes, con 
-			trabajos de investigación que combinaban aspectos de mecánica 
-			racional y geometría analítica, con los que intentó con éxito darle 
-			un marco sistemático al análisis y diseño de engranajes (su trabajo 
-			titulado Mecánica 
-			Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-			muy bien recibido en Francia [2] y 
-			le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-			de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-			1965-1969).
-
-Un detalle histórico interesante es que, al igual que otros pioneros 
-			de la informática en la Argentina, mi padre llegó a la computación 
-			de manera indirecta. Mi padre era un especialista en engranajes, con 
-			trabajos de investigación que combinaban aspectos de mecánica 
-			racional y geometría analítica, con los que intentó con éxito darle 
-			un marco sistemático al análisis y diseño de engranajes (su trabajo 
-			titulado Mecánica 
-			Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-			muy bien recibido en Francia [2] y 
-			le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-			de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-			1965-1969).
-
-Un detalle histórico interesante es que, al igual que otros pioneros 
-			de la informática en la Argentina, mi padre llegó a la computación 
-			de manera indirecta. Mi padre era un especialista en engranajes, con 
-			trabajos de investigación que combinaban aspectos de mecánica 
-			racional y geometría analítica, con los que intentó con éxito darle 
-			un marco sistemático al análisis y diseño de engranajes (su trabajo 
-			titulado Mecánica 
-			Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-			muy bien recibido en Francia [2] y 
-			le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-			de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-			1965-1969).
-
-
-
-[](https://2.bp.blogspot.com/-bbnSB27e3Kc/WW5bCbwcblI/AAAAAAABHSw/T4aRfldQgogCP1zrMWD2GO1zdCuoTB0qgCEwYBhgL/s1600/02-MecanicaAnalitica1.jpg)
+[Image](https://2.bp.blogspot.com/-bbnSB27e3Kc/WW5bCbwcblI/AAAAAAABHSw/T4aRfldQgogCP1zrMWD2GO1zdCuoTB0qgCEwYBhgL/s1600/02-MecanicaAnalitica1.jpg)
 
 ![Image](Fotos_blog_Inge/02-MecanicaAnalitica1.jpg)
 
