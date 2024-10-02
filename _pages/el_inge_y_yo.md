@@ -58,17 +58,10 @@ le valió el Premio Luis V. Migone, otorgado por el Centro Argentino
 de Ingenieros al mejor trabajo de ingeniería argentina en el período 
 1965-1969).
 
-[Image](https://2.bp.blogspot.com/-bbnSB27e3Kc/WW5bCbwcblI/AAAAAAABHSw/T4aRfldQgogCP1zrMWD2GO1zdCuoTB0qgCEwYBhgL/s1600/02-MecanicaAnalitica1.jpg)
-
-![Image](Fotos_blog_Inge/02-MecanicaAnalitica1.jpg)
-
-Mecánica Analítica de los Engranajes 
-					Helicoidales entre Ejes Alabeados,
-					Ing. Eitel H. Lauría
+![Image](/images/inge/02-MecanicaAnalitica1.jpg)
+Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados
 
 
-
-[](https://4.bp.blogspot.com/-miJ2NPcjIL8/WW6ubRTULdI/AAAAAAABHZ4/eIHWQMVXr9oofooWfjeONo3n3rD4IMbSACLcBGAs/s1600/02-Migone%2528nuevo%2529.jpg)
 
 ![Image](Fotos_blog_Inge/02-Migone%2528nuevo%2529.jpg)
 
