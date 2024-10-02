@@ -4,7 +4,7 @@ permalink: /el_inge_y_yo/
 author_profile: true
 ---
 
-![Local Image](./images/inge/PapiyYo.png)
+![Local Image](/images/inge/PapiyYo.png)
 
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
