@@ -1,6 +1,6 @@
 ---
 title: "El Ingeniero y Yo"
-permalink: /ingeyyo/
+permalink: /el_inge_y_yo/
 author_profile: true
 ---
 
