@@ -23,16 +23,17 @@ A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor univer
 
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
 
+---
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/DIPLOMA_DE_HONOR.jpg" target="_blank">
-        <img src="/images/inge/DIPLOMA_DE_HONOR.jpg" alt="Diploma de Honor" style="height: 300px;" />
+        <img src="/images/inge/DIPLOMA_DE_HONOR.jpg" alt="Diploma de Honor" style="height: 200px;" />
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/fiuba.jpg" target="_blank">
-        <img src="/images/inge/fiuba.jpg" alt="Profesor Titular FIUBA" style="height: 300px;" />
+        <img src="/images/inge/fiuba.jpg" alt="Profesor Titular FIUBA" style="height: 200px;" />
       </a>
     </td>
   </tr>
@@ -47,12 +48,12 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
-        <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 300px;" />
+        <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 200px;" />
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/02-Migone(nuevo).jpg" target="_blank">
-        <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="height: 300px;" />
+        <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="height: 200px;" />
       </a>
     </td>
   </tr>
@@ -60,7 +61,7 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969
 
 La naturaleza del cálculo requerida por sus tareas de investigación trascendía las capacidades técnicas de la regla de cálculo y de los ingenios electromecánicos disponibles en la época. 
 
-<img src="/images/inge/1620.jpg" align="right" style="margin-right: 10px; width: 100px;" />
+<img src="/images/inge/1620.jpg" align="right" style="margin-right: 10px; width: 200px;" />
 
 Su primer contacto con una computadora fue en CITEFA, en 1963, y el dispositivo era analógico. Un tiempo después,alguien de su entorno le brindó acceso, para procesar sus cálculos de engranajes, a una de 
 las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una [IBM 1620](https://en.wikipedia.org/wiki/IBM_1620) que estaba en o cerca de la vidriera del edificio de IBM de Diagonal Norte [3]. Fue amor a primera vista: mi padre abrazó a la computación con fervoroso entusiasmo, pero nunca abandonó a los engranajes.
