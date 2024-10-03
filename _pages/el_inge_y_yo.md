@@ -6,7 +6,7 @@ author_profile: true
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
 
-<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 15px; width: 200px;" />
+<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 15px; width: 150px;" />
 
 No me fue fácil escribir esto. El deceso de mi padre, el Ing. Eitel H. Lauría, es muy reciente, y tratar de poner en blanco y negro algunos apuntes de su 
 vida me emociona, naturalmente. Pero he sucumbido a un pedido de Hernán Huergo, 
@@ -19,7 +19,7 @@ Esta es una segunda edición, con algunas correcciones y agregados. Veamos como 
 
 A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948 en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
 
-<img src="/images/inge/01-EitelH.jpg" align="left" style="margin-right: 10px; width: 200px;" />
+<img src="/images/inge/01-EitelH.jpg" align="left" style="margin-right: 10px; width: 250px;" />
 
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
 
