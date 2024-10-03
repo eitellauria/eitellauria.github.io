@@ -85,12 +85,20 @@ Carlos Tomassino [ha relatado en detalle](https://bit40-dinos.blogspot.com/2017/
 
 En el Centro de Cálculo mi padre contó con la valiosa colaboración de los ingenieros Luis M. Frediani, Horacio Biscardi, y su eterno amigo Osvaldo Falco.  En esas aguas abrevó Gregory Chaitin [4], que recién llegado de Estados Unidos con escasos 18 o 19 años, ya había hecho contribuciones significativas en el tema de complejidad algorítmica. Mi padre lo apadrinó desde el principio y supo reconocer en Chaitin una mente joven privilegiada con una capacidad de razonamiento abstracto absolutamente superlativa. Su relación derivó en una amistad que se extendió a través de los años. 
 
- <img src="/images/inge/IBM360D30.png" align="right" style="margin-right: 10px; width: 250px;" />
-
-
- 
-
 En 1969 mi padre propuso la creación de la carrera de Analista de Sistemas de la UTN [5], que bajo su responsabilidad se puso en marcha en 1970. Dicha carrera fue la primera en su tipo creada en una universidad nacional, y sirvió de modelo para otras creadas en el país en las décadas del ‘70 y del ‘80.
+
+ <img src="/images/inge03-OperativoComputacion.jpg" align="left" style="margin-right: 10px; width: 250px;" />
+
+Mi padre ejerció la dirección del Departamento de Computación de la FIUBA entre 1980 y 1982. Asimismo, fue profesor de Sistemas de Computación en la Escuela Superior Técnica del Ejército General Manuel Savio durante los años 1974 y 1990. Entre 1986 y 1996 fue director del Departamento de Informática del ITBA, actividad que le permitió intervenir en el estudio y organización de la nueva carrera de Ingeniería Informática.
+
+Ser portador del mismo nombre y apellido fue siempre causa de orgullo, pero debo admitir que, especialmente en mis años de alumno de la FIUBA, podía dar lugar a situaciones incómodas. Voy a dar dos ejemplos:
+
+1. En mi primera clase de Electrónica General, uno de los dos mellizos que estaban a cargo de la cátedra toma lista, y cuando llega a mi nombre pregunta: "¿Eitel Lauría? Alguna relación con el titular de Mecanismos?". Yo contesto: "Sí, es mi padre". El profesor replica: "Caramba, es la única materia en la que me bocharon", seguido de un silencio profundo. La historia terminó bien, y yo aprobé la materia con muy buena nota; no sé si era cierto o el profe me estaba cargando, preferí no preguntar más.
+
+2. Abril de 1981, primera teórica de Mecanismos, aula 403 de Paseo Colón. Yo estaba ubicado en una de las gradas del auditorio y se me sienta un alumno al lado. Nos reconocimos de inmediato -los electricistas éramos solamente el 4% de la población de estudiantes, pero ninguno de los dos conocía el apellido del otro. En eso entra mi padre por el pasillo derecho con varios libros bajo el brazo y se aproxima a la tarima para iniciar la clase. Sin aviso, mi compañero de banco espeta: "el pelado éste vendrá a vender libros?". Lo paré en seco: "Flaco, mejor dejalo ahí, el que está en la tarima es mi viejo". Silencio abochornado. Nunca más volví a la teórica, por si acaso. Acordé con mi padre para que me diera clases particulares. Armamos una buena dupla: yo era buen estudiante, mi padre era buen profesor. Salieron como resultado muy buenos apuntes, con unos gráficos primorosos que compartí con algunos de mis compañeros. Aprobé Mecanismos con diez. El Ingeniero estaba contento. Años más tarde, ya egresado y actuando como docente en Computación I, descubrí que mi carpeta se vendía en el boliche de apuntes de la calle Estados Unidos, a tres cuadras de la Facultad.
+
+
+
 
 
 
