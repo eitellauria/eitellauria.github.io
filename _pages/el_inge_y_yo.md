@@ -77,8 +77,22 @@ las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus
   </tr>
 </table>
 
+Esto es algo que conversamos muchas veces: a pesar de haber estado involucrado en el desarrollo de múltiples programas académicos de informática en por lo menos tres instituciones -UTN, FIUBA, ITBA- para mi padre personalmente, salvo por contadas excepciones, la computadora era el instrumento que utilizaba para hacer mejor ingeniería. Su verdadera pasión era la ingeniería, la geometría analítica, y los engranajes, por supuesto; no la computación. Yo en cambio percibía la omputación por la computación misma, y tenía muy poco interés en la geometría. Curiosamente, años más tarde, mi trabajo de tesis en redes Bayesianas me llevó obligadamente a tener que redescubrir la geometría, para satisfacción del "Ingeniero", como acostumbrábamos a referirnos a mi viejo en familia. 
 
-[ha relatado en detalle](https://bit40-dinos.blogspot.com/2017/06/20170625-fallecimiento-de-un-grande.html)
+Carlos Tomassino [ha relatado en detalle](https://bit40-dinos.blogspot.com/2017/06/20170625-fallecimiento-de-un-grande.html) como mi padre fue nombrado director organizador del Centro de Cálculo de la UTN Medrano y fue responsable de incorporar una [IBM/360-D30](https://en.wikipedia.org/wiki/IBM_System/360_Model_30) en 1967. Se trataba de la primera computadora de tercera generación instalada en una universidad argentina. La computadora contaba en ese entonces con 16KB de memoria operativa. Bajo la conducción de mi padre, el Centro de Cálculo de la UTN concretó una intensa actividad en materia de capacitación y desarrollo, incluyendo la organización de dos congresos de aplicación de la computación a la ciencia y a la ingeniería (1969 y 1971) en los ámbitos argentino y latinoamericano, respectivamente.
+
+<img src="/images/inge/IBM360D30.png" align="right" style="margin-right: 10px; width: 250px;" />
+
+En el Centro de Cálculo mi padre contó con la valiosa colaboración de los ingenieros Luis M. Frediani, Horacio Biscardi, y su eterno amigo Osvaldo Falco.  En esas aguas abrevó Gregory Chaitin [4], que recién llegado de Estados Unidos con escasos 18 o 19 años, ya había hecho contribuciones significativas en el tema de complejidad algorítmica. Mi padre lo apadrinó desde el principio y supo reconocer en Chaitin una mente joven privilegiada con una capacidad de razonamiento abstracto absolutamente superlativa. Su relación derivó en una amistad que se extendió a través de los años. 
+
+ <img src="/images/inge/IBM360D30.png" align="right" style="margin-right: 10px; width: 250px;" />
+
+
+ 
+
+En 1969 mi padre propuso la creación de la carrera de Analista de Sistemas de la UTN [5], que bajo su responsabilidad se puso en marcha en 1970. Dicha carrera fue la primera en su tipo creada en una universidad nacional, y sirvió de modelo para otras creadas en el país en las décadas del ‘70 y del ‘80.
+
+
 
 [](https://2.bp.blogspot.com/-dlH6foMy8eA/WW52eHFtQQI/AAAAAAABHTA/6nPBF9dZznE4ybmnqTj3RAve5ezyM8OPQCLcBGAs/s1600/04-Mi+libreta+de+estudiante.jpg)
 
