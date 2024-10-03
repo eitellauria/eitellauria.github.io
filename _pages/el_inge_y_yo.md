@@ -97,20 +97,20 @@ Ser portador del mismo nombre y apellido fue siempre causa de orgullo, pero debo
 
 2. Abril de 1981, primera teórica de Mecanismos, aula 403 de Paseo Colón. Yo estaba ubicado en una de las gradas del auditorio y se me sienta un alumno al lado. Nos reconocimos de inmediato -los electricistas éramos solamente el 4% de la población de estudiantes, pero ninguno de los dos conocía el apellido del otro. En eso entra mi padre por el pasillo derecho con varios libros bajo el brazo y se aproxima a la tarima para iniciar la clase. Sin aviso, mi compañero de banco espeta: "el pelado éste vendrá a vender libros?". Lo paré en seco: "Flaco, mejor dejalo ahí, el que está en la tarima es mi viejo". Silencio abochornado. Nunca más volví a la teórica, por si acaso. Acordé con mi padre para que me diera clases particulares. Armamos una buena dupla: yo era buen estudiante, mi padre era buen profesor. Salieron como resultado muy buenos apuntes, con unos gráficos primorosos que compartí con algunos de mis compañeros. Aprobé Mecanismos con diez. El Ingeniero estaba contento. Años más tarde, ya egresado y actuando como docente en Computación I, descubrí que mi carpeta se vendía en el boliche de apuntes de la calle Estados Unidos, a tres cuadras de la Facultad.
 
- <img src="/images/inge/04-Mi libreta de estudiante.jpg"  style="width: 300px;" />
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: none;">
+      <a href="/images/inge/04-Mi libreta de estudiante.jpg" target="_blank">
+        <img src="/images/inge/04-Mi libreta de estudiante.jpg" alt="mi libreta" style="height: 300px;" />
+      </a>
+        La hoja de mi libreta de estudiante (yo era el Legajo Nro 47452) correspondiente a Mecanismos.<br>
+        Mi padre por supuesto no corrigió mi examen, pero sí me firmó la libreta.
+    </td>
+  </tr>
+</table>
 
 
 
-
-
-[](https://2.bp.blogspot.com/-dlH6foMy8eA/WW52eHFtQQI/AAAAAAABHTA/6nPBF9dZznE4ybmnqTj3RAve5ezyM8OPQCLcBGAs/s1600/04-Mi+libreta+de+estudiante.jpg)
-
-![Image](Fotos_blog_Inge/04-Mi+libreta+de+estudiante.jpg)
-
-La hoja de mi libreta de estudiante (yo era el Legajo 
-Nro 47452) correspondiente a Mecanismos.
-
-Mi padre por supuesto no corrigió mi examen, pero sí me firmó la libreta.
 
 El grupo recabó información del ACM que ya tenía sus conocidos 
 planes de carrera, y también de muchos otros lugares. Se pensó 
