@@ -75,25 +75,33 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período
 
 
 La naturaleza del cálculo requerida por sus tareas de investigación 
-			trascendía las capacidades técnicas de la regla de cálculo y de los 
-			ingenios electromecánicos disponibles en la época. Su primer 
-			contacto con una computadora fue en CITEFA, en 1963, y el 
-			dispositivo era analógico. Un tiempo después,alguien de su entorno 
-			le brindó acceso, para procesar sus cálculos de engranajes, a una de 
-			las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una IBM 
-			1620 que 
-			estaba en o cerca de la vidriera del edificio de IBM de Diagonal 
-			Norte [3]. Fue amor a primera vista: mi padre 
-			abrazó a la computación con fervoroso entusiasmo, pero nunca 
-			abandonó a los engranajes.
+trascendía las capacidades técnicas de la regla de cálculo y de los 
+ingenios electromecánicos disponibles en la época. Su primer 
+contacto con una computadora fue en CITEFA, en 1963, y el 
+dispositivo era analógico. Un tiempo después,alguien de su entorno 
+le brindó acceso, para procesar sus cálculos de engranajes, a una de 
+las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una IBM 
+1620 que estaba en o cerca de la vidriera del edificio de IBM de Diagonal 
+Norte [3]. Fue amor a primera vista: mi padre 
+abrazó a la computación con fervoroso entusiasmo, pero nunca 
+abandonó a los engranajes.
 
-[](https://3.bp.blogspot.com/-YA0jZiAnPFA/WW50WZusAzI/AAAAAAABHS4/m9697KtW_DsVGDpodJFJNFsDJckNA2kpACLcBGAs/s1600/fragmentos.jpg)
 
-![Image](Fotos_blog_Inge/fragmentos.jpg)
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: none;">
+      <a href="/images/inge/fragmentos.jpg" target="_blank">
+        <img src="/images/inge/fragmentos.jpg" alt="fragmentos" style="height: 300px;" />
+      </a>    
+    </td>
+    <td style="vertical-align: top; border: none;">
+      <a href="/images/inge/03-Operativo+Computacion.jpg" target="_blank">
+        <img src="/images/inge/03-Operativo+Computacion.jpg" alt="Operativo Computación" style="height: 300px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[](https://4.bp.blogspot.com/-GlDddjRMpyM/WW52KqIwCxI/AAAAAAABHS8/nML8RYZFg5Egd-IYtJthu-mszNvnHXzWQCLcBGAs/s1600/03-Operativo+Computacion.jpg)
-
-![Image](Fotos_blog_Inge/03-Operativo+Computacion.jpg)
 
 [ha relatado en detalle](https://bit40-dinos.blogspot.com/2017/06/20170625-fallecimiento-de-un-grande.html)
 
@@ -102,31 +110,29 @@ La naturaleza del cálculo requerida por sus tareas de investigación
 ![Image](Fotos_blog_Inge/04-Mi+libreta+de+estudiante.jpg)
 
 La hoja de mi libreta de estudiante (yo era el Legajo 
-						Nro 47452) correspondiente a Mecanismos.
+Nro 47452) correspondiente a Mecanismos.
 
-Mi padre por 
-						supuesto no corrigió mi examen, pero sí me firmó la 
-						libreta.
+Mi padre por supuesto no corrigió mi examen, pero sí me firmó la libreta.
 
 El grupo recabó información del ACM que ya tenía sus conocidos 
-				planes de carrera, y también de muchos otros lugares. Se pensó 
-				que, si bien la carrera no era típicamente de Ingeniería, dado 
-				que ya existía en la Facultad, lo mejor sería preparar un 
-				analista que tuviese la buena formación básica que da la 
-				Facultad de Ingeniería. Es decir, inculcarle una ‘mentalidad de 
-				ingeniero’. Se resolvió que a los fines del Analista no era 
-				necesario que cursara las Físicas. Se resolvió también que 
-				cuatro años era tiempo suficiente para formarlo. Se quería 
-				adoptar un enfoque práctico, no tener al alumno en la Facultad 
-				más tiempo del estrictamente necesario para formarlo en la 
-				profesión y que se volcara al medio (recordemos que en ese 
-				tiempo todas las carreras de Ingeniería eran de 6 años, sin 
-				contar el curso de ingreso).
+planes de carrera, y también de muchos otros lugares. Se pensó 
+que, si bien la carrera no era típicamente de Ingeniería, dado 
+que ya existía en la Facultad, lo mejor sería preparar un 
+analista que tuviese la buena formación básica que da la 
+Facultad de Ingeniería. Es decir, inculcarle una ‘mentalidad de 
+ingeniero’. Se resolvió que a los fines del Analista no era 
+necesario que cursara las Físicas. Se resolvió también que 
+cuatro años era tiempo suficiente para formarlo. Se quería 
+adoptar un enfoque práctico, no tener al alumno en la Facultad 
+más tiempo del estrictamente necesario para formarlo en la 
+profesión y que se volcara al medio (recordemos que en ese 
+tiempo todas las carreras de Ingeniería eran de 6 años, sin 
+contar el curso de ingreso).
 
 En suma, emerge una carrera de 4 años, muy densa, pero con una 
-				formación muy sólida tanto en programación y computación, como 
-				en temas empresariales, donde se aplicaban planes y contenidos 
-				de la currícula de ingeniería industrial.
+formación muy sólida tanto en programación y computación, como 
+en temas empresariales, donde se aplicaban planes y contenidos 
+de la currícula de ingeniería industrial.
 
 [](https://1.bp.blogspot.com/-jc9JZBtck_k/WW57i_3oKzI/AAAAAAABHTI/cMnJs_9Np7I9xEgmZue1LGmT9K61NEq_ACLcBGAs/s1600/05-Personaje+Ilustre.jpg)
 
