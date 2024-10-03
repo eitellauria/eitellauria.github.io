@@ -3,8 +3,7 @@ title: "El Ingeniero y Yo"
 permalink: /el_inge_y_yo/
 author_profile: true
 ---
-
-![Local Image](/images/inge/PapiyYo.png)
+<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 10px; width: 250px;" />
 
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
