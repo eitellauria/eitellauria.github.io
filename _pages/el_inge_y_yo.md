@@ -74,11 +74,6 @@ las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus
         <img src="/images/inge/fragmentos.jpg" alt="fragmentos" style="height: 250px;" />
       </a>    
     </td>
-    <td style="vertical-align: top; border: none;">
-      <a href="/images/inge/03-Operativo Computacion.jpg" target="_blank">
-        <img src="/images/inge/03-Operativo Computacion.jpg" alt="Operativo Computación" style="height: 250px;" />
-      </a>
-    </td>
   </tr>
 </table>
 
