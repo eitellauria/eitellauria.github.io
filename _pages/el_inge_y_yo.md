@@ -87,7 +87,7 @@ En el Centro de Cálculo mi padre contó con la valiosa colaboración de los ing
 
 En 1969 mi padre propuso la creación de la carrera de Analista de Sistemas de la UTN [5], que bajo su responsabilidad se puso en marcha en 1970. Dicha carrera fue la primera en su tipo creada en una universidad nacional, y sirvió de modelo para otras creadas en el país en las décadas del ‘70 y del ‘80.
 
- <img src="/images/inge03-OperativoComputacion.jpg" align="left" style="margin-right: 10px; width: 250px;" />
+ <img src="/images/inge03-Operativo Computacion.jpg" align="left" style="margin-right: 10px; width: 250px;" />
 
 Mi padre ejerció la dirección del Departamento de Computación de la FIUBA entre 1980 y 1982. Asimismo, fue profesor de Sistemas de Computación en la Escuela Superior Técnica del Ejército General Manuel Savio durante los años 1974 y 1990. Entre 1986 y 1996 fue director del Departamento de Informática del ITBA, actividad que le permitió intervenir en el estudio y organización de la nueva carrera de Ingeniería Informática.
 
