@@ -130,6 +130,26 @@ En suma, emerge una carrera de 4 años, muy densa, pero con una formación muy s
 A la vista de los años se puede ver que el emergente de aquel plan fue formar a gran cantidad de fundadores de empresas de productos de software, probablemente la carrera más pródiga en este sentido.” 
 
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: none;">
+     En el 2007 mi Padre fue galardonado por la Federación Iberoamericana de Ingeniería Mecánica, recibiendo el premio al Personaje Ilustre de la Ingeniería Mecánica Iberoamericana. El acto de entrega debía 
+     realizarse como parte del VII Congreso Iberoamericano de Ingeniería Mecánica, a celebrarse en Cusco, Perú el 23 de Octubre. Los organizadores del congreso cometieron algunos errores. El primero de 
+     ellos fue pretender premiar a un ingeniero octogenario a 3400 m de altura. Mi padre no pudo asistir -el médico le dijo que, con sus problemas respiratorios, era un ticket de ida. El Ingeniero me 
+     pidió por lo tanto que asistiera a la ceremonia y recibiera el premio en su nombre. 
+    </td>
+    <td style="vertical-align: top; border: none;">
+      <a href="/images/inge/05-Personaje Ilustre.jpg" target="_blank">
+        <img src="/images/inge/05-Personaje Ilustre.jpg" alt="Personaje Ilustre" style="height: 250px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+ En cuanto al segundo error, mi email reportando lo acontecido a mis hermanos y mi padre me exime de todo comentario adicional …
+
+https://foxweb.marist.edu/users/jf4n/Fotos_blog_Inge/CartaDesdeCusco.png
 
 
 
