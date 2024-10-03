@@ -102,7 +102,7 @@ Ser portador del mismo nombre y apellido fue siempre causa de orgullo, pero debo
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/04-Mi libreta de estudiante.jpg" target="_blank">
         <img src="/images/inge/04-Mi libreta de estudiante.jpg" alt="mi libreta" style="height: 300px;" />
-      </a>
+      </a><br>
         La hoja de mi libreta de estudiante (yo era el Legajo Nro 47452) correspondiente a Mecanismos.<br>
         Mi padre por supuesto no corrigió mi examen, pero sí me firmó la libreta.
     </td>
