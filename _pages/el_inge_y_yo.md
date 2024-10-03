@@ -29,12 +29,12 @@ Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 s
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/DIPLOMA_DE_HONOR.jpg" target="_blank">
-        <img src="/images/inge/DIPLOMA_DE_HONOR.jpg" alt="Diploma de Honor" style="height: 200px;" />
+        <img src="/images/inge/DIPLOMA_DE_HONOR.jpg" alt="Diploma de Honor" style="height: 250px;" />
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/fiuba.jpg" target="_blank">
-        <img src="/images/inge/fiuba.jpg" alt="Profesor Titular FIUBA" style="height: 200px;" />
+        <img src="/images/inge/fiuba.jpg" alt="Profesor Titular FIUBA" style="height: 250px;" />
       </a>
     </td>
   </tr>
@@ -49,12 +49,12 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
-        <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 200px;" />
+        <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 250px;" />
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/02-Migone(nuevo).jpg" target="_blank">
-        <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="height: 200px;" />
+        <img src="/images/inge/02-Migone(nuevo).jpg" alt="Migone Nuevo" style="height: 250px;" />
       </a>
     </td>
   </tr>
@@ -71,12 +71,12 @@ las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/fragmentos.jpg" target="_blank">
-        <img src="/images/inge/fragmentos.jpg" alt="fragmentos" style="height: 300px;" />
+        <img src="/images/inge/fragmentos.jpg" alt="fragmentos" style="height: 250px;" />
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/03-Operativo Computacion.jpg" target="_blank">
-        <img src="/images/inge/03-Operativo Computacion.jpg" alt="Operativo Computación" style="height: 300px;" />
+        <img src="/images/inge/03-Operativo Computacion.jpg" alt="Operativo Computación" style="height: 250px;" />
       </a>
     </td>
   </tr>
