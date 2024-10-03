@@ -3,10 +3,11 @@ title: "El Ingeniero y Yo"
 permalink: /el_inge_y_yo/
 author_profile: true
 ---
-Eitel Lauría, por Eitel Lauría<br>
-Junio 25, 2018
 
 <img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 15px; width: 150px;" />
+
+Eitel Lauría, por Eitel Lauría<br>
+Junio 25, 2018
 
 No me fue fácil escribir esto. El deceso de mi padre, el Ing. Eitel H. Lauría, es muy reciente, y tratar de poner en blanco y negro algunos apuntes de su 
 vida me emociona, naturalmente. Pero he sucumbido a un pedido de Hernán Huergo, 
