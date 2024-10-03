@@ -24,37 +24,18 @@ A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor univer
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
 
 
-Un detalle histórico interesante es que, al igual que otros pioneros 
-de la informática en la Argentina, mi padre llegó a la computación 
-de manera indirecta. Mi padre era un especialista en engranajes, con 
-trabajos de investigación que combinaban aspectos de mecánica 
-racional y geometría analítica, con los que intentó con éxito darle 
-un marco sistemático al análisis y diseño de engranajes (su trabajo 
-titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-muy bien recibido en Francia [2] y 
-le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-1965-1969).
+Un detalle histórico interesante es que, al igual que otros pioneros de la informática en la Argentina, mi padre llegó a la computación de manera indirecta. Mi padre era un especialista en engranajes, con 
+trabajos de investigación que combinaban aspectos de mecánica racional y geometría analítica, con los que intentó con éxito darle un marco sistemático al análisis y diseño de engranajes (su trabajo 
+titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue muy bien recibido en Francia [2] y le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
+de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969).
 
-Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se 
-hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. 
-Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
-universitaria se extendería por más de cuarenta años, abarcando dos 
-disciplinas -Mecánica Aplicada, e Informática y Computación- y un 
-número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
-Escuela Superior Técnica del Ejercito), en las que actuó como 
-profesor y ejerció diversos cargos directivos. 
+Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
+universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
+Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos. 
  
-Un detalle histórico interesante es que, al igual que otros pioneros 
-de la informática en la Argentina, mi padre llegó a la computación 
-de manera indirecta. Mi padre era un especialista en engranajes, con 
-trabajos de investigación que combinaban aspectos de mecánica 
-racional y geometría analítica, con los que intentó con éxito darle 
-un marco sistemático al análisis y diseño de engranajes (su trabajo 
-titulado Mecánica 
-Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue 
-muy bien recibido en Francia [2] y 
-le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
+Un detalle histórico interesante es que, al igual que otros pioneros de la informática en la Argentina, mi padre llegó a la computación de manera indirecta. Mi padre era un especialista en engranajes, con 
+trabajos de investigación que combinaban aspectos de mecánica racional y geometría analítica, con los que intentó con éxito darle un marco sistemático al análisis y diseño de engranajes (su trabajo 
+titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue muy bien recibido en Francia [2] y le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
 de Ingenieros al mejor trabajo de ingeniería argentina en el período 
 1965-1969).
 
@@ -73,19 +54,10 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período
   </tr>
 </table>
 
-
-La naturaleza del cálculo requerida por sus tareas de investigación 
-trascendía las capacidades técnicas de la regla de cálculo y de los 
-ingenios electromecánicos disponibles en la época. Su primer 
-contacto con una computadora fue en CITEFA, en 1963, y el 
-dispositivo era analógico. Un tiempo después,alguien de su entorno 
-le brindó acceso, para procesar sus cálculos de engranajes, a una de 
-las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una IBM 
-1620 que estaba en o cerca de la vidriera del edificio de IBM de Diagonal 
-Norte [3]. Fue amor a primera vista: mi padre 
-abrazó a la computación con fervoroso entusiasmo, pero nunca 
-abandonó a los engranajes.
-
+La naturaleza del cálculo requerida por sus tareas de investigación trascendía las capacidades técnicas de la regla de cálculo y de los ingenios electromecánicos disponibles en la época. Su primer 
+contacto con una computadora fue en CITEFA, en 1963, y el dispositivo era analógico. Un tiempo después,alguien de su entorno le brindó acceso, para procesar sus cálculos de engranajes, a una de 
+las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una IBM 1620 que estaba en o cerca de la vidriera del edificio de IBM de Diagonal 
+Norte [3]. Fue amor a primera vista: mi padre abrazó a la computación con fervoroso entusiasmo, pero nunca abandonó a los engranajes.
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -95,8 +67,8 @@ abandonó a los engranajes.
       </a>    
     </td>
     <td style="vertical-align: top; border: none;">
-      <a href="/images/inge/03-Operativo+Computacion.jpg" target="_blank">
-        <img src="/images/inge/03-Operativo+Computacion.jpg" alt="Operativo Computación" style="height: 300px;" />
+      <a href="/images/inge/03-Operativo Computacion.jpg" target="_blank">
+        <img src="/images/inge/03-Operativo Computacion.jpg" alt="Operativo Computación" style="height: 300px;" />
       </a>
     </td>
   </tr>
