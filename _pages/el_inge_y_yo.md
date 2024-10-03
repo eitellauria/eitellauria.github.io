@@ -6,6 +6,7 @@ author_profile: true
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
 
+<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 10px; width: 150px;" />
 
 No me fue fácil escribir esto. El deceso de mi padre, el Ing. Eitel H. Lauría, es muy reciente, y tratar de poner en blanco y negro algunos apuntes de su 
 vida me emociona, naturalmente. Pero he sucumbido a un pedido de Hernán Huergo, 
@@ -13,8 +14,6 @@ que ha querido incorporar una biografía de mi padre  en su blog sobre los
 [pioneros y pioneras de la informática argentina](https://bit40-dinos.blogspot.com/)
 
 Esta es una segunda edición, con algunas correcciones y agregados. Veamos como resulta. 
-
-<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 10px; width: 150px;" />
 
 ---
 
