@@ -23,21 +23,25 @@ A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor univer
 
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: none;">
+      <a href="/images/inge/DIPLOMA_DE_HONOR.jpg" target="_blank">
+        <img src="/images/inge/DIPLOMA_DE_HONOR.jpg" alt="Diploma de Honor" style="height: 300px;" />
+      </a>    
+    </td>
+    <td style="vertical-align: top; border: none;">
+      <a href="/images/inge/fiuba.jpg" target="_blank">
+        <img src="/images/inge/fiuba.jpg" alt="Profesor Titular FIUBA" style="height: 300px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Un detalle histórico interesante es que, al igual que otros pioneros de la informática en la Argentina, mi padre llegó a la computación de manera indirecta. Mi padre era un especialista en engranajes, con 
 trabajos de investigación que combinaban aspectos de mecánica racional y geometría analítica, con los que intentó con éxito darle un marco sistemático al análisis y diseño de engranajes (su trabajo 
 titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue muy bien recibido en Francia [2] y le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
 de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969).
-
-Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente 
-universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, 
-Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos. 
- 
-Un detalle histórico interesante es que, al igual que otros pioneros de la informática en la Argentina, mi padre llegó a la computación de manera indirecta. Mi padre era un especialista en engranajes, con 
-trabajos de investigación que combinaban aspectos de mecánica racional y geometría analítica, con los que intentó con éxito darle un marco sistemático al análisis y diseño de engranajes (su trabajo 
-titulado Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados fue muy bien recibido en Francia [2] y le valió el Premio Luis V. Migone, otorgado por el Centro Argentino 
-de Ingenieros al mejor trabajo de ingeniería argentina en el período 
-1965-1969).
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
