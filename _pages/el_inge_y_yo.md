@@ -97,7 +97,7 @@ Ser portador del mismo nombre y apellido fue siempre causa de orgullo, pero debo
 
 2. Abril de 1981, primera teórica de Mecanismos, aula 403 de Paseo Colón. Yo estaba ubicado en una de las gradas del auditorio y se me sienta un alumno al lado. Nos reconocimos de inmediato -los electricistas éramos solamente el 4% de la población de estudiantes, pero ninguno de los dos conocía el apellido del otro. En eso entra mi padre por el pasillo derecho con varios libros bajo el brazo y se aproxima a la tarima para iniciar la clase. Sin aviso, mi compañero de banco espeta: "el pelado éste vendrá a vender libros?". Lo paré en seco: "Flaco, mejor dejalo ahí, el que está en la tarima es mi viejo". Silencio abochornado. Nunca más volví a la teórica, por si acaso. Acordé con mi padre para que me diera clases particulares. Armamos una buena dupla: yo era buen estudiante, mi padre era buen profesor. Salieron como resultado muy buenos apuntes, con unos gráficos primorosos que compartí con algunos de mis compañeros. Aprobé Mecanismos con diez. El Ingeniero estaba contento. Años más tarde, ya egresado y actuando como docente en Computación I, descubrí que mi carpeta se vendía en el boliche de apuntes de la calle Estados Unidos, a tres cuadras de la Facultad.
 
- <img src="/images/inge/04-Mi libreta de estudiante.jpg"  style="width: 250px;" />
+ <img src="/images/inge/04-Mi libreta de estudiante.jpg"  style="width: 300px;" />
 
 
 
