@@ -118,47 +118,26 @@ Más allá de estas disquisiciones, es evidente que su primer encuentro con la c
 
 Un buen ejemplo de esto fue el Plan 1979 de Análisis de Sistemas en UBA Ingeniería, bien documentado por Pablo Iacub en la publicación “Historia de la Industria Informática Argentina” de CESSI Argentina en 2014 [7]. La FIUBA contaba con una carrera de Analista Universitario de Sistemas de cuatro años, que buscaba formar asistentes informáticos para trabajos de ingeniería. Los dos primeros años de la carrera incluían dibujo técnico, geometría descriptiva, química, física, estabilidad, asignaturas completamente ajenas a la disciplina específica. Según Iacub, mi padre, junto con otros, había interpretado el giro de los acontecimientos en la disciplina: que las computadoras que venían al país se destinaban mayoritariamente al manejo de información de las empresas. Y vislumbró la oportunidad de insertar a la Argentina mundialmente en el desarrollo de software. Según palabras de mi padre ”...pensamos en aquel tiempo que la Argentina podría convertirse en un líder regional del software para empresas ...”. Lo había iniciado en la UTN con la carrera de Analista de Sistemas y comprendió la necesidad del cambio en el programa de la FIUBA.
 
+Transcribo algunos párrafos del documento de CESSI que son ilustrativos:
+
+“Entonces la Facultad decidió crear una Comisión de Plan de Estudios para modificar el Plan de Analista. Esa Comisión estuvo integrada por el Ing. Eitel Lauría, el Ing. Isidoro Marín, el Ing. Guido Vasallo, la Dra. Chiosonne y el Ing. Jorge Saubidet. Trabajaron aproximadamente durante un año. Existía el antecedente que se aprovechó de la carrera de Sistemas de la Universidad Tecnológica Nacional que ya estaba operativa. En la Tecnológica trabajaba también el Ing. Lauría y otros profesores que estaban con él de la Cátedra de Mecanismos del Departamento de Mecánica Aplicada de la Facultad. Por su parte el Ing. Isidoro Marín pertenecía al Departamento de Economía, Organización y Legal de la Facultad y había creado la cátedra de Investigación Operativa. La Dra. Chiosonne era profesora de Matemática y estaba en Análisis Matemático III.
+
+El grupo recabó información del ACM que ya tenía sus conocidos planes de carrera, y también de muchos otros lugares. Se pensó que, si bien la carrera no era típicamente de Ingeniería, dado que ya existía en la Facultad, lo mejor sería preparar un analista que tuviese la buena formación básica que da la Facultad de Ingeniería. Es decir, inculcarle una ‘mentalidad de ingeniero’. Se resolvió que a los fines del Analista no era necesario que cursara las Físicas. Se resolvió también que cuatro años era tiempo suficiente para formarlo. Se quería adoptar un enfoque práctico, no tener al alumno en la Facultad más tiempo del estrictamente necesario para formarlo en la profesión y que se volcara al medio (recordemos que en ese tiempo todas las carreras de Ingeniería eran de 6 años, sin contar el curso de ingreso).
+
+Hubo dos cambios con respecto a la carrera anterior, creo yo, muy importantes: la orientación a gestión, como había visto yo en Francia, y la introducción del Algol como primer lenguaje de programación, como lo había estudiado Guido Vasallo en Essex. También muchos otros contenidos fueron propuestos por Vasallo. Creo que todo eso le dio a la carrera el carácter típico que aún conserva. ...
+En suma, emerge una carrera de 4 años, muy densa, pero con una formación muy sólida tanto en programación y computación, como en temas empresariales, donde se aplicaban planes y contenidos de la currícula de ingeniería industrial.
+
+A la vista de los años se puede ver que el emergente de aquel plan fue formar a gran cantidad de fundadores de empresas de productos de software, probablemente la carrera más pródiga en este sentido.” 
 
 
 
 
-
-El grupo recabó información del ACM que ya tenía sus conocidos 
-planes de carrera, y también de muchos otros lugares. Se pensó 
-que, si bien la carrera no era típicamente de Ingeniería, dado 
-que ya existía en la Facultad, lo mejor sería preparar un 
-analista que tuviese la buena formación básica que da la 
-Facultad de Ingeniería. Es decir, inculcarle una ‘mentalidad de 
-ingeniero’. Se resolvió que a los fines del Analista no era 
-necesario que cursara las Físicas. Se resolvió también que 
-cuatro años era tiempo suficiente para formarlo. Se quería 
-adoptar un enfoque práctico, no tener al alumno en la Facultad 
-más tiempo del estrictamente necesario para formarlo en la 
-profesión y que se volcara al medio (recordemos que en ese 
-tiempo todas las carreras de Ingeniería eran de 6 años, sin 
-contar el curso de ingreso).
-
-En suma, emerge una carrera de 4 años, muy densa, pero con una 
-formación muy sólida tanto en programación y computación, como 
-en temas empresariales, donde se aplicaban planes y contenidos 
-de la currícula de ingeniería industrial.
 
 [](https://1.bp.blogspot.com/-jc9JZBtck_k/WW57i_3oKzI/AAAAAAABHTI/cMnJs_9Np7I9xEgmZue1LGmT9K61NEq_ACLcBGAs/s1600/05-Personaje+Ilustre.jpg)
 
 ![Image](Fotos_blog_Inge/05-Personaje+Ilustre.jpg)
 
-En el 2007 mi Padre 
-			fue galardonado por la Federación Iberoamericana de Ingeniería 
-			Mecánica, recibiendo el premio al Personaje Ilustre de la Ingeniería 
-			Mecánica Iberoamericana. El acto de entrega debía realizarse como 
-			parte del VII Congreso Iberoamericano de Ingeniería Mecánica, a 
-			celebrarse en Cusco, Perú el 23 de Octubre. Los organizadores del 
-			congreso cometieron algunos errores. El primero de ellos fue 
-			pretender premiar a un ingeniero octogenario a 3400 m de altura. Mi 
-			padre no pudo asistir -el médico le dijo que, con sus problemas 
-			respiratorios, era un ticket de ida. El Ingeniero me pidió por lo 
-			tanto que asistiera a la ceremonia y recibiera el premio en su 
-			nombre.
+
 
 
 
