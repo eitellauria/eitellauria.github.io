@@ -130,15 +130,15 @@ En suma, emerge una carrera de 4 años, muy densa, pero con una formación muy s
 A la vista de los años se puede ver que el emergente de aquel plan fue formar a gran cantidad de fundadores de empresas de productos de software, probablemente la carrera más pródiga en este sentido.” 
 
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="padding-right: 20px; vertical-align: top; border: none;">
-     En el 2007 mi Padre fue galardonado por la Federación Iberoamericana de Ingeniería Mecánica, recibiendo el premio al Personaje Ilustre de la Ingeniería Mecánica Iberoamericana. El acto de entrega debía 
-     realizarse como parte del VII Congreso Iberoamericano de Ingeniería Mecánica, a celebrarse en Cusco, Perú el 23 de Octubre. Los organizadores del congreso cometieron algunos errores. El primero de 
-     ellos fue pretender premiar a un ingeniero octogenario a 3400 m de altura. Mi padre no pudo asistir -el médico le dijo que, con sus problemas respiratorios, era un ticket de ida. El Ingeniero me 
-     pidió por lo tanto que asistiera a la ceremonia y recibiera el premio en su nombre. 
+    <td style="padding-right: 20px; vertical-align: top; border: none; width: 50%;">
+      En el 2007 mi Padre fue galardonado por la Federación Iberoamericana de Ingeniería Mecánica, recibiendo el premio al Personaje Ilustre de la Ingeniería Mecánica Iberoamericana. El acto de entrega debía 
+      realizarse como parte del VII Congreso Iberoamericano de Ingeniería Mecánica, a celebrarse en Cusco, Perú el 23 de Octubre. Los organizadores del congreso cometieron algunos errores. El primero de 
+      ellos fue pretender premiar a un ingeniero octogenario a 3400 m de altura. Mi padre no pudo asistir -el médico le dijo que, con sus problemas respiratorios, era un ticket de ida. El Ingeniero me 
+      pidió por lo tanto que asistiera a la ceremonia y recibiera el premio en su nombre. 
     </td>
-    <td style="vertical-align: top; border: none;">
+    <td style="vertical-align: top; border: none; width: 50%;">
       <a href="/images/inge/05-Personaje Ilustre.jpg" target="_blank">
         <img src="/images/inge/05-Personaje Ilustre.jpg" alt="Personaje Ilustre" style="height: 250px;" />
       </a>
@@ -146,47 +146,20 @@ A la vista de los años se puede ver que el emergente de aquel plan fue formar a
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: none; width: 50%;">
+      En cuanto al segundo error, mi email reportando lo acontecido a mis hermanos y mi padre me exime de todo comentario adicional …
+    </td>
+    <td style="vertical-align: top; border: none; width: 50%;">
+      <a href="/images/inge/CartaDesdeCusco.png" target="_blank">
+        <img src="/images/inge/CartaDesdeCusco.png" alt="Carta de Cusco" style="height: 250px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
- En cuanto al segundo error, mi email reportando lo acontecido a mis hermanos y mi padre me exime de todo comentario adicional …
-
-https://foxweb.marist.edu/users/jf4n/Fotos_blog_Inge/CartaDesdeCusco.png
-
-
-
-[](https://1.bp.blogspot.com/-jc9JZBtck_k/WW57i_3oKzI/AAAAAAABHTI/cMnJs_9Np7I9xEgmZue1LGmT9K61NEq_ACLcBGAs/s1600/05-Personaje+Ilustre.jpg)
-
-![Image](Fotos_blog_Inge/05-Personaje+Ilustre.jpg)
-
-
-
-
-
-
-
-
-
-
-
-[](https://2.bp.blogspot.com/-AbC-Nk_48mY/WW54o5_yPPI/AAAAAAABHTE/FuTljGxrtyA2jxYCa9OmMtwcAaZDGXcvQCLcBGAs/s1600/06-Email+desde+Cusco.jpg)
-
-![Image](Fotos_blog_Inge/06-Email+desde+Cusco.jpg)
-
-Un mes más tarde, 
-			Noviembre 2007, el 
-			Ingeniero me devolvió el favor. Ese año yo recibí el Premio Sadosky 
-			en la categoría de investigación por un trabajo conjunto con Giri 
-			Tayi, un colega mío de SUNY Albany. Como no pude asistir a la 
-			ceremonia, le pedí a mi padre que fuera a recibir el premio en mi 
-			nombre. Los directivos de CESSI Argentina habían invitado a la 
-			entonces presidente electa de los argentinos, a participar de la 
-			entrega de premios. Así que mi padre, que nunca fue ni remotamente 
-			peronista, y no tenía particular simpatía por la señora -esto no es 
-			un comentario político, es un dato de la realidad- recibió el premio 
-			de manos de Cristina Fernández de Kirchner. Mis hermanos decían 
-			jocosamente que yo me estaba cobrando el frio, el apunamiento y la 
-			borrachera de Cusco, y había mandado al Ingeniero al sacrificio.
-
-
+Un mes más tarde, Noviembre 2007, el Ingeniero me devolvió el favor. Ese año yo recibí el Premio Sadosky en la categoría de investigación por un trabajo conjunto con Giri Tayi, un colega mío de SUNY Albany. Como no pude asistir a la ceremonia, le pedí a mi padre que fuera a recibir el premio en mi nombre. Los directivos de CESSI Argentina habían invitado a la entonces presidente electa de los argentinos, a participar de la entrega de premios. Así que mi viejo, que nunca fue ni remotamente peronista, y que no tenía particular simpatía por la señora -esto no es un comentario político, es un dato de la realidad- recibió el premio de manos de Cristina Fernández de Kirchner. Mis hermanos decían jocosamente que yo me estaba cobrando el frio, el apunamiento y la borrachera de Cusco, y había mandado al Ingeniero al sacrificio.
 
 [](https://youtu.be/uFxRcDBoFLU)
 
