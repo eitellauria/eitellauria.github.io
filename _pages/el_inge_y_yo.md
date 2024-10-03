@@ -15,7 +15,8 @@ que ha querido incorporar una biografía de mi padre  en su blog sobre los
 [pioneros y pioneras de la informática argentina](https://bit40-dinos.blogspot.com/)
 
 Esta es una segunda edición, con algunas correcciones y agregados. Veamos como resulta. 
-<br> <br>
+
+---
 
 A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948 en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
 
