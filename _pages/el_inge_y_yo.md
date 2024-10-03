@@ -6,7 +6,7 @@ author_profile: true
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
 
-<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 15px; width: 150px;" />
+<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 15px; width: 200px;" />
 
 No me fue fácil escribir esto. El deceso de mi padre, el Ing. Eitel H. Lauría, es muy reciente, y tratar de poner en blanco y negro algunos apuntes de su 
 vida me emociona, naturalmente. Pero he sucumbido a un pedido de Hernán Huergo, 
@@ -19,7 +19,7 @@ Esta es una segunda edición, con algunas correcciones y agregados. Veamos como 
 
 A lo largo de sus 92 años de vida mi padre fue el arquetipo del profesor universitario de ingeniería, con una dilatada y meritoria carrera que inició en 1948 en la Facultad de Ingeniería de la UBA (FIUBA), como ayudante-alumno de trabajos prácticos.
 
-<img src="/images/inge/01-EitelH.jpg" align="left" style="margin-right: 10px; width: 250px;" />
+<img src="/images/inge/01-EitelH.jpg" align="left" style="margin-right: 10px; width: 200px;" />
 
 Mi padre se graduó de Ingeniero Civil con Diploma de Honor en 1949, y en 1956 se hizo cargo de la cátedra de Mecanismos de la FIUBA junto al Ing. Osvaldo Falco, uno de sus grandes amigos. Su labor docente universitaria se extendería por más de cuarenta años, abarcando dos disciplinas -Mecánica Aplicada, e Informática y Computación- y un número de instituciones académicas en Buenos Aires (FIUBA, UTN, ITBA, Escuela Superior Técnica del Ejercito), en las que actuó como profesor y ejerció diversos cargos directivos.
 
@@ -58,10 +58,12 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período 1965-1969
   </tr>
 </table>
 
-La naturaleza del cálculo requerida por sus tareas de investigación trascendía las capacidades técnicas de la regla de cálculo y de los ingenios electromecánicos disponibles en la época. Su primer 
-contacto con una computadora fue en CITEFA, en 1963, y el dispositivo era analógico. Un tiempo después,alguien de su entorno le brindó acceso, para procesar sus cálculos de engranajes, a una de 
-las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una IBM 1620 que estaba en o cerca de la vidriera del edificio de IBM de Diagonal 
-Norte [3]. Fue amor a primera vista: mi padre abrazó a la computación con fervoroso entusiasmo, pero nunca abandonó a los engranajes.
+La naturaleza del cálculo requerida por sus tareas de investigación trascendía las capacidades técnicas de la regla de cálculo y de los ingenios electromecánicos disponibles en la época. 
+
+<img src="/images/inge/1620.jpg" align="right" style="margin-right: 10px; width: 100px;" />
+
+Su primer contacto con una computadora fue en CITEFA, en 1963, y el dispositivo era analógico. Un tiempo después,alguien de su entorno le brindó acceso, para procesar sus cálculos de engranajes, a una de 
+las primeras computadoras que trajera IBM.  Mi padre me contaba que corría sus programas en una [IBM 1620](https://en.wikipedia.org/wiki/IBM_1620) que estaba en o cerca de la vidriera del edificio de IBM de Diagonal Norte [3]. Fue amor a primera vista: mi padre abrazó a la computación con fervoroso entusiasmo, pero nunca abandonó a los engranajes.
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
