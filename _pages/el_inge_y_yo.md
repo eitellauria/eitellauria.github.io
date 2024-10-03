@@ -3,8 +3,6 @@ title: "El Ingeniero y Yo"
 permalink: /el_inge_y_yo/
 author_profile: true
 ---
-<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 10px; width: 250px;" />
-
 Eitel Lauría, por Eitel Lauría<br>
 Junio 25, 2018
 
@@ -15,6 +13,8 @@ que ha querido incorporar una biografía de mi padre  en su blog sobre los
 [pioneros y pioneras de la informática argentina](https://bit40-dinos.blogspot.com/)
 
 Esta es una segunda edición, con algunas correcciones y agregados. Veamos como resulta. 
+
+<img src="/images/inge/PapiyYo.png" align="right" style="margin-right: 10px; width: 150px;" />
 
 ---
 
