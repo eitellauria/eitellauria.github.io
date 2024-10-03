@@ -64,8 +64,7 @@ de Ingenieros al mejor trabajo de ingeniería argentina en el período
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <a href="/images/inge/02-MecanicaAnalitica1.jpg" target="_blank">
         <img src="/images/inge/02-MecanicaAnalitica1.jpg" alt="Mecánica Analítica" style="height: 300px;" />
-      </a>
-	Mecánica Analítica de los Engranajes Helicoidales entre Ejes Alabeados    
+      </a>    
     </td>
     <td style="vertical-align: top; border: none;">
       <a href="/images/inge/02-Migone(nuevo).jpg" target="_blank">
