@@ -41,7 +41,10 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 
 <h2>Personal and Cool Stuff</h2>
 <details><summary>Mi padre y yo</summary><blockquote>
+  <a href="/el_ingeniero_y_yo/">Eitel Lauría by Eitel Lauría</a> 
+   <!--  
   <a href="https://foxweb.marist.edu/users/jf4n/el_ingeniero_y_yo.htm">Eitel Lauría by Eitel Lauría</a>
+  -->
 </blockquote></details>
 <details><summary>My Education</summary><blockquote>
   <ul>
