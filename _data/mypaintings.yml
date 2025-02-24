@@ -40,6 +40,9 @@
 - path: /images/mypaintings/Libertad.jpg
   caption: Libertad
 
+  - path: /images/mypaintings/StormatSea.jpg
+  caption: Tormenta en el mar
+
 - path: /images/mypaintings/Maiu.jpg
   caption: Para Maiu (Deep Blue)
 
@@ -55,8 +58,8 @@
 - path: /images/mypaintings/Spain.jpg
   caption: España de a trazos 
 
-- path: /images/mypaintings/Surfacing.jpg
-  caption: Surfacing after SCUBA diving
+- path: /images/mypaintings/Sea.jpg
+  caption: El Mar
 
 - path: /images/mypaintings/Time.jpg
   caption: Time (do you see the problem?)
