@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  .gallery {
+  .mypaintings {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
