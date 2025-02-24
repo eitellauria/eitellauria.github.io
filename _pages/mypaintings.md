@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  .gallery {
+  .mypaintings {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -26,7 +26,7 @@ author_profile: true
 </style>
 
 <div class="mypaintings">
-  {% for image in site.data.gallery %}
+  {% for image in site.data.mypaintings %}
     <div class="image">
       <a href="{{ image.path }}">
         <img src="{{ image.path }}" alt="{{ image.alt }}">
