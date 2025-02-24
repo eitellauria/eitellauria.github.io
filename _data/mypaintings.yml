@@ -40,7 +40,7 @@
 - path: /images/mypaintings/Libertad.jpg
   caption: Libertad
 
-  - path: /images/mypaintings/StormatSea.jpg
+- path: /images/mypaintings/StormatSea.jpg
   caption: Tormenta en el mar
 
 - path: /images/mypaintings/Maiu.jpg
@@ -70,5 +70,5 @@
 - path: /images/mypaintings/Parchment.jpg
   caption: Abstracto en crudo y gris
 
-  - path: /images/mypaintings/Iteraciones.jpg
+- path: /images/mypaintings/Iteraciones.jpg
   caption: Iteraciones
