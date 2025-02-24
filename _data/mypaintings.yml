@@ -1,13 +1,13 @@
 - path: /images/mypaintings/Surfacing.jpg
   caption: Surfacing after SCUBA diving
 
-- path: /images/mypaintings/Chicago.jpg
+  - path: /images/mypaintings/Chicago.jpg
   caption: Chicago
 
 - path: /images/mypaintings/ArielyMaria.jpg
   caption: Para Ariel y María
 
-- path: /images/mypaintings/Green.jpg
+  - path: /images/mypaintings/Green.jpg
   caption: Abstacto en Verde
 
 - path: /images/mypaintings/Azteca.jpg
@@ -30,6 +30,7 @@
 
 - path: /images/mypaintings/Flowers.jpg
   caption: Flowers
+
 
 - path: /images/mypaintings/Jaime.jpg
   caption: Para Jaime
@@ -59,10 +60,13 @@
   caption: Surfacing after SCUBA diving
 
 - path: /images/mypaintings/Time.jpg
-  caption: Time (do so see the problem?)
+  caption: Time (do you see the problem?)
 
 - path: /images/mypaintings/Yellow.jpg
   caption: Abstracto en Amarillo
 
-- path: /images/mypaintings/Life.jpg
-  caption: Una vida
+- path: /images/mypaintings/Parchment.jpg
+  caption: Abstracto en crudo y gris
+
+  - path: /images/mypaintings/Iteraciones.jpg
+  caption: Iteraciones
