@@ -1,5 +1,5 @@
 - path: /images/mypaintings/Surfacing.jpg
-  caption: Surfacing after SCUBA diving
+  caption: Surfacing
 
 - path: /images/mypaintings/Chicago.jpg
   caption: Chicago
@@ -8,7 +8,7 @@
   caption: Para Ariel y María
 
 - path: /images/mypaintings/Green.jpg
-  caption: Abstacto en Verde
+  caption: Abstracto en Verde
 
 - path: /images/mypaintings/Maya.jpg
   caption: Maya
@@ -60,6 +60,9 @@
 
 - path: /images/mypaintings/Sea.jpg
   caption: El Mar
+
+- path: /images/mypaintings/Life.jpg
+  caption: Life
 
 - path: /images/mypaintings/Time.jpg
   caption: Time (do you see the problem?)
