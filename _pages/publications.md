@@ -68,7 +68,9 @@ author_profile: true
   
 <div id="conference-proceedings"><h2>Conference Proceedings</h2></div> 
 <ul>
-    <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration" Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. <a href="https://www.scitepress.org/Papers/2022/110590/">DOI: 10.5220/0011059000003182</a>.</li>
+     <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain (upcoming)
+    <li>Sarmiento C., Lauría E., "Investigating Flavors of RAG for Applications in College Chatbots", Proceedings of the 17th International Conference of Computer Supported Education (CSEDU 2025), April 1-3, 2025, Porto, Portugal, Vol 2, pages 421-428. <a href="https://www.insticc.org/node/TechnicalProgram/CSEDU/2025/presentationDetails/134682"></a>.</li>
+    <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration", Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. <a href="https://www.scitepress.org/Papers/2022/110590/">DOI: 10.5220/0011059000003182</a>.</li>
   
     <li>Lauria, E. "Framing Early Alert of Struggling Students as an Anomaly Detection Problem: An Exploration", Proceedings of the 13th International Conference of Computer Supported Education (CSEDU 2021), online streaming, April 23-25, vol 1, 26-35. Shortlisted for Best Paper Award. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0010471900260035">DOI: 10.5220/0010471900260035</a>.</li>
    
