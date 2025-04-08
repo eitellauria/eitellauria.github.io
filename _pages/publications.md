@@ -68,7 +68,8 @@ author_profile: true
   
 <div id="conference-proceedings"><h2>Conference Proceedings</h2></div> 
 <ul>
-     <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain (upcoming)
+     <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain (upcoming).</li>
+         
     <li>Sarmiento C., Lauría E., "Investigating Flavors of RAG for Applications in College Chatbots", Proceedings of the 17th International Conference of Computer Supported Education (CSEDU 2025), April 1-3, 2025, Porto, Portugal, Vol 2, pages 421-428. <a href="https://www.insticc.org/node/TechnicalProgram/CSEDU/2025/presentationDetails/134682/">https://www.insticc.org/node/TechnicalProgram/CSEDU/2025/presentationDetails/134682/</a>.</li>
     
     <li>Gonzalez Bonorino A., Lauría E, Presutti E., "Implementing Open-Domain Question-Answering in a College Setting: An End-to-End Methodology and a Preliminary Exploration", Proceedings of the 14th International Conference of Computer Supported Education (CSEDU 2022), April 22-24, 2022, online streaming, Vol 2, pages 66-75. <a href="https://www.scitepress.org/Papers/2022/110590/">DOI: 10.5220/0011059000003182</a>.</li>
@@ -95,15 +96,15 @@ author_profile: true
   
     <li>Lauría E., Baron J., Devireddy M., Sundararaju V., Jayaprakash S. (2012), "Mining academic data to improve college student retention: An open-source perspective", Proceedings of LAK 2012 (Learning Analytics and Knowledge Conference), Vancouver, BC, Canada, April 29-May 2, 2012. <a href="https://dl.acm.org/doi/10.1145/2330601.2330637">https://dl.acm.org/doi/10.1145/2330601.2330637</a>.</li>
 
-     <li>Lauría E. , Baron E. (2011), “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics”,  Proceedings of ECC2011 (Enterprise Computing Community Conference 2011) , Marist College, Poughkeepsie, NY, June 2010.</li>
+     <li>Lauría E., Baron E. (2011), “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics”,  Proceedings of ECC2011 (Enterprise Computing Community Conference 2011) , Marist College, Poughkeepsie, NY, June 2010.</li>
  
-     <li>Lauría E. , Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0003042603470355"> DOI:10.5220/0003042603470355</a>.</li>
+     <li>Lauría E., Greco C. (2010), “OLAP for financial analysis and planning: a proof of concept”, Proceedings of ICSOFT 2010 (5th International Conference on Software and Data Technologies) / DMIA2010 (International Workshop on Data Management and Information Analytics), Athens, Greece, July 2010.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0003042603470355"> DOI:10.5220/0003042603470355</a>.</li>
 
      <li>Belardo S. Crnkovic J., Lauría E., "Developing an Instrument to Measure Trust in Organizations", Proceedings of Conf-IRM 2008 (International Conference on Information Resources Management), Niagara Falls, Canada, May 18-20, 2008.<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=confirm2008"> (AISeL link)</a>.</li>
  
      <li>Fisher C., Lauría E., Matheus C.,  “In search of an accuracy metric", Proceedings of the  12th international Conference on Information Quality (ICIQ-2007), Massachusetts Institute of Technology, November 2007.<a href="http://mitiq.mit.edu/iciq/pdf/in%20search%20of%20an%20accuracy%20metric.pdf"> (MIT IQ link)</a>.</li>
  
-     <li>Klingenberg, B., Lauría, E .,"Teaching the Global Dimensions of Technology Management: A Framework for Course development", Proceedings of PICMET ' 07, Portland, OR, August 2007. <a href="https://ieeexplore.ieee.org/document/4349469">DOI: 10.1109/PICMET.2007.4349469</a>.</li>
+     <li>Klingenberg, B., Lauría, E.,"Teaching the Global Dimensions of Technology Management: A Framework for Course development", Proceedings of PICMET ' 07, Portland, OR, August 2007. <a href="https://ieeexplore.ieee.org/document/4349469">DOI: 10.1109/PICMET.2007.4349469</a>.</li>
    
      <li>Lauría E., March A., "Misplacing the code: An examination of data quality issues in Bayesian text classification for automated coding of medical diagnoses", Proceedings of IRMA 2007 (Information Resource Management Association) International Conference, Vancouver, May 2007. <a href="https://www.irma-international.org/proceeding-paper/misplacing-code-examination-data-quality/33303/">(IRMA link)</a>.</li>
 
@@ -113,7 +114,7 @@ author_profile: true
   
      <li>Lauría E, Iacub P., Rozenfarb D., "Overcoming the Limitations of the ERP paradigm: a Latin American Exploration", Proceedings of IRMA 2005 (Information Resource Management Association) International Conference, San Diego, May 2005. <a href="https://foxweb.marist.edu/users/jf4n/Research/Papers/IRMA205.pdf">(Paper)</a>.</li>
 
-     <li> March A, Lauría E., Lantos J. ,"Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004. <a href="https://foxweb.marist.edu/users/jf4n/Research/Papers/Automated_icd9-cm_coding_employing_bayes.pdf">(Paper)</a>.</li>
+     <li> March A, Lauría E., Lantos J., "Automated ICD9-CM coding employing Bayesian machine learning: a preliminary exploration", Proceedings of SIS2004 (Simposio de Informática y Salud - SADIO),  33rd Conference on Computer Science & Operational Research, Buenos Aires, Argentina, Sept 20-24, 2004. <a href="https://foxweb.marist.edu/users/jf4n/Research/Papers/Automated_icd9-cm_coding_employing_bayes.pdf">(Paper)</a>.</li>
 
      <li> Lauría E, Duchessi P, "A Bayesian Belief Network-driven Decision Support System for Client-server Implementation", Proceedings of 2004 IFIP International Conference on Decision Support Systems, Prato, Italy, July 2004 <a href="https://doi.org/10.1016/j.dss.2006.01.003">https://doi.org/10.1016/j.dss.2006.01.003</a>.</li>
 
@@ -137,9 +138,9 @@ author_profile: true
 
      <li>Lauría E., "GPT-like models", Educational Technology Insights, 2023. Opinion piece (an extended version of The Generative AI Conundrum article) <a href="https://education-technology-canada.educationtechnologyinsights.com/cxoinsights/gptlike-models-nid-2523.html">(click here)</a>.</li>
       
-     <li>Gonzalez Bonorino A., Lauría E, , "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
+     <li>Gonzalez Bonorino A., Lauría E., "AutoKevin: A Semi-Autonomous AI Knowledge Discovery System for Higher Education", 2023 Enterprise Computing Conference, Marist College, June 11-13, 2023. First Place Presentation Award in the Academic Track. <a href="https://ecc.marist.edu/documents/2978505/2980816/Augusto+Gonzalez+Bonorino/ff6cdd26-345d-4835-964b-30d5c6a19531">(click here)</a>.</li>  
 
-     <li>Lauría E., "Machine Learning and the rise of data-driven AI: what's all the fuzz about?",Poughkeepsie Chapter of the Association For Computing Machinery (ACM), March 20, 2023 <a href="https://pok.acm.org/meetings/meeting23.03.html">(click here)</a>.</li>
+     <li>Lauría E., "Machine Learning and the rise of data-driven AI: what's all the fuzz about?", Poughkeepsie Chapter of the Association For Computing Machinery (ACM), March 20, 2023 <a href="https://pok.acm.org/meetings/meeting23.03.html">(click here)</a>.</li>
 
      <li>Lauría E., "The Future of Student Performance Prediction is Data-driven Analytics", Educational Technology Insights, May 2022. Interview <a href="https://student-information.educationtechnologyinsights.com/cxoinsights/the-future-of-student-performance-prediction-is-datadriven-analytics-nid-1974.html">(click here)</a>.</li>
         
@@ -165,7 +166,7 @@ author_profile: true
   
     <li>Panel at Apache Spark Maker Community Event, Galvanize, San Francisco, (IBM-sponsored event). June 6, 2016.</li>
   
-    <li>Lauría E. ,  “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics” (presentation of the Open Academic Analytics Initiave and discussion of preliminary results), IBM Academy of Technology Affiliates, October 4, 2011.</li>
+    <li>Lauría E.,  “Mining Sakai to Measure Student Performance: Opportunities and Challenges in Academic Analytics” (presentation of the Open Academic Analytics Initiative and discussion of preliminary results), IBM Academy of Technology Affiliates, October 4, 2011.</li>
   
     <li>Lauría, E., Gold E., Curriculum Work Session and Panel on Business Intelligence and Business Analytics, ECC2010 (2nd Enterprise Computing Community National Conference), Marist College, Poughkeepsie, NY, June 13-15, 2010.</li>
  
