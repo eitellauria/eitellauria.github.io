@@ -123,7 +123,7 @@ author_profile: true
   
      <li>March A, Lauría E., Meli F., "Computer Assisted Diagnosis Using Neural Networks. An Application for brain tumor diagnosis using computer axial tomography", Proceedings of the 1st International Conference of Medical Informatics, Buenos Aires, 1992.</li>
 
-</ul> 
+</ul>
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
