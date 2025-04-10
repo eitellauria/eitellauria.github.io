@@ -5,19 +5,19 @@
   caption: Chicago
 
 - path: /images/mypaintings/ArielyMaria.jpg
-  caption: Para Ariel y María
+  caption: Dawn at sea
 
 - path: /images/mypaintings/Green.jpg
-  caption: Abstracto en Verde
+  caption: Primordial Green
 
 - path: /images/mypaintings/Maya.jpg
   caption: Maya
 
 - path: /images/mypaintings/CarlosyMaria.jpg
-  caption: Para Carlos y María
+  caption: Pueblo de noche
   
 - path: /images/mypaintings/CarlosyVicky(colab).jpg
-  caption: Con Carlos y Vicky (colaboración)
+  caption: Painting with friends
 
 - path: /images/mypaintings/ChippedPaint.jpg
   caption: Madera pintada
@@ -25,14 +25,11 @@
 - path: /images/mypaintings/Fire.jpg
   caption: Fire
 
-- path: /images/mypaintings/Flor.jpg
-  caption: Para Flor (College)
-
 - path: /images/mypaintings/Flowers.jpg
   caption: Flowers
 
 - path: /images/mypaintings/Jaime.jpg
-  caption: Para Jaime
+  caption: Tempest and Flame
 
 - path: /images/mypaintings/Lava.jpg
   caption: Lava
@@ -53,7 +50,7 @@
   caption: Mercurio
 
 - path: /images/mypaintings/Postdam.jpg
-  caption: Para los Belos (Postdam)
+  caption: Postdam
 
 - path: /images/mypaintings/Spain.jpg
   caption: España de a trazos 
@@ -68,10 +65,10 @@
   caption: Time (do you see the problem?)
 
 - path: /images/mypaintings/Yellow.jpg
-  caption: Abstracto en Amarillo
+  caption: Ocaso Otoñal
 
 - path: /images/mypaintings/Parchment.jpg
-  caption: Abstracto en crudo y gris
+  caption: Urban Concrete
 
 - path: /images/mypaintings/Iteraciones.jpg
   caption: Iteraciones
