@@ -22,7 +22,8 @@ author_profile: true
 	<li> We can meet by appointment over Zoom.</li>
      </ul>
     <br>
-    My Zoom meeting room:<a href="https://marist-edu.zoom.us/j/9581819394">https://marist-edu.zoom.us/j/9581819394</a>
+    If you need an appointment, please email me and we can set up a meeting via Zoom.  <br>
+    My Zoom meeting room: <a href="https://marist-edu.zoom.us/j/9581819394">https://marist-edu.zoom.us/j/9581819394</a>
   </div>
 </div>
 
