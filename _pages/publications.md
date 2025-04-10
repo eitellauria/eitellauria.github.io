@@ -128,6 +128,9 @@ author_profile: true
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
+
+      <li>Gormanly B. Lauría E., "Harnessing the Power of AI: Effective Prompting and Chain of Thought", Assessment Day: Academic Conversations, Marist College, April 9, 2025.</li>
+      
      <li>Lauría E., "Más Allá de la Máquina: Inteligencia Artificial en la Encrucijada de la Historia", ECIFACET 2024 - Encuentro Científico de Investigadores de la FACET, Universidad Nacional de Tucumán - Facultad de Ciencias Exactas y Tecnología, June 4 2024.</li>
      
     <li>Lauría E., "The Promise and Perils of Artificial Intelligence", Makers of History Lecture Series. D&H Canal Historical Society. March 22, 2024. <a href="https://youtu.be/VEn4UprBA8o?si=W99si7s8gWKF7Y9-&t=178">(click here)</a>.</li>
