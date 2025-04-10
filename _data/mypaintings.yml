@@ -10,6 +10,9 @@
 - path: /images/mypaintings/Green.jpg
   caption: Primordial Green
 
+- path: /images/mypaintings/Azeda.jpg
+  caption: Azeda
+
 - path: /images/mypaintings/Maya.jpg
   caption: Maya
 
@@ -20,7 +23,7 @@
   caption: Painting with friends
 
 - path: /images/mypaintings/ChippedPaint.jpg
-  caption: Madera pintada
+  caption: El Lenguaje de la Madera
 
 - path: /images/mypaintings/Fire.jpg
   caption: Fire
@@ -41,7 +44,7 @@
   caption: Tormenta en el mar
 
 - path: /images/mypaintings/Maiu.jpg
-  caption: Para Maiu (Deep Blue)
+  caption: Deep Blue
 
 - path: /images/mypaintings/MardelPlata.jpg
   caption: Puerto de Mar del Plata
@@ -59,7 +62,7 @@
   caption: El Mar
 
 - path: /images/mypaintings/Life.jpg
-  caption: Life
+  caption: Urban Fragments
 
 - path: /images/mypaintings/Time.jpg
   caption: Time (do you see the problem?)
@@ -68,7 +71,7 @@
   caption: Ocaso Otoñal
 
 - path: /images/mypaintings/Parchment.jpg
-  caption: Urban Concrete
+  caption: Concreto
 
 - path: /images/mypaintings/Iteraciones.jpg
   caption: Iteraciones
