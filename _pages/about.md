@@ -11,7 +11,7 @@ redirect_from:
   <div style="flex: 1;">
     <img src="/images/Yo-2022-06-17-13-33-18.png" alt="Eitel Lauría" style="width: 50%; float: right; max-width: 100%; height: auto; margin: 10px;"/>
     <p>
-      My name is Eitel Lauría and I am a Professor of Data Science and Information Systems at the 
+      My name is Eitel Lauría and I am a <a href="https://www.marist.edu/computer-science-math">Professor of Data Science and Information Systems</a> at the  
       <a href="https://www.marist.edu/computer-science-math">School of Computer Science and Mathematics, Marist University, Poughkeepsie, NY</a>.
     </p>
     <p>
