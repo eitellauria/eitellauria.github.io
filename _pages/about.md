@@ -348,11 +348,7 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </li>
 </ul>
 </blockquote></details>
-<details><summary>My Paintings</summary><blockquote>
-<ul>
- 	<li><a href="/mypaintings/">Galería de Arte</a></li>
-</ul>
-</blockquote></details>
+
 
 <h2>Great Quotes</h2>
 <div>
