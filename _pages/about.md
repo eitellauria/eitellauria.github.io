@@ -201,6 +201,9 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
  	<li>
 <a href="http://www.helenshulman.com/">Helen Shulman's paintings</a>
 </li>
+<li>
+<a href="https://www.eitellauria.ar/mypaintings/">My paintings</a>
+</li>
 </ul>
 </blockquote></details>
 <details><summary>A touch of humor</summary><blockquote>
