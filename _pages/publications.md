@@ -68,7 +68,7 @@ author_profile: true
   
 <div id="conference-proceedings"><h2>Conference Proceedings</h2></div> 
 <ul>
-    <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain. <a href="https://data.scitevents.org/PreviousAwards.aspx?y=2026" target="_blank">Best Paper Award</a></li>
+    <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain. <a href="https://data.scitevents.org/PreviousAwards.aspx?y=2026" target="_blank">Best Paper Award</a> <a href="{{ '/files/DATA_2025_78.pdf' | relative_url }}" target="_blank">📄</a></li>
         
     <li>Sarmiento C., Lauría E., "Investigating Flavors of RAG for Applications in College Chatbots", Proceedings of the 17th International Conference of Computer Supported Education (CSEDU 2025), April 1-3, 2025, Porto, Portugal, Vol 2, pages 421-428. <a href="https://www.insticc.org/node/TechnicalProgram/CSEDU/2025/presentationDetails/134682/">https://www.insticc.org/node/TechnicalProgram/CSEDU/2025/presentationDetails/134682/</a>.</li>
     
