@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Check - Done - Listo"
+title: "December 2022 update: Check - Done - Listo"
 permalink: /thirdstar/
 author_profile: true
 ---
