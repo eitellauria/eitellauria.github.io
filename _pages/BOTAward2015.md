@@ -44,7 +44,7 @@ Dear members of the Board of Trustees, President Murray, Vice President Wermuth,
 
 Excuse me if I sound a little nervous.  Those who know me well, also know that I don’t like the limelight.  And this event is by definition the nicest way to put me on the spot. I am flattered to have been chosen for this award, and humbled by the list of recipients who have preceded me.
 
-I’ve always regarded myself as fortunate, but not because I’ve seen Argentina win the Soccer World Cup twice (I am hoping for a third time if we can get the Germans off our back  :).
+I’ve always regarded myself as fortunate, but not because I’ve seen Argentina win the Soccer World Cup twice (I am hoping for a <a href="/thirdstar/">third time</a> if we can get the Germans off our back  :).
 
 I think I’m lucky because throughout my life I have been able to do pretty much what I wanted to do.  Let me explain:
 
