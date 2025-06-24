@@ -3,10 +3,6 @@ title: "Unbeliever's Quest"
 permalink: /unbeliever/
 author_profile: true
 ---
-<div class="carlsagan">
-    <img src="https://www.seti.org/sites/default/files/styles/image_gallery/public/2021-11/Carl-Sagan-440px_0.jpg"/>
-</div>
-
 <!-- Include more content here as needed -->
 
 <a id="bottom-text"></a>
