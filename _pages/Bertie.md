@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-Shell I, St. Alban’s College, Lomas de Zamora, May 1973, 9 AM approx.
+**Shell I, St. Alban’s College, Lomas de Zamora, May 1973, 9 AM approx.**
 
 The bearded headmaster walks into the classroom and tells the students that the history teacher is absent for the day and that he will take her place. Absolute silence in the room. Everyone fears La Berta. So having him as a substitute teacher is considered torture. The headmaster-turned-instructor inquires about the session’s topic, borrows the textbook on the history of Britain from one of the students, and briefly browses through it. Then he walks up to the platform where his desk is located, and, staring down at the class, whispers, “Sugar…”.
 
