@@ -4,7 +4,7 @@ permalink: /Bertie/
 author_profile: true
 ---
 
-<img src="/images/Bertie.png" align="right" style="margin-right: 15px; width: 150px;" />
+<img src="/images/Bertie.png" align="left" style="margin-left: 15px; width: 600px;" />
 
 (1936-2025)<br>
 
