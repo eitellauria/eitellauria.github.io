@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 (1936-2025)<br><br>
-<img src="/images/Bertie.png" align="left" style="margin-left: 15px; width: 400px;" />
-<br>
+<img src="/images/Bertie.png" align="left" style="margin-left: 15px; width: 300px;" />
 
 
 
