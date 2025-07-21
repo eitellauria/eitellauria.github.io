@@ -4,9 +4,10 @@ permalink: /Bertie/
 author_profile: true
 ---
 
+(1936-2025)<br>
 <img src="/images/Bertie.png" align="left" style="margin-left: 15px; width: 600px;" />
 
-(1936-2025)<br>
+
 
 
 Shell I, St. Alban’s College, Lomas de Zamora, May 1973, 9 AM approx.
