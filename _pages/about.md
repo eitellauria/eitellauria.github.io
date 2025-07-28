@@ -152,7 +152,12 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </li>
  	<li><a href="https://scikit-learn.org/stable/" target="_blank" >Scikit-Learn</a></li>
 </ul>
+  
 </blockquote></details>
+<details><summary>My paintings</summary><blockquote>
+  <a href="/mypaintings/">Art Gallery</a> 
+</blockquote></details>
+
 <details><summary>Miscelanea</summary><blockquote>
 <ul>
  	<li>
