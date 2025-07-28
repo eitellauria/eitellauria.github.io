@@ -46,7 +46,7 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
   <a href="https://foxweb.marist.edu/users/jf4n/el_ingeniero_y_yo.htm">Eitel Lauría by Eitel Lauría</a>
   -->
 </blockquote></details>
-<details><summary>My Education</summary><blockquote>
+<details><summary>My education</summary><blockquote>
   <ul>
  	<li>
     <a href="https://www.albany.edu/cehc/programs/phd-information-science">Inf. Science UAlbany</a>
@@ -60,12 +60,15 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
  	<li>
     <a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto">Universidad de Deusto</a>
   </li>
- 	<li>
+  <li>
     <a href="http://www.fi.uba.ar/">UBA - Engineering</a>
   </li>
- 	<li>
-<a href="https://stalbans.esc.edu.ar/">St. Alban's College</a>
-</li>
+    <li>
+   <a href="/Bertie/">Bertie Noble</a>
+  </li>  
+  <li>
+   <a href="https://stalbans.esc.edu.ar/">St. Alban's College</a>
+  </li>
 </ul>
 </blockquote></details>
 <details><summary>Some of my students</summary><blockquote>
