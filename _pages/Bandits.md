@@ -34,7 +34,7 @@ nuevos), una oreja machucada y que hoy parezco Robocop (camino durito, <br>
 cuadradito), estoy bastante bien. En cuanto al Topo, jugó fiel a su <br>
 estilo. Muy incisivo, poco aire, mucho contacto físico, mucho roce. <br>
 Eso sí, no ha perdido ni las mañas ni la capacidad de reacción. <br>
-Lo nuestro fue muy decoroso. Perdimos por un try de direferencia (6 a 5 <br>
+Lo nuestro fue muy decoroso. Perdimos por un try de diferencia (6 a 5 <br>
 creo) contra un equipo muy organizado en los forwards, que se entrena <br>
 y juega seguido y que tenía dos o tres tipos recién salidos de la <br>
 superior. De arranque nomás, nos hicieron 2 tries, pero después <br>
