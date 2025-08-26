@@ -4,7 +4,6 @@ permalink: /Bandits/
 author_profile: true
 ---
 
- **Nov 14, 1999** <br><br>
 <!-- 
 <img src="/images/Bandits.jpg" align="left" style="margin-right: 15px; width: 400px;" /> 
 -->
