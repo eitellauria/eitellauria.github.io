@@ -47,7 +47,7 @@ animal y varios tipos que seguramente jugaron con vos y que el Topo <br>
 puede identificar. Hay fotos, que llegarán por mail y/o via María . Y <br>
 hay un lugarcito en el equipo de los veteranos. Tenemos que jugar los tres <br>
 hermanos juntos. No sabés que lindo suenan los tapones de los botines <br>
-contra el pavimento a la salida del vestuario .. <br>
+contra el pavimento a la salida del vestuario ... <br>
 
 
 
