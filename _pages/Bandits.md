@@ -1,4 +1,4 @@
- ---
+---
 title: "El último partido"
 permalink: /Bandits/
 author_profile: true
