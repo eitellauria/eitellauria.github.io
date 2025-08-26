@@ -10,7 +10,7 @@ author_profile: true
 -->
 <a href="/images/Bandits.jpg" target="_blank" style="text-decoration: none;">
       <img src="/images/Bandits.jpg" alt="Bandits" 
-           style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px; max-width: 50%; height: auto; border: none;">
+           style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px; max-width: 100%; height: auto; border: none;">
     </a>
 
 
