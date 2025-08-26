@@ -1,5 +1,5 @@
 ---
-title: "My last rugby match (Nov 15, 1999) "
+title: "My last rugby match (Nov 14, 1999) "
 permalink: /Bandits/
 author_profile: true
 ---
