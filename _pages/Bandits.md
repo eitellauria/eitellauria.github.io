@@ -1,4 +1,4 @@
----
+ ---
 title: "My last rugby match"
 permalink: /Bandits/
 author_profile: true
@@ -22,7 +22,7 @@ CC:	Mariano Lauría <br>
 Subject: 20 años no es nada ...<br>
 
 La cita fue en Corimayo, el domingo 14 a las 16.00 hs, contra San Cirano.<br>
-Despues deuna punta de años, el Turco se calzó los botines y salió a <br>
+Despues de una punta de años, el Turco se calzó los botines y salió a <br>
 la cancha. El Topo de inside, yo de ala izquierdo (en el útimo tiempo, <br>
 para que me terminara de convencer que estaba de vuelta, formé de 2da línea).<br>
 Decían por ahí que solo faltaba el famoso handoff del Caño.<br>
