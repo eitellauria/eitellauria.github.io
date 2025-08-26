@@ -40,14 +40,14 @@ superior. De arranque nomás, nos hicieron 2 tries, pero después <br>
 emparejamos y la verdad es que estaba para cualquiera. <br>
 El equipo incluyó al Gordo Rossi (organizador), el Colorado Jones, <br>
 Zorba, Dicky Darío, Robert MacGaw, Tobas grande y chico, Paul Vibart, <br>
-Omson chico, Brian Clarke, Dicky Dario, el medio scrum Pitufo ( un <br>
-flaquito chiquito que tiene un estado y un juego impresionante y que <br>
+Omson chico, Brian Clarke, el medio scrum Pitufo (un flaquito <br>
+chiquito que tiene un estado y un juego impresionante y que <br>
 fue la figura de la cancha), un grandote de Monte Grande que era un <br>
 animal y varios tipos que seguramente jugaron con vos y que el Topo <br>
 puede identificar. Hay fotos, que llegarán por mail y/o via María . Y <br>
 hay un lugarcito en el equipo de los veterans. Tenemos que jugar los tres <br>
-hermanos juntos. No sabés que lindo suenan los tapones contra el <br>
-pavimento a la salida del vestuario .. <br>
+hermanos juntos. No sabés que lindo suenan los tapones de los botines <br>
+contra el pavimento a la salida del vestuario .. <br>
 
 
 
