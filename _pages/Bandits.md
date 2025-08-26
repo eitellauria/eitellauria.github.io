@@ -1,5 +1,5 @@
  ---
-title: "Ultimo partido"
+title: "EL último partido"
 permalink: /Bandits/
 author_profile: true
 ---
