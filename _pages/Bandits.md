@@ -10,7 +10,7 @@ author_profile: true
 -->
 <a href="/images/Bandits.jpg" target="_blank" style="text-decoration: none;">
       <img src="/images/Bandits.jpg" alt="Bandits" 
-           style="float: left; margin-right: 20px; margin-bottom: 10px; width: 200px; max-width: 50%; height: auto; border: none;">
+           style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px; max-width: 50%; height: auto; border: none;">
     </a>
 
 
@@ -18,6 +18,6 @@ author_profile: true
 
 
 
-**Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi**
+**Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi.**
 
 Hay un poco de todo: algunos, como yo, bastante veteranos, otros recién salidos de la superior. Está el Topo, segundo desde la izquierda abajo. 
