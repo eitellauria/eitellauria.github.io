@@ -1,5 +1,5 @@
  ---
-title: "My last rugby match"
+title: "Ultimo partido"
 permalink: /Bandits/
 author_profile: true
 ---
