@@ -18,7 +18,7 @@ author_profile: true
 From:	Eitel Lauría <br>
 Sent:	Monday, November 15, 1999 09:07 <br>
 To:	Carlos Lauría <br>
-CC:	Mariano Lauria <br>
+CC:	Mariano Lauría <br>
 Subject: 20 años no es nada ...<br>
 
 La cita fue en Corimayo, el domingo 14 a las 16.00 hs, contra San Cirano.<br>
