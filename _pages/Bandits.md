@@ -9,6 +9,6 @@ author_profile: true
 
 
 
-**Los Bandits (una banda de OPs organizada por el gordo Rossi)**
+**Los Bandits (una banda de OPs organizada por Carlos Rossi)**
 
 Hay un poco de todo: algunos muy veteranos, otros recién salidos de 1ra. Está el Topo, segundo desde la izquierda abajo. 
