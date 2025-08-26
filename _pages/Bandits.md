@@ -1,5 +1,5 @@
 ---
-title: "My last rugby game (Nov 15, 1999) "
+title: "My last rugby match (Nov 15, 1999) "
 permalink: /Bandits/
 author_profile: true
 ---
@@ -18,6 +18,6 @@ author_profile: true
 
 
 
-**Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi.**
-
+**Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi.**<br>
+Jugamos contra San Cirano.<br>
 Hay un poco de todo: algunos, como yo, bastante veteranos, otros recién salidos de la superior. Está el Topo, segundo desde la izquierda abajo. 
