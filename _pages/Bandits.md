@@ -11,4 +11,4 @@ author_profile: true
 
 **Los Bandits (una banda de OPs organizada por Carlos Rossi)**
 
-Hay un poco de todo: algunos muy veteranos, otros recién salidos de 1ra. Está el Topo, segundo desde la izquierda abajo. 
+Hay un poco de todo: algunos, como yo, bastante veteranos, otros recién salidos de la superior. Está el Topo, segundo desde la izquierda abajo. 
