@@ -15,11 +15,11 @@ author_profile: true
 
 **Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi.**<br>
 
-From:	Eitel Lauría <br>
-Sent:	Monday, November 15, 1999 09:07 <br>
-To:	Carlos Lauría <br>
-CC:	Mariano Lauría <br>
-Subject: 20 años no es nada ...<br>
+**From:**	Eitel Lauría <br>
+**Sent:**	Monday, November 15, 1999 09:07 <br>
+**To:**	Carlos Lauría <br>
+**CC:**	Mariano Lauría <br>
+**Subject:** 20 años no es nada ...<br>
 
 La cita fue en Corimayo, el domingo 14 a las 16.00 hs, contra San Cirano.<br>
 Despues de una punta de años, el Turco se calzó los botines y salió a <br>
