@@ -9,6 +9,6 @@ author_profile: true
 
 
 
-**Los Bandits (una banda de OPs organizada por Carlos Rossi)**
+**Los Bandits: una banda (casi todos Old Philomathians) organizada por Carlos Rossi**
 
 Hay un poco de todo: algunos, como yo, bastante veteranos, otros recién salidos de la superior. Está el Topo, segundo desde la izquierda abajo. 
