@@ -5,7 +5,16 @@ author_profile: true
 ---
 
 (1936-2025)<br><br>
-<img src="/images/Bandits.jpg" align="left" style="margin-right: 15px; width: 400px;" />
+<!-- 
+<img src="/images/Bandits.jpg" align="left" style="margin-right: 15px; width: 400px;" /> 
+-->
+<a href="/images/Bandits.jpg" target="_blank" style="text-decoration: none;">
+      <img src="/images/Bandits.jpg" alt="Bandits" 
+           style="float: left; margin-right: 20px; margin-bottom: 10px; width: 200px; max-width: 50%; height: auto; border: none;">
+    </a>
+
+
+
 
 
 
