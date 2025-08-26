@@ -45,7 +45,7 @@ chiquito que tiene un estado y un juego impresionante y que <br>
 fue la figura de la cancha), un grandote de Monte Grande que era un <br>
 animal y varios tipos que seguramente jugaron con vos y que el Topo <br>
 puede identificar. Hay fotos, que llegarán por mail y/o via María . Y <br>
-hay un lugarcito en el equipo de los veterans. Tenemos que jugar los tres <br>
+hay un lugarcito en el equipo de los veteranos. Tenemos que jugar los tres <br>
 hermanos juntos. No sabés que lindo suenan los tapones de los botines <br>
 contra el pavimento a la salida del vestuario .. <br>
 
