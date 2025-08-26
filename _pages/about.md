@@ -358,7 +358,10 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 <a href="https://www.youtube.com/watch?v=sSvzNWQQl90" target="_blank" >White vs Gaultier</a>
 </li>
  	<li>
-<a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" >My SCUBA diving video clips</a>
+<a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" >Some of my SCUBA diving video clips</a>
+</li>
+<li>
+<a href="https://www.eitellauria.ar/Bandits/" target="_blank" >The last match</a>
 </li>
 </ul>
 </blockquote></details>
