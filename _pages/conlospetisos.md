@@ -4,7 +4,9 @@ permalink: /conlospetisos/
 author_profile: true
 ---
 
-<img src="/images/conlospetisos.jpg" style="margin-bottom: 15px; width: 250px;" />
+<a href="/images/conlospetisos.jpg" target="_blank">
+  <img src="/images/conlospetisos.jpg" style="margin-bottom: 15px; width: 250px;" />
+</a>
 
 - [En la cancha](https://vimeo.com/443080298/4e908111b8)
 - [Under the sea](https://vimeo.com/443853850/2296f6a278)
