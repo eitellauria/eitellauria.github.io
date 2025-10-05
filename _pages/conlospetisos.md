@@ -4,10 +4,7 @@ permalink: /conlospetisos/
 author_profile: true
 ---
 
-(1936-2025)<br><br>
-<img src="/images/conlospetisos.jpg" align="left" style="margin-right: 15px; width: 250px;" />
-
-
+<img src="/images/conlospetisos.jpg" style="margin-bottom: 15px; width: 250px;" />
 
 - [En la cancha](https://vimeo.com/443080298/4e908111b8)
 - [Under the sea](https://vimeo.com/443853850/2296f6a278)
