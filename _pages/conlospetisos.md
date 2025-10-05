@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 (1936-2025)<br><br>
-<img src="/images/conlospetisos" align="left" style="margin-right: 15px; width: 250px;" />
+<img src="/images/conlospetisos.jpg" align="left" style="margin-right: 15px; width: 250px;" />
 
 
 
