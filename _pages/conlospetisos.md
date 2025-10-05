@@ -23,6 +23,4 @@ author_profile: true
 
 ---
 
-**Los petisos son mu lindos lindo...**
-
-*(c) Mima y Tata enamorados perdidamente de Tomi y Ozzie. All rights reserved*
+**Los petisos son muy (muy) lindos...**
