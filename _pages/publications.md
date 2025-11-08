@@ -129,6 +129,8 @@ author_profile: true
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
 
+      <li> Lauría E., "Causal Inference and Machine Learning in Education: Part-Time Instruction and First-Semester Freshmen", MCC 2025 (Marist Computing Conference, November 7, 2025. 2nd place People's Choice Award</a> <a href="{{ '/files/MCC_2025.pdf' | relative_url }}" target="_blank">📄</a></li>
+      
       <li>Gormanly B., Lauría E., "Harnessing the Power of AI: Effective Prompting and Chain of Thought", Assessment Day: Academic Conversations, Marist College, April 9, 2025.</li>
       
      <li>Lauría E., "Más Allá de la Máquina: Inteligencia Artificial en la Encrucijada de la Historia", ECIFACET 2024 - Encuentro Científico de Investigadores de la FACET, Universidad Nacional de Tucumán - Facultad de Ciencias Exactas y Tecnología, June 4 2024.</li>
