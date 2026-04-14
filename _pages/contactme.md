@@ -21,7 +21,6 @@ author_profile: true
  	<li> Monday 10AM-12PM, 1PM-2PM</li>
 	<li> Wednesday 10AM-11AM</li>
 	<li> Thursday 10AM-12PM (Zoom)</li>	
-	<li> Or by appointment over Zoom.</li>
     </ul>
     <br>
     If you need an appointment, please email me and we can set up a meeting via Zoom.  <br>
