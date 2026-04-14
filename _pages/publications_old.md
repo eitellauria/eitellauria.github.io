@@ -6,26 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-<style>
-.presentation-img {
-  float: right;
-  width: 50%;
-  max-width: 400px;
-  height: auto;
-  margin: 10px 0 10px 20px;
-}
-@media (max-width: 600px) {
-  .presentation-img {
-    float: none;
-    display: block;
-    width: 100%;
-    max-width: 100%;
-    margin: 10px 0;
-  }
-}
-</style>
-
-<img src="/images/MyPresentation.jpg" alt="MyPresentation" class="presentation-img"/>
 
 <div id="menu">
     <ul>
