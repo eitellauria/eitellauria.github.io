@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 
-<div id="refereed-journal-articles"><h2>Journal Articles</h2></div> 
+<div id="refereed-journal-articles"><h2>Journal Articles</h2></div>  
 
   <ul>
     <li> Lauría E., "Drivers of Attrition in the First Year of College: A Bayesian Modeling Approach", SN Computer Science Journal, Research Trends on Data Science, Technology and Applications (DATA 2025), submitted 3-Dec-2025 (under revision)</li>
