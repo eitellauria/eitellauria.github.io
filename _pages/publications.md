@@ -130,7 +130,7 @@ author_profile: true
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
-      <li>"Agentic AI: Putting AI to Work for You" (Panel). <a href="https://www.dutchessny.gov/Departments/Central-Information-Services/2026-Hudson-Valley-Artificial-Intelligence-AI-Summit.htm">The 2026 Hudson Valley Artificial Intelligence (AI) Summit<\a>.<br>
+      <li>"Agentic AI: Putting AI to Work for You" (Panel). <a href="https://www.dutchessny.gov/Departments/Central-Information-Services/2026-Hudson-Valley-Artificial-Intelligence-AI-Summit.htm">The 2026 Hudson Valley Artificial Intelligence (AI) Summit</a>.<br>
           The 2026 Hudson Valley Artificial Intelligence (AI) Summit, co-hosted by Dutchess County Government and Marist University was held on the campus of Marist University in Poughkeepsie, NY. April 9th, 2026.   </li>
 
       <li> Lauría E., "Causal Inference and Machine Learning in Education: Part-Time Instruction and First-Semester Freshmen", MCC 2025 (Marist Computing Conference), November 7, 2025. Second Place People's Choice Award <a href="{{ '/files/MCC_2025.pdf' | relative_url }}" target="_blank">📄</a></li>
