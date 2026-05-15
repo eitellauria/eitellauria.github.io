@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-<img src="/images/MyPresentation.jpg" style="float: right; margin-left: 20px; max-width: 100%; height: auto;" class="align-right">
+ <!-- <img src="/images/MyPresentation.jpg" style="float: right; margin-left: 20px; max-width: 100%; height: auto;" class="align-right"> -->
 
 <div id="menu">
     <ul>
