@@ -22,7 +22,7 @@ author_profile: true
 <div id="refereed-journal-articles"><h2>Journal Articles</h2></div>  
 
   <ul>
-    <li> Lauría E., "Drivers of Attrition in the First Year of College: A Bayesian Modeling Approach", SN Computer Science Journal, Research Trends on Data Science, Technology and Applications (DATA 2025), submitted 3-Dec-2025 (accepted with revisions)</li>
+    <li> Lauría E., "Drivers of Attrition in the First Year of College: A Bayesian Modeling Approach", SN Computer Science Journal, Research Trends on Data Science, Technology and Applications (DATA 2025), submitted 3-Dec-2025 (accepted with revisions 15-4-2026)</li>
 
     <li>Damiano A., Lauría E., Sarmiento C., Zhao N., "Early Perceptions of Teaching and Learning Using Generative AI in Higher Education", Journal of Educational Technology Systems, Special Issue: Artificial Intelligence in Education, March 2024. <a href="https://doi.org/10.1177/00472395241233290">https://doi.org/10.1177/00472395241233290</a>. </li>
     
