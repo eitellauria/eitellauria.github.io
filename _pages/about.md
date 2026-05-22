@@ -85,18 +85,12 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 <a href="https://ai.google/" target="_blank" >Google AI</a>
 </li>
  	<li>
-<a href="https://openai.com/" target="_blank" >Open AI</a>
+<a href="https://claude.ai/" target="_blank" Claude</a>
 </li>
- 	<li>
-<a href="https://foxweb.marist.edu/users/jf4n/PostPredIntervals.htm" target="_blank" >Simulating Posterior Pred Intervals</a>
-</li>
- 	<li>
-<a href="https://foxweb.marist.edu/users/jf4n/LogBivariateLikelihood.htm" target="_blank" >Sampling by Markov Chain Monte Carlo</a>
-</li>
- 	<li>
+<li>
 <a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.51381&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=fals" target="_blank" >Neural net playground</a>
 </li>
- 	<li>
+<li>
 <a href="https://www.deeplearningbook.org/" target="_blank" >Deep Learning Book</a>
 </li>
  	<li>
