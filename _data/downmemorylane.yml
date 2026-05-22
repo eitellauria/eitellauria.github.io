@@ -34,6 +34,9 @@
 - path: "/images/downmemorylane/St. Alban's College.jpg"
   caption: St. Alban's College
 
+- path: /images/downmemorylane/DrFlor.JPG
+  caption: With Dr. Florencia Lauría (2024)
+
 - path: /images/downmemorylane/Jaime.jpg
   caption: Tempest and Flame (Acrylic, 18x24 inches, 2010)
 
@@ -42,6 +45,9 @@
 
 - path: /images/downmemorylane/australia.jpg
   caption:  Australia Dive Tour (Sept 1999)
+
+- path: /images/downmemorylane/Maia2017.jpg
+  caption: At Maia's Commencement (Fordham, 2017)
 
 - path: /images/downmemorylane/convicts.jpg
   caption: The Convicts (una banda :)
@@ -67,17 +73,23 @@
 - path: /images/downmemorylane/scubawithmaia.jpg
   caption: Scuba with Maia (Puerto Rico, 2007)
 
+- path: /images/downmemorylane/Roatan.JPG
+  caption: Roatan
+
 - path: /images/downmemorylane/ski2.jpg
   caption: Family Skiing (2001)
 
-- path: /images/downmemorylane/uw.jpg
-  caption: Decompression stop
+- path: /images/downmemorylane/Russia2018.jpg
+  caption: WC 2018 (Russia)
 
 - path: /images/downmemorylane/snow03.jpg
   caption: Snow Storm in Delmar
 
 - path: /images/downmemorylane/uw.jpg
   caption: Decompression stop (Coral Sea)
+
+- path: /images/downmemorylane/TimesSquare2022.jpg
+  caption: At Times Square, celebrating WC2022
 
 - path: /images/downmemorylane/WithRawal.jpg
   caption: With Rawal at the Court Club (2026)
