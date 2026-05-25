@@ -203,9 +203,6 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
  	<li>
 <a href="http://www.helenshulman.com/">Helen Shulman's paintings</a>
 </li>
-<li>
-<a href="https://www.eitellauria.ar/mypaintings/">My paintings</a>
-</li>
 </ul>
 </blockquote></details>
 <details><summary>A touch of humor</summary><blockquote>
@@ -285,6 +282,9 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
  	<li>
 <a href="http://www.clubsanalbano.com/">Club San Albano</a>
 </li>
+<li>
+<a href="https://www.eitellauria.ar/Bandits/" target="_blank" >The last match</a>
+</li>  
  	<li>
 <a href="https://lapaginamillonaria.com/">River PlateÂ </a>
 </li>
@@ -353,9 +353,6 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
 </li>
  	<li>
 <a href="https://www.youtube.com/playlist?list=PLC8lS6EGQ-Q50fsZXQyunY_ZVRfUCvvba" target="_blank" >Some of my SCUBA diving video clips</a>
-</li>
-<li>
-<a href="https://www.eitellauria.ar/Bandits/" target="_blank" >The last match</a>
 </li>
 </ul>
 </blockquote></details>
