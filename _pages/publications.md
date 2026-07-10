@@ -70,7 +70,7 @@ author_profile: true
   
 <div id="conference-proceedings"><h2>Conference Proceedings</h2></div> 
 <ul>
-    <li>Lauría E., "Causal Inference for Learning Analytics: The Effect of Part-Time Instruction on First-Year Students' Final Grades", Proceedings of the 18th International Conference of Computer Supported Education (CSEDU 2026), May 18-20, 2026, Benidorm, Spain. Volume 1, pages 233-240</li>
+    <li>Lauría E., "Causal Inference for Learning Analytics: The Effect of Part-Time Instruction on First-Year Students' Final Grades", Proceedings of the 18th International Conference of Computer Supported Education (CSEDU 2026), May 18-20, 2026, Benidorm, Spain. Volume 1, pages 233-240. <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0014666400004021"> DOI: 10.5220/0014666400004021</a>.</li>
   
     <li>Lauría E., "Predictors of Freshmen Attrition: A Case Study of Bayesian Methods and Probabilistic Programming", Proceedings of the 14th International Conference on Data Science, Technology and Applications (DATA 2025), June 10-12, 2025, Bilbao, Spain. <a href="https://data.scitevents.org/PreviousAwards.aspx?y=2026" target="_blank">Best Paper Award</a> <a href="{{ '/files/DATA_2025_78.pdf' | relative_url }}" target="_blank">📄</a></li>
         
