@@ -385,6 +385,11 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </div>
 <br>
 <div>
+    <i>"The line is made up of an infinite number of points, the plane of an infinite number of lines; the volume of an infinite number of planes; the hypervolume of an infinite number of volumes... No, unquestionably this is not —more geometrico— the best way to begin my story. To claim that it is true is nowadays the convention of every made-up story. Mine, however, 'is' true."</i><br>
+    <div style="color: #999999; text-align: left;">- from The Book of Sand, Jorge Luis Borges [1899-1986]</div>
+</div>
+<br>
+<div>
     <i>"Life is what happens to you while you're busy making other plans."</i><br>
     <div style="color: #999999; text-align: left;">- John Lennon [1940-1980]</div>
 </div>
