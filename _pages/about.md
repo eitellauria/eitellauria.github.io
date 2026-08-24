@@ -67,7 +67,7 @@ I was born and raised in Buenos Aires, Argentina, so IÂ  describe myself as an â
    <a href="/Bertie/">Bertie Noble</a>
   </li>  
   <li>
-   <a href="https://stalbans.esc.edu.ar/">St. Alban's College</a>
+   <a href="https://stalbans.esc.edu.ar/">St. Alban's College</a> <a href="https://youtu.be/ZqWvWVy1pEE?si=3t7nyj2TTFkjhdDv"> (video)</a>
   </li>
 </ul>
 </blockquote></details>
