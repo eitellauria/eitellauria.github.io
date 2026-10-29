@@ -134,6 +134,14 @@ author_profile: true
 
 <div id="selected-presentations"><h2>Selected Presentations</h2></div>   
  <ul>
+        <li> Lauría, E., Taylor, C., Fleishman, C., Presutti, E., Bardney, E., "A Monitoring Dashboard for First-Semester, First-Year Students", MCC 2026 (Marist Computing Conference), October 30, 2026. </li>          
+       
+       <li> Lauría E., "From Early Programs to Autonomous Agents: AI's 70-Year Journey and the Future It Is Creating", D&H Canal Historical Society - AI Symposium - October 16, 2026.</li>  
+
+       <li> Conyiers A., Damiano A., Lauría E., "Moral Panic and Social Media: A Large Language Model Approach to Theory-Driven Discourse Analysis​" (poster), Marist Academic Research & Creativity Conference (ARC), September 23, 2026.</li> 
+       
+        <li> Taylor, C., Fleishman, C., Lauría, E., Presutti, E., Bardney, E., "A Monitoring Dashboard for First-Semester, First-Year Students​" (poster), Marist Academic Research & Creativity Conference (ARC), September 23, 2026.</li>
+  
       <li>"Agentic AI: Putting AI to Work for You" (Panel). <a href="https://www.dutchessny.gov/Departments/Central-Information-Services/2026-Hudson-Valley-Artificial-Intelligence-AI-Summit.htm">The 2026 Hudson Valley Artificial Intelligence (AI) Summit</a>.<br>
           The 2026 Hudson Valley Artificial Intelligence (AI) Summit, co-hosted by Dutchess County Government and Marist University was held on the campus of Marist University in Poughkeepsie, NY. April 9th, 2026.   </li>
 
