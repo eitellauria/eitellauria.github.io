@@ -25,27 +25,26 @@ Spanish and English. <br>
 <h2>Work Experience</h2>
 
 <h3>Currently</h3>
-* Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist College.
-* Director of Graduate Programs, School of Computer Science & Mathematics, Marist College.
-* Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College.
+* Professor  of Data Science & Information Systems, School of Computer Science & Mathematics, Marist University.
+* Director of Graduate Programs, School of Computer Science & Mathematics, Marist University.
 
 <h3>2015-2021</h3>
-* Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
+* Professor of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
 * Director of Graduate Programs, School of Computer Science & Mathematics, Marist College.
 * Project Manager and Co-Principal Investigator at the Center for Cloud Computing and Analytics, Marist College.
 
 <h3>2008-2015</h3>
-* Associate Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
+* Associate Professor of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
 * Director of Information Systems Graduate Programs, School of Computer Science & Mathematics, Marist College.
 
 <h3>2003-2008</h3>
-* Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
+* Assistant Professor of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
 
 <h3>2002-2003</h3>
-* Visiting Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
+* Visiting Assistant Professor of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
 
 <h3>2002-2003</h3>
-* Visiting Assistant Professor  of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
+* Visiting Assistant Professor of Information Technology and Systems, School of Computer Science & Mathematics, Marist  College.
 
 <h3>2001-2002</h3>
 * Lecturer, Management Science and Information Systems Dept., School of Business, University at Albany , NY, USA.
@@ -57,7 +56,7 @@ Spanish and English. <br>
   * Responsible for the following IT resources and assets: Wide area network linking 12 buildings in the metropolitan area (Buenos Aires) and connecting the University Campus located in Pilar. Data Center with Unix (SUN), NT, Novell and Linux Servers; 400+ workstations (Windows NT,  Java Stations). Connectivity and interoperability among different platforms through TCP/IP, including  e-mail, groupware services and Internet access.
 
 <h3>1986-2000</h3>
-* Managing Partner at GLD Consultores, Argentine software and consulting company specialized in developing and implementing computer-based solutions for the corporate market. GLD is a Microsoft Solution Provider and Consulting Services Partner, and a local value added distributor for several American companies, including Applix (TM1), Quality America, and Financial Technologies.
+* Managing Partner at GLD Consultores, an Argentine software and consulting company specialized in developing and implementing computer-based solutions for the corporate market. GLD is a Microsoft Solution Provider and Consulting Services Partner, and a local value added distributor for several American companies, including Applix (TM1), Quality America, and Financial Technologies.
   * Job description and responsibilities: Planning, organization and management of IT projects. Design and development of marketing strategies concerning IT products and services. HR administration, including selection, allocation, supervision and assessment. Customer development and support.
 
   * During this period, he led numerous IT projects and has provided consulting and training in different industry segments, including telecommunications, oil and chemical, utility, transport and logistics, technology, manufacturing, retail, government. Customer list includes Acindar, AGF Argentina Cia de Seguros, Aerolíneas Argentinas, Aguas Argentinas, Andersen Consulting (Accenture), Austral Líneas Aéreas, Arthur Andersen, Astra CAPSA  (REPSOL), BASF, Bristol Myers Squibb, Datanet (Video Cable Comunicación), Eastman Chemical Argentina, EG3, Esso SAPA, Exxon Chemical Argentina, Hewlett Packard, Massalin Particulares (Philip Morris), Meta 4, Microsoft Argentina, Ministry of Economy, Ministry of Work, Pioneer Argentina, Reuters, Ryder Argentina, Ryder Brasil, TELECOM, Telefónica de Argentina.
