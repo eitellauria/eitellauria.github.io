@@ -136,7 +136,7 @@ author_profile: true
  <ul>
         <li> Lauría, E., Taylor, C., Fleishman, C., Presutti, E., Bardney, E., "A Monitoring Dashboard for First-Semester, First-Year Students", MCC 2026 (Marist Computing Conference), October 30, 2026. </li>          
        
-       <li> Lauría E., "From Early Programs to Autonomous Agents: AI's 70-Year Journey and the Future It Is Creating", D&H Canal Historical Society - AI Symposium - October 16, 2026.</li>  
+       <li> Lauría E., "From Early Programs to Autonomous Agents: AI's 70-Year Journey and the Future It Is Creating", D&H Canal Historical Society - AI Symposium: "Evaluating Artificial Intelligence from 10,000 feet", October 16, 2026.</li>  
 
        <li> Conyiers A., Damiano A., Lauría E., "Moral Panic and Social Media: A Large Language Model Approach to Theory-Driven Discourse Analysis​" (poster), Marist Academic Research & Creativity Conference (ARC), September 23, 2026.</li> 
        
