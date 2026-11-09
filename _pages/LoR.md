@@ -4,7 +4,7 @@ permalink: /LoR/
 author_profile: true
 ---
 
-**Letter of recommendation from a dear chilhood friend**<br>
+**from a dear chilhood friend**<br>
 
 To whom it may concern:
 
@@ -16,5 +16,5 @@ importance of Argentina as a player in the global scenario.
 So, I wish Eitel the best of luck in this new enterprise, and would like to offer my ex ante sincere condolences to you crazy people should this scheme meet with success. I would have liked to quote him being a decent squash player as a valuable qualification but I doubt whether it applies (and will anyway quickly go away together with intellectual abilities). But should this be the case and you really like Eitel, please consider it because, believe me, there is not much more to be found even on scraping the bottom of the pot with a laser beam.
 
 
----Alan March
+---Alan March <br>
 Mar 1, 2013 
