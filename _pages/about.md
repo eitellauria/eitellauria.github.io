@@ -207,6 +207,9 @@ I was born and raised in Buenos Aires, Argentina, so I  describe myself as an �
 </blockquote></details>
 <details><summary>A touch of humor</summary><blockquote>
 <ul>
+  <li>
+<a href="https://www.eitellauria.ar/LoR/" target="_blank" >A Letter of Recommendation</a>
+</li>  
  	<li>
 <a href="https://www.smart-jokes.org/two-cows-economics-explained.html" target="_blank" >Two Cows </a>
 </li>
