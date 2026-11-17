@@ -53,7 +53,7 @@ author_profile: true
 
 <div id="books-and-book-chapters"><h2>Books and Book Chapters</h2></div> 
    <ul>
-     <li>Lauría, E. (2026). Estimating the Causal Effect of Part-Time Instruction on Final Course Grades: A Multi-Method Study Across the Undergraduate Population. In: Meinel (eds) Computer Supported Education. CSEDU 2026. Revised Selected Papers. Communications in Computer and Information Science (upcoming). </li> 
+     <li>Lauría, E. (2027). Estimating the Causal Effect of Part-Time Instruction on Final Course Grades: A Multi-Method Study Across the Undergraduate Population. In: Meinel (eds) Computer Supported Education. CSEDU 2026. Revised Selected Papers. Communications in Computer and Information Science (upcoming). </li> 
       
     <li>Gonzalez-Bonorino, A., Lauría, E. (2023). Adaptive Kevin: A Multipurpose AI Assistant for Higher Education. In: Uhomoibhi, J. (eds) Computer Supported Education. CSEDU 2022. Revised Selected Papers. Communications in Computer and Information Science, vol 1817. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-40501-3_7">https://doi.org/10.1007/978-3-031-40501-3_7</a>. </li>    
     
